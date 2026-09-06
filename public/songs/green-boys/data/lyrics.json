@@ -1,0 +1,5629 @@
+{
+  "title": "Green boys",
+  "artist": "GReeeeN",
+  "durationMs": 231733.33299999998,
+  "fps": 60,
+  "source": {
+    "platform": "Kugou",
+    "lyricId": "169273813",
+    "candidateDurationMs": 231366,
+    "audioAlbum": "C、Dですと！?",
+    "lyricAlbum": "GReeeeN to All Sports Lovers",
+    "retrieval": "Current audio bytes used for native platform lookup; hash not retained",
+    "timing": "Native KRC timestamps, no global offset, no ASR or forced alignment",
+    "textReference": "https://www.uta-net.com/song/131274/",
+    "officialSong": "https://gre4n-boyz.com/discography/album/8",
+    "translation": "Chinese translation prepared from the complete Japanese text; not claimed as an official translation",
+    "validationBoundary": "Text completeness and platform identity checked. Native timings retained; no claim of human auditory verification."
+  },
+  "lines": [
+    {
+      "index": 0,
+      "kind": "credit",
+      "text": "Green boys - GReeeeN",
+      "startMs": 274,
+      "endMs": 1506,
+      "characters": [
+        {
+          "text": "Green ",
+          "index": 0,
+          "startMs": 274,
+          "endMs": 634,
+          "frame": 16,
+          "vocal": true
+        },
+        {
+          "text": "boys - ",
+          "index": 1,
+          "startMs": 634,
+          "endMs": 946,
+          "frame": 38,
+          "vocal": true
+        },
+        {
+          "text": "GReeeeN",
+          "index": 2,
+          "startMs": 946,
+          "endMs": 1506,
+          "frame": 57,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "kind": "credit",
+      "text": "词：GReeeeN",
+      "startMs": 1506,
+      "endMs": 2362,
+      "characters": [
+        {
+          "text": "词",
+          "index": 0,
+          "startMs": 1506,
+          "endMs": 1765,
+          "frame": 90,
+          "vocal": true
+        },
+        {
+          "text": "：",
+          "index": 1,
+          "startMs": 1765,
+          "endMs": 1765,
+          "frame": 106,
+          "vocal": false
+        },
+        {
+          "text": "GReeeeN",
+          "index": 2,
+          "startMs": 1765,
+          "endMs": 2362,
+          "frame": 106,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "kind": "credit",
+      "text": "曲：GReeeeN",
+      "startMs": 2362,
+      "endMs": 3546,
+      "characters": [
+        {
+          "text": "曲",
+          "index": 0,
+          "startMs": 2362,
+          "endMs": 2858,
+          "frame": 142,
+          "vocal": true
+        },
+        {
+          "text": "：",
+          "index": 1,
+          "startMs": 2858,
+          "endMs": 2858,
+          "frame": 171,
+          "vocal": false
+        },
+        {
+          "text": "GReeeeN",
+          "index": 2,
+          "startMs": 2858,
+          "endMs": 3546,
+          "frame": 171,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "kind": "credit",
+      "text": "编曲：JIN",
+      "startMs": 3546,
+      "endMs": 4666,
+      "characters": [
+        {
+          "text": "编",
+          "index": 0,
+          "startMs": 3546,
+          "endMs": 3786,
+          "frame": 213,
+          "vocal": true
+        },
+        {
+          "text": "曲",
+          "index": 1,
+          "startMs": 3786,
+          "endMs": 4266,
+          "frame": 227,
+          "vocal": true
+        },
+        {
+          "text": "：",
+          "index": 2,
+          "startMs": 4266,
+          "endMs": 4266,
+          "frame": 256,
+          "vocal": false
+        },
+        {
+          "text": "JIN",
+          "index": 3,
+          "startMs": 4266,
+          "endMs": 4666,
+          "frame": 256,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "kind": "lyric",
+      "text": "どうして？何で？僕だけだって",
+      "startMs": 10460,
+      "endMs": 13123,
+      "characters": [
+        {
+          "text": "ど",
+          "index": 0,
+          "startMs": 10460,
+          "endMs": 10616,
+          "frame": 628,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 1,
+          "startMs": 10616,
+          "endMs": 10772,
+          "frame": 637,
+          "vocal": true
+        },
+        {
+          "text": "し",
+          "index": 2,
+          "startMs": 10772,
+          "endMs": 10948,
+          "frame": 646,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 3,
+          "startMs": 10948,
+          "endMs": 11100,
+          "frame": 657,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 4,
+          "startMs": 11100,
+          "endMs": 11100,
+          "frame": 666,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 5,
+          "startMs": 11100,
+          "endMs": 11460,
+          "frame": 666,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 6,
+          "startMs": 11460,
+          "endMs": 11804,
+          "frame": 688,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 7,
+          "startMs": 11804,
+          "endMs": 11804,
+          "frame": 708,
+          "vocal": false
+        },
+        {
+          "text": "僕",
+          "index": 8,
+          "startMs": 11804,
+          "endMs": 12140,
+          "frame": 708,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 9,
+          "startMs": 12140,
+          "endMs": 12300,
+          "frame": 728,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 10,
+          "startMs": 12300,
+          "endMs": 12444,
+          "frame": 738,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 11,
+          "startMs": 12444,
+          "endMs": 12632,
+          "frame": 747,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 12,
+          "startMs": 12632,
+          "endMs": 12820,
+          "frame": 758,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 13,
+          "startMs": 12820,
+          "endMs": 13123,
+          "frame": 769,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "kind": "lyric",
+      "text": "思える日を抜けたい",
+      "startMs": 13123,
+      "endMs": 15793,
+      "characters": [
+        {
+          "text": "思",
+          "index": 0,
+          "startMs": 13123,
+          "endMs": 13491,
+          "frame": 787,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 1,
+          "startMs": 13491,
+          "endMs": 13668,
+          "frame": 809,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 2,
+          "startMs": 13668,
+          "endMs": 13835,
+          "frame": 820,
+          "vocal": true
+        },
+        {
+          "text": "日",
+          "index": 3,
+          "startMs": 13835,
+          "endMs": 14211,
+          "frame": 830,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 4,
+          "startMs": 14211,
+          "endMs": 14531,
+          "frame": 853,
+          "vocal": true
+        },
+        {
+          "text": "抜",
+          "index": 5,
+          "startMs": 14531,
+          "endMs": 14877,
+          "frame": 872,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 6,
+          "startMs": 14877,
+          "endMs": 15069,
+          "frame": 893,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 7,
+          "startMs": 15069,
+          "endMs": 15669,
+          "frame": 904,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 8,
+          "startMs": 15669,
+          "endMs": 15793,
+          "frame": 940,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "kind": "lyric",
+      "text": "いつも「無駄」って 逃げてばかりで",
+      "startMs": 15793,
+      "endMs": 18601,
+      "characters": [
+        {
+          "text": "い",
+          "index": 0,
+          "startMs": 15793,
+          "endMs": 15993,
+          "frame": 948,
+          "vocal": true
+        },
+        {
+          "text": "つ",
+          "index": 1,
+          "startMs": 15993,
+          "endMs": 16161,
+          "frame": 960,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 2,
+          "startMs": 16161,
+          "endMs": 16329,
+          "frame": 970,
+          "vocal": true
+        },
+        {
+          "text": "「",
+          "index": 3,
+          "startMs": 16329,
+          "endMs": 16329,
+          "frame": 980,
+          "vocal": false
+        },
+        {
+          "text": "無",
+          "index": 4,
+          "startMs": 16329,
+          "endMs": 16481,
+          "frame": 980,
+          "vocal": true
+        },
+        {
+          "text": "駄",
+          "index": 5,
+          "startMs": 16481,
+          "endMs": 16693,
+          "frame": 989,
+          "vocal": true
+        },
+        {
+          "text": "」",
+          "index": 6,
+          "startMs": 16693,
+          "endMs": 16905,
+          "frame": 1002,
+          "vocal": false
+        },
+        {
+          "text": "っ",
+          "index": 7,
+          "startMs": 16905,
+          "endMs": 16905,
+          "frame": 1014,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 8,
+          "startMs": 16905,
+          "endMs": 17233,
+          "frame": 1015,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 9,
+          "startMs": 17233,
+          "endMs": 17233,
+          "frame": 1034,
+          "vocal": false
+        },
+        {
+          "text": "逃",
+          "index": 10,
+          "startMs": 17233,
+          "endMs": 17409,
+          "frame": 1034,
+          "vocal": true
+        },
+        {
+          "text": "げ",
+          "index": 11,
+          "startMs": 17409,
+          "endMs": 17578,
+          "frame": 1045,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 12,
+          "startMs": 17578,
+          "endMs": 17745,
+          "frame": 1055,
+          "vocal": true
+        },
+        {
+          "text": "ば",
+          "index": 13,
+          "startMs": 17745,
+          "endMs": 17923,
+          "frame": 1065,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 14,
+          "startMs": 17923,
+          "endMs": 18081,
+          "frame": 1075,
+          "vocal": true
+        },
+        {
+          "text": "り",
+          "index": 15,
+          "startMs": 18081,
+          "endMs": 18219,
+          "frame": 1085,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 16,
+          "startMs": 18219,
+          "endMs": 18601,
+          "frame": 1093,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "kind": "lyric",
+      "text": "周りと比べてた",
+      "startMs": 18601,
+      "endMs": 21217,
+      "characters": [
+        {
+          "text": "周",
+          "index": 0,
+          "startMs": 18601,
+          "endMs": 18953,
+          "frame": 1116,
+          "vocal": true
+        },
+        {
+          "text": "り",
+          "index": 1,
+          "startMs": 18953,
+          "endMs": 19145,
+          "frame": 1137,
+          "vocal": true
+        },
+        {
+          "text": "と",
+          "index": 2,
+          "startMs": 19145,
+          "endMs": 19289,
+          "frame": 1149,
+          "vocal": true
+        },
+        {
+          "text": "比",
+          "index": 3,
+          "startMs": 19289,
+          "endMs": 19937,
+          "frame": 1157,
+          "vocal": true
+        },
+        {
+          "text": "べ",
+          "index": 4,
+          "startMs": 19937,
+          "endMs": 20273,
+          "frame": 1196,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 5,
+          "startMs": 20273,
+          "endMs": 20561,
+          "frame": 1216,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 6,
+          "startMs": 20561,
+          "endMs": 21217,
+          "frame": 1234,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "kind": "lyric",
+      "text": "誰も彼もが 初めは一緒",
+      "startMs": 21226,
+      "endMs": 23946,
+      "characters": [
+        {
+          "text": "誰",
+          "index": 0,
+          "startMs": 21226,
+          "endMs": 21569,
+          "frame": 1274,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 1,
+          "startMs": 21569,
+          "endMs": 21737,
+          "frame": 1294,
+          "vocal": true
+        },
+        {
+          "text": "彼",
+          "index": 2,
+          "startMs": 21737,
+          "endMs": 22065,
+          "frame": 1304,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 3,
+          "startMs": 22065,
+          "endMs": 22225,
+          "frame": 1324,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 4,
+          "startMs": 22225,
+          "endMs": 22601,
+          "frame": 1334,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 5,
+          "startMs": 22601,
+          "endMs": 22601,
+          "frame": 1356,
+          "vocal": false
+        },
+        {
+          "text": "初",
+          "index": 6,
+          "startMs": 22601,
+          "endMs": 22929,
+          "frame": 1356,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 7,
+          "startMs": 22929,
+          "endMs": 23082,
+          "frame": 1376,
+          "vocal": true
+        },
+        {
+          "text": "は",
+          "index": 8,
+          "startMs": 23082,
+          "endMs": 23235,
+          "frame": 1385,
+          "vocal": true
+        },
+        {
+          "text": "一",
+          "index": 9,
+          "startMs": 23235,
+          "endMs": 23593,
+          "frame": 1394,
+          "vocal": true
+        },
+        {
+          "text": "緒",
+          "index": 10,
+          "startMs": 23593,
+          "endMs": 23946,
+          "frame": 1416,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "kind": "lyric",
+      "text": "何処かで分かってた",
+      "startMs": 23946,
+      "endMs": 26394,
+      "characters": [
+        {
+          "text": "何",
+          "index": 0,
+          "startMs": 23946,
+          "endMs": 24105,
+          "frame": 1437,
+          "vocal": true
+        },
+        {
+          "text": "処",
+          "index": 1,
+          "startMs": 24105,
+          "endMs": 24268,
+          "frame": 1446,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 2,
+          "startMs": 24268,
+          "endMs": 24436,
+          "frame": 1456,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 3,
+          "startMs": 24436,
+          "endMs": 24585,
+          "frame": 1466,
+          "vocal": true
+        },
+        {
+          "text": "分",
+          "index": 4,
+          "startMs": 24585,
+          "endMs": 24921,
+          "frame": 1475,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 5,
+          "startMs": 24921,
+          "endMs": 25297,
+          "frame": 1495,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 6,
+          "startMs": 25297,
+          "endMs": 25673,
+          "frame": 1518,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 7,
+          "startMs": 25673,
+          "endMs": 25889,
+          "frame": 1540,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 8,
+          "startMs": 25889,
+          "endMs": 26394,
+          "frame": 1553,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "kind": "lyric",
+      "text": "どんないままで？関係なくて",
+      "startMs": 26673,
+      "endMs": 29363,
+      "characters": [
+        {
+          "text": "ど",
+          "index": 0,
+          "startMs": 26673,
+          "endMs": 26841,
+          "frame": 1600,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 1,
+          "startMs": 26841,
+          "endMs": 27009,
+          "frame": 1610,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 2,
+          "startMs": 27009,
+          "endMs": 27201,
+          "frame": 1621,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 27201,
+          "endMs": 27369,
+          "frame": 1632,
+          "vocal": true
+        },
+        {
+          "text": "ま",
+          "index": 4,
+          "startMs": 27369,
+          "endMs": 27545,
+          "frame": 1642,
+          "vocal": true
+        },
+        {
+          "text": "ま",
+          "index": 5,
+          "startMs": 27545,
+          "endMs": 27705,
+          "frame": 1653,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 6,
+          "startMs": 27705,
+          "endMs": 28041,
+          "frame": 1662,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 7,
+          "startMs": 28041,
+          "endMs": 28041,
+          "frame": 1682,
+          "vocal": false
+        },
+        {
+          "text": "関",
+          "index": 8,
+          "startMs": 28041,
+          "endMs": 28361,
+          "frame": 1682,
+          "vocal": true
+        },
+        {
+          "text": "係",
+          "index": 9,
+          "startMs": 28361,
+          "endMs": 28739,
+          "frame": 1702,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 10,
+          "startMs": 28739,
+          "endMs": 28913,
+          "frame": 1724,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 11,
+          "startMs": 28913,
+          "endMs": 29041,
+          "frame": 1735,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 12,
+          "startMs": 29041,
+          "endMs": 29363,
+          "frame": 1742,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "kind": "lyric",
+      "text": "とにかく進めばいい",
+      "startMs": 29363,
+      "endMs": 32140,
+      "characters": [
+        {
+          "text": "と",
+          "index": 0,
+          "startMs": 29363,
+          "endMs": 29539,
+          "frame": 1762,
+          "vocal": true
+        },
+        {
+          "text": "に",
+          "index": 1,
+          "startMs": 29539,
+          "endMs": 29706,
+          "frame": 1772,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 2,
+          "startMs": 29706,
+          "endMs": 29866,
+          "frame": 1782,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 3,
+          "startMs": 29866,
+          "endMs": 30034,
+          "frame": 1792,
+          "vocal": true
+        },
+        {
+          "text": "進",
+          "index": 4,
+          "startMs": 30034,
+          "endMs": 30714,
+          "frame": 1802,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 5,
+          "startMs": 30714,
+          "endMs": 31130,
+          "frame": 1843,
+          "vocal": true
+        },
+        {
+          "text": "ば",
+          "index": 6,
+          "startMs": 31130,
+          "endMs": 31318,
+          "frame": 1868,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 7,
+          "startMs": 31318,
+          "endMs": 31888,
+          "frame": 1879,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 8,
+          "startMs": 31888,
+          "endMs": 32140,
+          "frame": 1913,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "kind": "lyric",
+      "text": "くやしくて涙する事",
+      "startMs": 32140,
+      "endMs": 37427,
+      "characters": [
+        {
+          "text": "く",
+          "index": 0,
+          "startMs": 32140,
+          "endMs": 32461,
+          "frame": 1928,
+          "vocal": true
+        },
+        {
+          "text": "や",
+          "index": 1,
+          "startMs": 32461,
+          "endMs": 32780,
+          "frame": 1948,
+          "vocal": true
+        },
+        {
+          "text": "し",
+          "index": 2,
+          "startMs": 32780,
+          "endMs": 33372,
+          "frame": 1967,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 3,
+          "startMs": 33372,
+          "endMs": 34164,
+          "frame": 2002,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 4,
+          "startMs": 34164,
+          "endMs": 34797,
+          "frame": 2050,
+          "vocal": true
+        },
+        {
+          "text": "涙",
+          "index": 5,
+          "startMs": 34797,
+          "endMs": 35815,
+          "frame": 2088,
+          "vocal": true
+        },
+        {
+          "text": "す",
+          "index": 6,
+          "startMs": 35815,
+          "endMs": 36015,
+          "frame": 2149,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 7,
+          "startMs": 36015,
+          "endMs": 36575,
+          "frame": 2161,
+          "vocal": true
+        },
+        {
+          "text": "事",
+          "index": 8,
+          "startMs": 36575,
+          "endMs": 37427,
+          "frame": 2195,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "kind": "lyric",
+      "text": "あるんだろうけど",
+      "startMs": 37427,
+      "endMs": 40204,
+      "characters": [
+        {
+          "text": "あ",
+          "index": 0,
+          "startMs": 37427,
+          "endMs": 37733,
+          "frame": 2246,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 1,
+          "startMs": 37733,
+          "endMs": 38124,
+          "frame": 2264,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 2,
+          "startMs": 38124,
+          "endMs": 38515,
+          "frame": 2287,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 3,
+          "startMs": 38515,
+          "endMs": 38823,
+          "frame": 2311,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 4,
+          "startMs": 38823,
+          "endMs": 38982,
+          "frame": 2329,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 5,
+          "startMs": 38982,
+          "endMs": 39141,
+          "frame": 2339,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 6,
+          "startMs": 39141,
+          "endMs": 39474,
+          "frame": 2348,
+          "vocal": true
+        },
+        {
+          "text": "ど",
+          "index": 7,
+          "startMs": 39474,
+          "endMs": 40203,
+          "frame": 2368,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "kind": "lyric",
+      "text": "歩みを止めちゃ 変われないだろ",
+      "startMs": 40204,
+      "endMs": 45292,
+      "characters": [
+        {
+          "text": "歩",
+          "index": 0,
+          "startMs": 40204,
+          "endMs": 40540,
+          "frame": 2412,
+          "vocal": true
+        },
+        {
+          "text": "み",
+          "index": 1,
+          "startMs": 40540,
+          "endMs": 40684,
+          "frame": 2432,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 2,
+          "startMs": 40684,
+          "endMs": 40860,
+          "frame": 2441,
+          "vocal": true
+        },
+        {
+          "text": "止",
+          "index": 3,
+          "startMs": 40860,
+          "endMs": 41188,
+          "frame": 2452,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 4,
+          "startMs": 41188,
+          "endMs": 41429,
+          "frame": 2471,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 5,
+          "startMs": 41429,
+          "endMs": 41895,
+          "frame": 2486,
+          "vocal": true
+        },
+        {
+          "text": "ゃ",
+          "index": 6,
+          "startMs": 41895,
+          "endMs": 42361,
+          "frame": 2514,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 7,
+          "startMs": 42361,
+          "endMs": 42827,
+          "frame": 2542,
+          "vocal": false
+        },
+        {
+          "text": "変",
+          "index": 8,
+          "startMs": 42827,
+          "endMs": 42988,
+          "frame": 2570,
+          "vocal": true
+        },
+        {
+          "text": "わ",
+          "index": 9,
+          "startMs": 42988,
+          "endMs": 43188,
+          "frame": 2579,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 10,
+          "startMs": 43188,
+          "endMs": 43364,
+          "frame": 2591,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 11,
+          "startMs": 43364,
+          "endMs": 43540,
+          "frame": 2602,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 12,
+          "startMs": 43540,
+          "endMs": 44252,
+          "frame": 2612,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 13,
+          "startMs": 44252,
+          "endMs": 44892,
+          "frame": 2655,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 14,
+          "startMs": 44892,
+          "endMs": 45291,
+          "frame": 2694,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 45292,
+      "endMs": 48498,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 45292,
+          "endMs": 45636,
+          "frame": 2718,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 45636,
+          "endMs": 45812,
+          "frame": 2738,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 45812,
+          "endMs": 46189,
+          "frame": 2749,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 46189,
+          "endMs": 46500,
+          "frame": 2771,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 46500,
+          "endMs": 46828,
+          "frame": 2790,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 46828,
+          "endMs": 47252,
+          "frame": 2810,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 47252,
+          "endMs": 47252,
+          "frame": 2835,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 47252,
+          "endMs": 47551,
+          "frame": 2835,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 47551,
+          "endMs": 47895,
+          "frame": 2853,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 47895,
+          "endMs": 48207,
+          "frame": 2874,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 48207,
+          "endMs": 48498,
+          "frame": 2892,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "kind": "lyric",
+      "text": "立ち上がるから",
+      "startMs": 48498,
+      "endMs": 50899,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 48498,
+          "endMs": 48690,
+          "frame": 2910,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 48690,
+          "endMs": 48873,
+          "frame": 2921,
+          "vocal": true
+        },
+        {
+          "text": "上",
+          "index": 2,
+          "startMs": 48873,
+          "endMs": 49314,
+          "frame": 2932,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 3,
+          "startMs": 49314,
+          "endMs": 49482,
+          "frame": 2959,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 49482,
+          "endMs": 50018,
+          "frame": 2969,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 5,
+          "startMs": 50018,
+          "endMs": 50194,
+          "frame": 3001,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 6,
+          "startMs": 50194,
+          "endMs": 50899,
+          "frame": 3012,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "kind": "lyric",
+      "text": "越えて行くんだろ？",
+      "startMs": 50899,
+      "endMs": 53953,
+      "characters": [
+        {
+          "text": "越",
+          "index": 0,
+          "startMs": 50899,
+          "endMs": 51203,
+          "frame": 3054,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 1,
+          "startMs": 51203,
+          "endMs": 51571,
+          "frame": 3072,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 2,
+          "startMs": 51571,
+          "endMs": 52267,
+          "frame": 3094,
+          "vocal": true
+        },
+        {
+          "text": "行",
+          "index": 3,
+          "startMs": 52267,
+          "endMs": 52871,
+          "frame": 3136,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 4,
+          "startMs": 52871,
+          "endMs": 53137,
+          "frame": 3172,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 53137,
+          "endMs": 53486,
+          "frame": 3188,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 6,
+          "startMs": 53486,
+          "endMs": 53628,
+          "frame": 3209,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 7,
+          "startMs": 53628,
+          "endMs": 53952,
+          "frame": 3218,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 8,
+          "startMs": 53952,
+          "endMs": 53952,
+          "frame": 3237,
+          "vocal": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "kind": "lyric",
+      "text": "いつも信じてるから",
+      "startMs": 53953,
+      "endMs": 56185,
+      "characters": [
+        {
+          "text": "い",
+          "index": 0,
+          "startMs": 53953,
+          "endMs": 54106,
+          "frame": 3237,
+          "vocal": true
+        },
+        {
+          "text": "つ",
+          "index": 1,
+          "startMs": 54106,
+          "endMs": 54265,
+          "frame": 3246,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 2,
+          "startMs": 54265,
+          "endMs": 54465,
+          "frame": 3256,
+          "vocal": true
+        },
+        {
+          "text": "信",
+          "index": 3,
+          "startMs": 54465,
+          "endMs": 54843,
+          "frame": 3268,
+          "vocal": true
+        },
+        {
+          "text": "じ",
+          "index": 4,
+          "startMs": 54843,
+          "endMs": 55001,
+          "frame": 3291,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 5,
+          "startMs": 55001,
+          "endMs": 55177,
+          "frame": 3300,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 6,
+          "startMs": 55177,
+          "endMs": 55353,
+          "frame": 3311,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 7,
+          "startMs": 55353,
+          "endMs": 55513,
+          "frame": 3321,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 8,
+          "startMs": 55513,
+          "endMs": 56185,
+          "frame": 3331,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 56185,
+      "endMs": 59346,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 56185,
+          "endMs": 56522,
+          "frame": 3371,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 56522,
+          "endMs": 56685,
+          "frame": 3391,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 56685,
+          "endMs": 57002,
+          "frame": 3401,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 57002,
+          "endMs": 57337,
+          "frame": 3420,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 57337,
+          "endMs": 57649,
+          "frame": 3440,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 57649,
+          "endMs": 57994,
+          "frame": 3459,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 57994,
+          "endMs": 57994,
+          "frame": 3480,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 57994,
+          "endMs": 58362,
+          "frame": 3480,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 58362,
+          "endMs": 58714,
+          "frame": 3502,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 58714,
+          "endMs": 58898,
+          "frame": 3523,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 58898,
+          "endMs": 59346,
+          "frame": 3534,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "kind": "lyric",
+      "text": "立ち上がれるさ",
+      "startMs": 59346,
+      "endMs": 61682,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 59346,
+          "endMs": 59554,
+          "frame": 3561,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 59554,
+          "endMs": 59706,
+          "frame": 3573,
+          "vocal": true
+        },
+        {
+          "text": "上",
+          "index": 2,
+          "startMs": 59706,
+          "endMs": 60082,
+          "frame": 3582,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 3,
+          "startMs": 60082,
+          "endMs": 60314,
+          "frame": 3605,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 4,
+          "startMs": 60314,
+          "endMs": 60772,
+          "frame": 3619,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 5,
+          "startMs": 60772,
+          "endMs": 60970,
+          "frame": 3646,
+          "vocal": true
+        },
+        {
+          "text": "さ",
+          "index": 6,
+          "startMs": 60970,
+          "endMs": 61682,
+          "frame": 3658,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "kind": "lyric",
+      "text": "諦めないのが 僕らの道標",
+      "startMs": 61682,
+      "endMs": 68602,
+      "characters": [
+        {
+          "text": "諦",
+          "index": 0,
+          "startMs": 61682,
+          "endMs": 63018,
+          "frame": 3701,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 1,
+          "startMs": 63018,
+          "endMs": 63756,
+          "frame": 3781,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 2,
+          "startMs": 63756,
+          "endMs": 64035,
+          "frame": 3825,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 64035,
+          "endMs": 64173,
+          "frame": 3842,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 4,
+          "startMs": 64173,
+          "endMs": 64442,
+          "frame": 3850,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 5,
+          "startMs": 64442,
+          "endMs": 64786,
+          "frame": 3867,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 64786,
+          "endMs": 64786,
+          "frame": 3887,
+          "vocal": false
+        },
+        {
+          "text": "僕",
+          "index": 7,
+          "startMs": 64786,
+          "endMs": 65125,
+          "frame": 3887,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 8,
+          "startMs": 65125,
+          "endMs": 65361,
+          "frame": 3908,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 9,
+          "startMs": 65361,
+          "endMs": 65602,
+          "frame": 3922,
+          "vocal": true
+        },
+        {
+          "text": "道",
+          "index": 10,
+          "startMs": 65602,
+          "endMs": 65930,
+          "frame": 3936,
+          "vocal": true
+        },
+        {
+          "text": "標",
+          "index": 11,
+          "startMs": 65930,
+          "endMs": 68602,
+          "frame": 3956,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "kind": "lyric",
+      "text": "不安はいつも 僕の勇気を",
+      "startMs": 77926,
+      "endMs": 80510,
+      "characters": [
+        {
+          "text": "不",
+          "index": 0,
+          "startMs": 77926,
+          "endMs": 78086,
+          "frame": 4676,
+          "vocal": true
+        },
+        {
+          "text": "安",
+          "index": 1,
+          "startMs": 78086,
+          "endMs": 78406,
+          "frame": 4685,
+          "vocal": true
+        },
+        {
+          "text": "は",
+          "index": 2,
+          "startMs": 78406,
+          "endMs": 78574,
+          "frame": 4704,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 78574,
+          "endMs": 78742,
+          "frame": 4714,
+          "vocal": true
+        },
+        {
+          "text": "つ",
+          "index": 4,
+          "startMs": 78742,
+          "endMs": 78894,
+          "frame": 4725,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 78894,
+          "endMs": 79207,
+          "frame": 4734,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 79207,
+          "endMs": 79207,
+          "frame": 4752,
+          "vocal": false
+        },
+        {
+          "text": "僕",
+          "index": 7,
+          "startMs": 79207,
+          "endMs": 79542,
+          "frame": 4752,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 8,
+          "startMs": 79542,
+          "endMs": 79726,
+          "frame": 4773,
+          "vocal": true
+        },
+        {
+          "text": "勇",
+          "index": 9,
+          "startMs": 79726,
+          "endMs": 80110,
+          "frame": 4784,
+          "vocal": true
+        },
+        {
+          "text": "気",
+          "index": 10,
+          "startMs": 80110,
+          "endMs": 80246,
+          "frame": 4807,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 11,
+          "startMs": 80246,
+          "endMs": 80510,
+          "frame": 4815,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "kind": "lyric",
+      "text": "留まらそうとするけど",
+      "startMs": 80510,
+      "endMs": 83270,
+      "characters": [
+        {
+          "text": "留",
+          "index": 0,
+          "startMs": 80510,
+          "endMs": 80878,
+          "frame": 4831,
+          "vocal": true
+        },
+        {
+          "text": "ま",
+          "index": 1,
+          "startMs": 80878,
+          "endMs": 81063,
+          "frame": 4853,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 2,
+          "startMs": 81063,
+          "endMs": 81222,
+          "frame": 4864,
+          "vocal": true
+        },
+        {
+          "text": "そ",
+          "index": 3,
+          "startMs": 81222,
+          "endMs": 81442,
+          "frame": 4873,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 4,
+          "startMs": 81442,
+          "endMs": 81662,
+          "frame": 4887,
+          "vocal": true
+        },
+        {
+          "text": "と",
+          "index": 5,
+          "startMs": 81662,
+          "endMs": 81862,
+          "frame": 4900,
+          "vocal": true
+        },
+        {
+          "text": "す",
+          "index": 6,
+          "startMs": 81862,
+          "endMs": 81982,
+          "frame": 4912,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 7,
+          "startMs": 81982,
+          "endMs": 82350,
+          "frame": 4919,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 8,
+          "startMs": 82350,
+          "endMs": 82542,
+          "frame": 4941,
+          "vocal": true
+        },
+        {
+          "text": "ど",
+          "index": 9,
+          "startMs": 82542,
+          "endMs": 83270,
+          "frame": 4953,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "kind": "lyric",
+      "text": "雨の日だって 風の日だって",
+      "startMs": 83270,
+      "endMs": 85974,
+      "characters": [
+        {
+          "text": "雨",
+          "index": 0,
+          "startMs": 83270,
+          "endMs": 83623,
+          "frame": 4996,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 1,
+          "startMs": 83623,
+          "endMs": 83790,
+          "frame": 5017,
+          "vocal": true
+        },
+        {
+          "text": "日",
+          "index": 2,
+          "startMs": 83790,
+          "endMs": 83934,
+          "frame": 5027,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 3,
+          "startMs": 83934,
+          "endMs": 84126,
+          "frame": 5036,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 4,
+          "startMs": 84126,
+          "endMs": 84318,
+          "frame": 5048,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 5,
+          "startMs": 84318,
+          "endMs": 84614,
+          "frame": 5059,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 84614,
+          "endMs": 84614,
+          "frame": 5077,
+          "vocal": false
+        },
+        {
+          "text": "風",
+          "index": 7,
+          "startMs": 84614,
+          "endMs": 84950,
+          "frame": 5077,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 8,
+          "startMs": 84950,
+          "endMs": 85094,
+          "frame": 5097,
+          "vocal": true
+        },
+        {
+          "text": "日",
+          "index": 9,
+          "startMs": 85094,
+          "endMs": 85238,
+          "frame": 5106,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 10,
+          "startMs": 85238,
+          "endMs": 85446,
+          "frame": 5114,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 11,
+          "startMs": 85446,
+          "endMs": 85654,
+          "frame": 5127,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 12,
+          "startMs": 85654,
+          "endMs": 85974,
+          "frame": 5139,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "kind": "lyric",
+      "text": "進むから近づく",
+      "startMs": 85974,
+      "endMs": 88663,
+      "characters": [
+        {
+          "text": "進",
+          "index": 0,
+          "startMs": 85974,
+          "endMs": 86294,
+          "frame": 5158,
+          "vocal": true
+        },
+        {
+          "text": "む",
+          "index": 1,
+          "startMs": 86294,
+          "endMs": 86478,
+          "frame": 5178,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 2,
+          "startMs": 86478,
+          "endMs": 86654,
+          "frame": 5189,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 3,
+          "startMs": 86654,
+          "endMs": 87047,
+          "frame": 5199,
+          "vocal": true
+        },
+        {
+          "text": "近",
+          "index": 4,
+          "startMs": 87047,
+          "endMs": 87767,
+          "frame": 5223,
+          "vocal": true
+        },
+        {
+          "text": "づ",
+          "index": 5,
+          "startMs": 87767,
+          "endMs": 87993,
+          "frame": 5266,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 6,
+          "startMs": 87993,
+          "endMs": 88663,
+          "frame": 5280,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "kind": "lyric",
+      "text": "痛み失望 涙も全て",
+      "startMs": 88663,
+      "endMs": 91391,
+      "characters": [
+        {
+          "text": "痛",
+          "index": 0,
+          "startMs": 88663,
+          "endMs": 89079,
+          "frame": 5320,
+          "vocal": true
+        },
+        {
+          "text": "み",
+          "index": 1,
+          "startMs": 89079,
+          "endMs": 89256,
+          "frame": 5345,
+          "vocal": true
+        },
+        {
+          "text": "失",
+          "index": 2,
+          "startMs": 89256,
+          "endMs": 89735,
+          "frame": 5355,
+          "vocal": true
+        },
+        {
+          "text": "望",
+          "index": 3,
+          "startMs": 89735,
+          "endMs": 89964,
+          "frame": 5384,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 4,
+          "startMs": 89964,
+          "endMs": 90078,
+          "frame": 5398,
+          "vocal": false
+        },
+        {
+          "text": "涙",
+          "index": 5,
+          "startMs": 90078,
+          "endMs": 90569,
+          "frame": 5405,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 6,
+          "startMs": 90569,
+          "endMs": 90718,
+          "frame": 5434,
+          "vocal": true
+        },
+        {
+          "text": "全",
+          "index": 7,
+          "startMs": 90718,
+          "endMs": 91054,
+          "frame": 5443,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 8,
+          "startMs": 91054,
+          "endMs": 91390,
+          "frame": 5463,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "kind": "lyric",
+      "text": "受け入れていければ",
+      "startMs": 91391,
+      "endMs": 94069,
+      "characters": [
+        {
+          "text": "受",
+          "index": 0,
+          "startMs": 91391,
+          "endMs": 91567,
+          "frame": 5483,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 1,
+          "startMs": 91567,
+          "endMs": 91751,
+          "frame": 5494,
+          "vocal": true
+        },
+        {
+          "text": "入",
+          "index": 2,
+          "startMs": 91751,
+          "endMs": 91944,
+          "frame": 5505,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 3,
+          "startMs": 91944,
+          "endMs": 92071,
+          "frame": 5517,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 4,
+          "startMs": 92071,
+          "endMs": 92321,
+          "frame": 5524,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 5,
+          "startMs": 92321,
+          "endMs": 92681,
+          "frame": 5539,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 6,
+          "startMs": 92681,
+          "endMs": 93137,
+          "frame": 5561,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 7,
+          "startMs": 93137,
+          "endMs": 93345,
+          "frame": 5588,
+          "vocal": true
+        },
+        {
+          "text": "ば",
+          "index": 8,
+          "startMs": 93345,
+          "endMs": 94069,
+          "frame": 5601,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "kind": "lyric",
+      "text": "明日は笑える そんな気がする",
+      "startMs": 94069,
+      "endMs": 96734,
+      "characters": [
+        {
+          "text": "明日",
+          "index": 0,
+          "startMs": 94069,
+          "endMs": 94397,
+          "frame": 5644,
+          "vocal": true
+        },
+        {
+          "text": "は",
+          "index": 1,
+          "startMs": 94397,
+          "endMs": 94548,
+          "frame": 5664,
+          "vocal": true
+        },
+        {
+          "text": "笑",
+          "index": 2,
+          "startMs": 94548,
+          "endMs": 94925,
+          "frame": 5673,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 3,
+          "startMs": 94925,
+          "endMs": 95069,
+          "frame": 5696,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 95069,
+          "endMs": 95437,
+          "frame": 5704,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 5,
+          "startMs": 95437,
+          "endMs": 95437,
+          "frame": 5726,
+          "vocal": false
+        },
+        {
+          "text": "そ",
+          "index": 6,
+          "startMs": 95437,
+          "endMs": 95609,
+          "frame": 5726,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 7,
+          "startMs": 95609,
+          "endMs": 95781,
+          "frame": 5737,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 8,
+          "startMs": 95781,
+          "endMs": 95941,
+          "frame": 5747,
+          "vocal": true
+        },
+        {
+          "text": "気",
+          "index": 9,
+          "startMs": 95941,
+          "endMs": 96109,
+          "frame": 5756,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 10,
+          "startMs": 96109,
+          "endMs": 96269,
+          "frame": 5767,
+          "vocal": true
+        },
+        {
+          "text": "す",
+          "index": 11,
+          "startMs": 96269,
+          "endMs": 96405,
+          "frame": 5776,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 12,
+          "startMs": 96405,
+          "endMs": 96734,
+          "frame": 5784,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "kind": "lyric",
+      "text": "未完成な僕ら",
+      "startMs": 96734,
+      "endMs": 99483,
+      "characters": [
+        {
+          "text": "未",
+          "index": 0,
+          "startMs": 96734,
+          "endMs": 96893,
+          "frame": 5804,
+          "vocal": true
+        },
+        {
+          "text": "完",
+          "index": 1,
+          "startMs": 96893,
+          "endMs": 97237,
+          "frame": 5814,
+          "vocal": true
+        },
+        {
+          "text": "成",
+          "index": 2,
+          "startMs": 97237,
+          "endMs": 97797,
+          "frame": 5834,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 3,
+          "startMs": 97797,
+          "endMs": 98069,
+          "frame": 5868,
+          "vocal": true
+        },
+        {
+          "text": "僕",
+          "index": 4,
+          "startMs": 98069,
+          "endMs": 98724,
+          "frame": 5884,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 5,
+          "startMs": 98724,
+          "endMs": 99483,
+          "frame": 5923,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "kind": "lyric",
+      "text": "掴みたいんだろう 笑いたいんだろう",
+      "startMs": 99483,
+      "endMs": 104863,
+      "characters": [
+        {
+          "text": "掴",
+          "index": 0,
+          "startMs": 99483,
+          "endMs": 100107,
+          "frame": 5969,
+          "vocal": true
+        },
+        {
+          "text": "み",
+          "index": 1,
+          "startMs": 100107,
+          "endMs": 100483,
+          "frame": 6006,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 2,
+          "startMs": 100483,
+          "endMs": 100795,
+          "frame": 6029,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 100795,
+          "endMs": 101023,
+          "frame": 6048,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 4,
+          "startMs": 101023,
+          "endMs": 101251,
+          "frame": 6061,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 5,
+          "startMs": 101251,
+          "endMs": 101443,
+          "frame": 6075,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 6,
+          "startMs": 101443,
+          "endMs": 101672,
+          "frame": 6087,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 7,
+          "startMs": 101672,
+          "endMs": 101901,
+          "frame": 6100,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 8,
+          "startMs": 101901,
+          "endMs": 102130,
+          "frame": 6114,
+          "vocal": false
+        },
+        {
+          "text": "笑",
+          "index": 9,
+          "startMs": 102130,
+          "endMs": 102762,
+          "frame": 6128,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 10,
+          "startMs": 102762,
+          "endMs": 103170,
+          "frame": 6166,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 11,
+          "startMs": 103170,
+          "endMs": 103482,
+          "frame": 6190,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 12,
+          "startMs": 103482,
+          "endMs": 103725,
+          "frame": 6209,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 13,
+          "startMs": 103725,
+          "endMs": 103968,
+          "frame": 6224,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 14,
+          "startMs": 103968,
+          "endMs": 104161,
+          "frame": 6238,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 15,
+          "startMs": 104161,
+          "endMs": 104477,
+          "frame": 6250,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 16,
+          "startMs": 104477,
+          "endMs": 104861,
+          "frame": 6269,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "kind": "lyric",
+      "text": "自分の足に限界なんて",
+      "startMs": 104863,
+      "endMs": 110113,
+      "characters": [
+        {
+          "text": "自",
+          "index": 0,
+          "startMs": 104863,
+          "endMs": 105150,
+          "frame": 6292,
+          "vocal": true
+        },
+        {
+          "text": "分",
+          "index": 1,
+          "startMs": 105150,
+          "endMs": 105864,
+          "frame": 6309,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 2,
+          "startMs": 105864,
+          "endMs": 106190,
+          "frame": 6352,
+          "vocal": true
+        },
+        {
+          "text": "足",
+          "index": 3,
+          "startMs": 106190,
+          "endMs": 106855,
+          "frame": 6371,
+          "vocal": true
+        },
+        {
+          "text": "に",
+          "index": 4,
+          "startMs": 106855,
+          "endMs": 107513,
+          "frame": 6411,
+          "vocal": true
+        },
+        {
+          "text": "限",
+          "index": 5,
+          "startMs": 107513,
+          "endMs": 107865,
+          "frame": 6451,
+          "vocal": true
+        },
+        {
+          "text": "界",
+          "index": 6,
+          "startMs": 107865,
+          "endMs": 108281,
+          "frame": 6472,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 7,
+          "startMs": 108281,
+          "endMs": 108541,
+          "frame": 6497,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 8,
+          "startMs": 108541,
+          "endMs": 108801,
+          "frame": 6512,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 9,
+          "startMs": 108801,
+          "endMs": 110113,
+          "frame": 6528,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "kind": "lyric",
+      "text": "誰が決めたんだ！？",
+      "startMs": 110165,
+      "endMs": 112803,
+      "characters": [
+        {
+          "text": "誰",
+          "index": 0,
+          "startMs": 110165,
+          "endMs": 110533,
+          "frame": 6610,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 1,
+          "startMs": 110533,
+          "endMs": 110717,
+          "frame": 6632,
+          "vocal": true
+        },
+        {
+          "text": "決",
+          "index": 2,
+          "startMs": 110717,
+          "endMs": 110917,
+          "frame": 6643,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 3,
+          "startMs": 110917,
+          "endMs": 111579,
+          "frame": 6655,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 4,
+          "startMs": 111579,
+          "endMs": 111911,
+          "frame": 6695,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 111911,
+          "endMs": 112243,
+          "frame": 6715,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 6,
+          "startMs": 112243,
+          "endMs": 112803,
+          "frame": 6735,
+          "vocal": true
+        },
+        {
+          "text": "！？",
+          "index": 7,
+          "startMs": 112803,
+          "endMs": 112803,
+          "frame": 6768,
+          "vocal": false
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 112803,
+      "endMs": 115939,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 112803,
+          "endMs": 113139,
+          "frame": 6768,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 113139,
+          "endMs": 113299,
+          "frame": 6788,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 113299,
+          "endMs": 113635,
+          "frame": 6798,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 113635,
+          "endMs": 114075,
+          "frame": 6818,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 114075,
+          "endMs": 114275,
+          "frame": 6845,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 114275,
+          "endMs": 114603,
+          "frame": 6857,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 114603,
+          "endMs": 114603,
+          "frame": 6876,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 114603,
+          "endMs": 114899,
+          "frame": 6876,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 114899,
+          "endMs": 115323,
+          "frame": 6894,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 115323,
+          "endMs": 115579,
+          "frame": 6919,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 115579,
+          "endMs": 115939,
+          "frame": 6935,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "kind": "lyric",
+      "text": "立ち向かうから",
+      "startMs": 115939,
+      "endMs": 118363,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 115939,
+          "endMs": 116147,
+          "frame": 6956,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 116147,
+          "endMs": 116315,
+          "frame": 6969,
+          "vocal": true
+        },
+        {
+          "text": "向",
+          "index": 2,
+          "startMs": 116315,
+          "endMs": 116667,
+          "frame": 6979,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 3,
+          "startMs": 116667,
+          "endMs": 116923,
+          "frame": 7000,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 4,
+          "startMs": 116923,
+          "endMs": 117363,
+          "frame": 7015,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 5,
+          "startMs": 117363,
+          "endMs": 117580,
+          "frame": 7042,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 6,
+          "startMs": 117580,
+          "endMs": 118363,
+          "frame": 7055,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "kind": "lyric",
+      "text": "どんな姿も",
+      "startMs": 118363,
+      "endMs": 121339,
+      "characters": [
+        {
+          "text": "ど",
+          "index": 0,
+          "startMs": 118363,
+          "endMs": 118675,
+          "frame": 7102,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 1,
+          "startMs": 118675,
+          "endMs": 118987,
+          "frame": 7121,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 2,
+          "startMs": 118987,
+          "endMs": 119715,
+          "frame": 7139,
+          "vocal": true
+        },
+        {
+          "text": "姿",
+          "index": 3,
+          "startMs": 119715,
+          "endMs": 121099,
+          "frame": 7183,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 4,
+          "startMs": 121099,
+          "endMs": 121339,
+          "frame": 7266,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "kind": "lyric",
+      "text": "ガムシャラでいいじゃないか",
+      "startMs": 121339,
+      "endMs": 123563,
+      "characters": [
+        {
+          "text": "ガ",
+          "index": 0,
+          "startMs": 121339,
+          "endMs": 121532,
+          "frame": 7280,
+          "vocal": true
+        },
+        {
+          "text": "ム",
+          "index": 1,
+          "startMs": 121532,
+          "endMs": 121699,
+          "frame": 7292,
+          "vocal": true
+        },
+        {
+          "text": "シ",
+          "index": 2,
+          "startMs": 121699,
+          "endMs": 121787,
+          "frame": 7302,
+          "vocal": true
+        },
+        {
+          "text": "ャ",
+          "index": 3,
+          "startMs": 121787,
+          "endMs": 121875,
+          "frame": 7307,
+          "vocal": true
+        },
+        {
+          "text": "ラ",
+          "index": 4,
+          "startMs": 121875,
+          "endMs": 122043,
+          "frame": 7313,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 5,
+          "startMs": 122043,
+          "endMs": 122251,
+          "frame": 7323,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 6,
+          "startMs": 122251,
+          "endMs": 122459,
+          "frame": 7335,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 7,
+          "startMs": 122459,
+          "endMs": 122667,
+          "frame": 7348,
+          "vocal": true
+        },
+        {
+          "text": "じ",
+          "index": 8,
+          "startMs": 122667,
+          "endMs": 122747,
+          "frame": 7360,
+          "vocal": true
+        },
+        {
+          "text": "ゃ",
+          "index": 9,
+          "startMs": 122747,
+          "endMs": 122827,
+          "frame": 7365,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 10,
+          "startMs": 122827,
+          "endMs": 122980,
+          "frame": 7370,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 11,
+          "startMs": 122980,
+          "endMs": 123109,
+          "frame": 7379,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 12,
+          "startMs": 123109,
+          "endMs": 123563,
+          "frame": 7387,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 123563,
+      "endMs": 126747,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 123563,
+          "endMs": 123931,
+          "frame": 7414,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 123931,
+          "endMs": 124067,
+          "frame": 7436,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 124067,
+          "endMs": 124380,
+          "frame": 7444,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 124380,
+          "endMs": 124739,
+          "frame": 7463,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 124739,
+          "endMs": 125043,
+          "frame": 7484,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 125043,
+          "endMs": 125419,
+          "frame": 7503,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 125419,
+          "endMs": 125419,
+          "frame": 7525,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 125419,
+          "endMs": 125748,
+          "frame": 7525,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 125748,
+          "endMs": 126163,
+          "frame": 7545,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 126163,
+          "endMs": 126355,
+          "frame": 7570,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 126355,
+          "endMs": 126747,
+          "frame": 7581,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "kind": "lyric",
+      "text": "立ち向かえるさ",
+      "startMs": 126747,
+      "endMs": 129115,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 126747,
+          "endMs": 126958,
+          "frame": 7605,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 126958,
+          "endMs": 127123,
+          "frame": 7617,
+          "vocal": true
+        },
+        {
+          "text": "向",
+          "index": 2,
+          "startMs": 127123,
+          "endMs": 127523,
+          "frame": 7627,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 3,
+          "startMs": 127523,
+          "endMs": 127715,
+          "frame": 7651,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 4,
+          "startMs": 127715,
+          "endMs": 128163,
+          "frame": 7663,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 5,
+          "startMs": 128163,
+          "endMs": 128387,
+          "frame": 7690,
+          "vocal": true
+        },
+        {
+          "text": "さ",
+          "index": 6,
+          "startMs": 128387,
+          "endMs": 129115,
+          "frame": 7703,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "kind": "lyric",
+      "text": "越えて行くため",
+      "startMs": 129115,
+      "endMs": 132083,
+      "characters": [
+        {
+          "text": "越",
+          "index": 0,
+          "startMs": 129115,
+          "endMs": 129419,
+          "frame": 7747,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 1,
+          "startMs": 129419,
+          "endMs": 129795,
+          "frame": 7765,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 2,
+          "startMs": 129795,
+          "endMs": 130451,
+          "frame": 7788,
+          "vocal": true
+        },
+        {
+          "text": "行",
+          "index": 3,
+          "startMs": 130451,
+          "endMs": 131187,
+          "frame": 7827,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 4,
+          "startMs": 131187,
+          "endMs": 131563,
+          "frame": 7871,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 5,
+          "startMs": 131563,
+          "endMs": 131764,
+          "frame": 7894,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 6,
+          "startMs": 131764,
+          "endMs": 132083,
+          "frame": 7906,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "kind": "lyric",
+      "text": "もがきながらも進もう",
+      "startMs": 132083,
+      "endMs": 134115,
+      "characters": [
+        {
+          "text": "も",
+          "index": 0,
+          "startMs": 132083,
+          "endMs": 132267,
+          "frame": 7925,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 1,
+          "startMs": 132267,
+          "endMs": 132426,
+          "frame": 7936,
+          "vocal": true
+        },
+        {
+          "text": "き",
+          "index": 2,
+          "startMs": 132426,
+          "endMs": 132595,
+          "frame": 7946,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 3,
+          "startMs": 132595,
+          "endMs": 132754,
+          "frame": 7956,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 4,
+          "startMs": 132754,
+          "endMs": 132914,
+          "frame": 7965,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 5,
+          "startMs": 132914,
+          "endMs": 133086,
+          "frame": 7975,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 6,
+          "startMs": 133086,
+          "endMs": 133308,
+          "frame": 7985,
+          "vocal": true
+        },
+        {
+          "text": "進",
+          "index": 7,
+          "startMs": 133308,
+          "endMs": 133636,
+          "frame": 7998,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 8,
+          "startMs": 133636,
+          "endMs": 134076,
+          "frame": 8018,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 9,
+          "startMs": 134076,
+          "endMs": 134114,
+          "frame": 8045,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "kind": "lyric",
+      "text": "人は悲しみが多い程",
+      "startMs": 134115,
+      "endMs": 137196,
+      "characters": [
+        {
+          "text": "人",
+          "index": 0,
+          "startMs": 134115,
+          "endMs": 134794,
+          "frame": 8047,
+          "vocal": true
+        },
+        {
+          "text": "は",
+          "index": 1,
+          "startMs": 134794,
+          "endMs": 135146,
+          "frame": 8088,
+          "vocal": true
+        },
+        {
+          "text": "悲",
+          "index": 2,
+          "startMs": 135146,
+          "endMs": 135506,
+          "frame": 8109,
+          "vocal": true
+        },
+        {
+          "text": "し",
+          "index": 3,
+          "startMs": 135506,
+          "endMs": 135682,
+          "frame": 8130,
+          "vocal": true
+        },
+        {
+          "text": "み",
+          "index": 4,
+          "startMs": 135682,
+          "endMs": 135842,
+          "frame": 8141,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 5,
+          "startMs": 135842,
+          "endMs": 136137,
+          "frame": 8151,
+          "vocal": true
+        },
+        {
+          "text": "多",
+          "index": 6,
+          "startMs": 136137,
+          "endMs": 136521,
+          "frame": 8168,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 7,
+          "startMs": 136521,
+          "endMs": 136705,
+          "frame": 8191,
+          "vocal": true
+        },
+        {
+          "text": "程",
+          "index": 8,
+          "startMs": 136705,
+          "endMs": 137196,
+          "frame": 8202,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "kind": "lyric",
+      "text": "遠回りする事もあるだろうが",
+      "startMs": 137196,
+      "endMs": 140220,
+      "characters": [
+        {
+          "text": "遠",
+          "index": 0,
+          "startMs": 137196,
+          "endMs": 137540,
+          "frame": 8232,
+          "vocal": true
+        },
+        {
+          "text": "回",
+          "index": 1,
+          "startMs": 137540,
+          "endMs": 137875,
+          "frame": 8252,
+          "vocal": true
+        },
+        {
+          "text": "り",
+          "index": 2,
+          "startMs": 137875,
+          "endMs": 138228,
+          "frame": 8273,
+          "vocal": true
+        },
+        {
+          "text": "す",
+          "index": 3,
+          "startMs": 138228,
+          "endMs": 138388,
+          "frame": 8294,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 138388,
+          "endMs": 138556,
+          "frame": 8303,
+          "vocal": true
+        },
+        {
+          "text": "事",
+          "index": 5,
+          "startMs": 138556,
+          "endMs": 138892,
+          "frame": 8313,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 6,
+          "startMs": 138892,
+          "endMs": 139060,
+          "frame": 8334,
+          "vocal": true
+        },
+        {
+          "text": "あ",
+          "index": 7,
+          "startMs": 139060,
+          "endMs": 139236,
+          "frame": 8344,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 8,
+          "startMs": 139236,
+          "endMs": 139404,
+          "frame": 8354,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 9,
+          "startMs": 139404,
+          "endMs": 139548,
+          "frame": 8364,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 10,
+          "startMs": 139548,
+          "endMs": 139720,
+          "frame": 8373,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 11,
+          "startMs": 139720,
+          "endMs": 139892,
+          "frame": 8383,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 12,
+          "startMs": 139892,
+          "endMs": 140220,
+          "frame": 8394,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "kind": "lyric",
+      "text": "まだ道は途中 逃げないで",
+      "startMs": 140220,
+      "endMs": 142433,
+      "characters": [
+        {
+          "text": "ま",
+          "index": 0,
+          "startMs": 140220,
+          "endMs": 140388,
+          "frame": 8413,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 1,
+          "startMs": 140388,
+          "endMs": 140555,
+          "frame": 8423,
+          "vocal": true
+        },
+        {
+          "text": "道",
+          "index": 2,
+          "startMs": 140555,
+          "endMs": 140859,
+          "frame": 8433,
+          "vocal": true
+        },
+        {
+          "text": "は",
+          "index": 3,
+          "startMs": 140859,
+          "endMs": 141021,
+          "frame": 8452,
+          "vocal": true
+        },
+        {
+          "text": "途",
+          "index": 4,
+          "startMs": 141021,
+          "endMs": 141188,
+          "frame": 8461,
+          "vocal": true
+        },
+        {
+          "text": "中",
+          "index": 5,
+          "startMs": 141188,
+          "endMs": 141488,
+          "frame": 8471,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 141488,
+          "endMs": 141588,
+          "frame": 8489,
+          "vocal": false
+        },
+        {
+          "text": "逃",
+          "index": 7,
+          "startMs": 141588,
+          "endMs": 141748,
+          "frame": 8495,
+          "vocal": true
+        },
+        {
+          "text": "げ",
+          "index": 8,
+          "startMs": 141748,
+          "endMs": 141924,
+          "frame": 8505,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 9,
+          "startMs": 141924,
+          "endMs": 142116,
+          "frame": 8515,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 10,
+          "startMs": 142116,
+          "endMs": 142260,
+          "frame": 8527,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 11,
+          "startMs": 142260,
+          "endMs": 142433,
+          "frame": 8536,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "kind": "lyric",
+      "text": "今以上に『自分』自身抱き締めんだ",
+      "startMs": 142433,
+      "endMs": 145580,
+      "characters": [
+        {
+          "text": "今",
+          "index": 0,
+          "startMs": 142433,
+          "endMs": 142777,
+          "frame": 8546,
+          "vocal": true
+        },
+        {
+          "text": "以",
+          "index": 1,
+          "startMs": 142777,
+          "endMs": 142953,
+          "frame": 8567,
+          "vocal": true
+        },
+        {
+          "text": "上",
+          "index": 2,
+          "startMs": 142953,
+          "endMs": 143282,
+          "frame": 8577,
+          "vocal": true
+        },
+        {
+          "text": "に",
+          "index": 3,
+          "startMs": 143282,
+          "endMs": 143586,
+          "frame": 8597,
+          "vocal": true
+        },
+        {
+          "text": "『",
+          "index": 4,
+          "startMs": 143586,
+          "endMs": 143586,
+          "frame": 8615,
+          "vocal": false
+        },
+        {
+          "text": "自",
+          "index": 5,
+          "startMs": 143586,
+          "endMs": 143778,
+          "frame": 8615,
+          "vocal": true
+        },
+        {
+          "text": "分",
+          "index": 6,
+          "startMs": 143778,
+          "endMs": 143980,
+          "frame": 8627,
+          "vocal": true
+        },
+        {
+          "text": "』",
+          "index": 7,
+          "startMs": 143980,
+          "endMs": 144081,
+          "frame": 8639,
+          "vocal": false
+        },
+        {
+          "text": "自",
+          "index": 8,
+          "startMs": 144081,
+          "endMs": 144297,
+          "frame": 8645,
+          "vocal": true
+        },
+        {
+          "text": "身",
+          "index": 9,
+          "startMs": 144297,
+          "endMs": 144514,
+          "frame": 8658,
+          "vocal": true
+        },
+        {
+          "text": "抱",
+          "index": 10,
+          "startMs": 144514,
+          "endMs": 144722,
+          "frame": 8671,
+          "vocal": true
+        },
+        {
+          "text": "き",
+          "index": 11,
+          "startMs": 144722,
+          "endMs": 144907,
+          "frame": 8683,
+          "vocal": true
+        },
+        {
+          "text": "締",
+          "index": 12,
+          "startMs": 144907,
+          "endMs": 145066,
+          "frame": 8694,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 13,
+          "startMs": 145066,
+          "endMs": 145221,
+          "frame": 8704,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 14,
+          "startMs": 145221,
+          "endMs": 145376,
+          "frame": 8713,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 15,
+          "startMs": 145376,
+          "endMs": 145579,
+          "frame": 8723,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "kind": "lyric",
+      "text": "ほら大丈夫 いつだって",
+      "startMs": 145580,
+      "endMs": 147996,
+      "characters": [
+        {
+          "text": "ほ",
+          "index": 0,
+          "startMs": 145580,
+          "endMs": 145748,
+          "frame": 8735,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 145748,
+          "endMs": 145924,
+          "frame": 8745,
+          "vocal": true
+        },
+        {
+          "text": "大",
+          "index": 2,
+          "startMs": 145924,
+          "endMs": 146332,
+          "frame": 8755,
+          "vocal": true
+        },
+        {
+          "text": "丈",
+          "index": 3,
+          "startMs": 146332,
+          "endMs": 146620,
+          "frame": 8780,
+          "vocal": true
+        },
+        {
+          "text": "夫",
+          "index": 4,
+          "startMs": 146620,
+          "endMs": 146980,
+          "frame": 8797,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 5,
+          "startMs": 146980,
+          "endMs": 146980,
+          "frame": 8819,
+          "vocal": false
+        },
+        {
+          "text": "い",
+          "index": 6,
+          "startMs": 146980,
+          "endMs": 147156,
+          "frame": 8819,
+          "vocal": true
+        },
+        {
+          "text": "つ",
+          "index": 7,
+          "startMs": 147156,
+          "endMs": 147324,
+          "frame": 8829,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 8,
+          "startMs": 147324,
+          "endMs": 147480,
+          "frame": 8839,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 9,
+          "startMs": 147480,
+          "endMs": 147636,
+          "frame": 8849,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 10,
+          "startMs": 147636,
+          "endMs": 147996,
+          "frame": 8858,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "kind": "lyric",
+      "text": "足跡が背中を押してくれるさ",
+      "startMs": 147996,
+      "endMs": 150999,
+      "characters": [
+        {
+          "text": "足",
+          "index": 0,
+          "startMs": 147996,
+          "endMs": 148348,
+          "frame": 8880,
+          "vocal": true
+        },
+        {
+          "text": "跡",
+          "index": 1,
+          "startMs": 148348,
+          "endMs": 148684,
+          "frame": 8901,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 2,
+          "startMs": 148684,
+          "endMs": 149039,
+          "frame": 8921,
+          "vocal": true
+        },
+        {
+          "text": "背",
+          "index": 3,
+          "startMs": 149039,
+          "endMs": 149252,
+          "frame": 8942,
+          "vocal": true
+        },
+        {
+          "text": "中",
+          "index": 4,
+          "startMs": 149252,
+          "endMs": 149612,
+          "frame": 8955,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 5,
+          "startMs": 149612,
+          "endMs": 149796,
+          "frame": 8977,
+          "vocal": true
+        },
+        {
+          "text": "押",
+          "index": 6,
+          "startMs": 149796,
+          "endMs": 149980,
+          "frame": 8988,
+          "vocal": true
+        },
+        {
+          "text": "し",
+          "index": 7,
+          "startMs": 149980,
+          "endMs": 150180,
+          "frame": 8999,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 8,
+          "startMs": 150180,
+          "endMs": 150334,
+          "frame": 9011,
+          "vocal": true
+        },
+        {
+          "text": "く",
+          "index": 9,
+          "startMs": 150334,
+          "endMs": 150517,
+          "frame": 9020,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 10,
+          "startMs": 150517,
+          "endMs": 150684,
+          "frame": 9031,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 11,
+          "startMs": 150684,
+          "endMs": 150796,
+          "frame": 9041,
+          "vocal": true
+        },
+        {
+          "text": "さ",
+          "index": 12,
+          "startMs": 150796,
+          "endMs": 150999,
+          "frame": 9048,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "kind": "lyric",
+      "text": "この道を進んでいこう",
+      "startMs": 150999,
+      "endMs": 155915,
+      "characters": [
+        {
+          "text": "こ",
+          "index": 0,
+          "startMs": 150999,
+          "endMs": 151229,
+          "frame": 9060,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 1,
+          "startMs": 151229,
+          "endMs": 151389,
+          "frame": 9074,
+          "vocal": true
+        },
+        {
+          "text": "道",
+          "index": 2,
+          "startMs": 151389,
+          "endMs": 152669,
+          "frame": 9083,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 3,
+          "startMs": 152669,
+          "endMs": 153641,
+          "frame": 9160,
+          "vocal": true
+        },
+        {
+          "text": "進",
+          "index": 4,
+          "startMs": 153641,
+          "endMs": 154290,
+          "frame": 9218,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 154290,
+          "endMs": 154723,
+          "frame": 9257,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 6,
+          "startMs": 154723,
+          "endMs": 155090,
+          "frame": 9283,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 7,
+          "startMs": 155090,
+          "endMs": 155457,
+          "frame": 9305,
+          "vocal": true
+        },
+        {
+          "text": "こ",
+          "index": 8,
+          "startMs": 155457,
+          "endMs": 155844,
+          "frame": 9327,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 9,
+          "startMs": 155844,
+          "endMs": 155913,
+          "frame": 9351,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 155915,
+      "endMs": 159146,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 155915,
+          "endMs": 156258,
+          "frame": 9355,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 156258,
+          "endMs": 156426,
+          "frame": 9375,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 156426,
+          "endMs": 156731,
+          "frame": 9386,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 156731,
+          "endMs": 157034,
+          "frame": 9404,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 157034,
+          "endMs": 157354,
+          "frame": 9422,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 157354,
+          "endMs": 157706,
+          "frame": 9441,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 157706,
+          "endMs": 157706,
+          "frame": 9462,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 157706,
+          "endMs": 158066,
+          "frame": 9462,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 158066,
+          "endMs": 158498,
+          "frame": 9484,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 158498,
+          "endMs": 158802,
+          "frame": 9510,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 158802,
+          "endMs": 159146,
+          "frame": 9528,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "kind": "lyric",
+      "text": "立ち上がるから",
+      "startMs": 159146,
+      "endMs": 161482,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 159146,
+          "endMs": 159338,
+          "frame": 9549,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 159338,
+          "endMs": 159506,
+          "frame": 9560,
+          "vocal": true
+        },
+        {
+          "text": "上",
+          "index": 2,
+          "startMs": 159506,
+          "endMs": 159858,
+          "frame": 9570,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 3,
+          "startMs": 159858,
+          "endMs": 160074,
+          "frame": 9591,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 160074,
+          "endMs": 160578,
+          "frame": 9604,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 5,
+          "startMs": 160578,
+          "endMs": 160755,
+          "frame": 9635,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 6,
+          "startMs": 160755,
+          "endMs": 161482,
+          "frame": 9645,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "kind": "lyric",
+      "text": "大きな声で 笑いあえる日のために",
+      "startMs": 161482,
+      "endMs": 166705,
+      "characters": [
+        {
+          "text": "大",
+          "index": 0,
+          "startMs": 161482,
+          "endMs": 162194,
+          "frame": 9689,
+          "vocal": true
+        },
+        {
+          "text": "き",
+          "index": 1,
+          "startMs": 162194,
+          "endMs": 162826,
+          "frame": 9732,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 2,
+          "startMs": 162826,
+          "endMs": 163522,
+          "frame": 9770,
+          "vocal": true
+        },
+        {
+          "text": "声",
+          "index": 3,
+          "startMs": 163522,
+          "endMs": 164138,
+          "frame": 9811,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 164138,
+          "endMs": 164490,
+          "frame": 9848,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 5,
+          "startMs": 164490,
+          "endMs": 164490,
+          "frame": 9869,
+          "vocal": false
+        },
+        {
+          "text": "笑",
+          "index": 6,
+          "startMs": 164490,
+          "endMs": 164833,
+          "frame": 9869,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 7,
+          "startMs": 164833,
+          "endMs": 165002,
+          "frame": 9890,
+          "vocal": true
+        },
+        {
+          "text": "あ",
+          "index": 8,
+          "startMs": 165002,
+          "endMs": 165177,
+          "frame": 9900,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 9,
+          "startMs": 165177,
+          "endMs": 165346,
+          "frame": 9911,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 10,
+          "startMs": 165346,
+          "endMs": 165514,
+          "frame": 9921,
+          "vocal": true
+        },
+        {
+          "text": "日",
+          "index": 11,
+          "startMs": 165514,
+          "endMs": 165699,
+          "frame": 9931,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 12,
+          "startMs": 165699,
+          "endMs": 165889,
+          "frame": 9942,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 13,
+          "startMs": 165889,
+          "endMs": 166058,
+          "frame": 9953,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 14,
+          "startMs": 166058,
+          "endMs": 166217,
+          "frame": 9963,
+          "vocal": true
+        },
+        {
+          "text": "に",
+          "index": 15,
+          "startMs": 166217,
+          "endMs": 166705,
+          "frame": 9973,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 166705,
+      "endMs": 169873,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 166705,
+          "endMs": 167025,
+          "frame": 10002,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 167025,
+          "endMs": 167177,
+          "frame": 10022,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 167177,
+          "endMs": 167505,
+          "frame": 10031,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 167505,
+          "endMs": 167851,
+          "frame": 10050,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 167851,
+          "endMs": 168161,
+          "frame": 10071,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 168161,
+          "endMs": 168513,
+          "frame": 10090,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 168513,
+          "endMs": 168513,
+          "frame": 10111,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 168513,
+          "endMs": 168857,
+          "frame": 10111,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 168857,
+          "endMs": 169273,
+          "frame": 10131,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 169273,
+          "endMs": 169433,
+          "frame": 10156,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 169433,
+          "endMs": 169873,
+          "frame": 10166,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "kind": "lyric",
+      "text": "立ち上がれるさ",
+      "startMs": 169873,
+      "endMs": 172247,
+      "characters": [
+        {
+          "text": "立",
+          "index": 0,
+          "startMs": 169873,
+          "endMs": 170068,
+          "frame": 10192,
+          "vocal": true
+        },
+        {
+          "text": "ち",
+          "index": 1,
+          "startMs": 170068,
+          "endMs": 170241,
+          "frame": 10204,
+          "vocal": true
+        },
+        {
+          "text": "上",
+          "index": 2,
+          "startMs": 170241,
+          "endMs": 170643,
+          "frame": 10214,
+          "vocal": true
+        },
+        {
+          "text": "が",
+          "index": 3,
+          "startMs": 170643,
+          "endMs": 170825,
+          "frame": 10239,
+          "vocal": true
+        },
+        {
+          "text": "れ",
+          "index": 4,
+          "startMs": 170825,
+          "endMs": 171345,
+          "frame": 10250,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 5,
+          "startMs": 171345,
+          "endMs": 171548,
+          "frame": 10281,
+          "vocal": true
+        },
+        {
+          "text": "さ",
+          "index": 6,
+          "startMs": 171548,
+          "endMs": 172247,
+          "frame": 10293,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "kind": "lyric",
+      "text": "胸の奥から 湧き出る情熱を",
+      "startMs": 172247,
+      "endMs": 176804,
+      "characters": [
+        {
+          "text": "胸",
+          "index": 0,
+          "startMs": 172247,
+          "endMs": 172919,
+          "frame": 10335,
+          "vocal": true
+        },
+        {
+          "text": "の",
+          "index": 1,
+          "startMs": 172919,
+          "endMs": 173575,
+          "frame": 10375,
+          "vocal": true
+        },
+        {
+          "text": "奥",
+          "index": 2,
+          "startMs": 173575,
+          "endMs": 174607,
+          "frame": 10415,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 3,
+          "startMs": 174607,
+          "endMs": 174911,
+          "frame": 10476,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 4,
+          "startMs": 174911,
+          "endMs": 175239,
+          "frame": 10495,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 5,
+          "startMs": 175239,
+          "endMs": 175239,
+          "frame": 10514,
+          "vocal": false
+        },
+        {
+          "text": "湧",
+          "index": 6,
+          "startMs": 175239,
+          "endMs": 175424,
+          "frame": 10514,
+          "vocal": true
+        },
+        {
+          "text": "き",
+          "index": 7,
+          "startMs": 175424,
+          "endMs": 175590,
+          "frame": 10525,
+          "vocal": true
+        },
+        {
+          "text": "出",
+          "index": 8,
+          "startMs": 175590,
+          "endMs": 175767,
+          "frame": 10535,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 9,
+          "startMs": 175767,
+          "endMs": 175926,
+          "frame": 10546,
+          "vocal": true
+        },
+        {
+          "text": "情",
+          "index": 10,
+          "startMs": 175926,
+          "endMs": 176279,
+          "frame": 10556,
+          "vocal": true
+        },
+        {
+          "text": "熱",
+          "index": 11,
+          "startMs": 176279,
+          "endMs": 176647,
+          "frame": 10577,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 12,
+          "startMs": 176647,
+          "endMs": 176804,
+          "frame": 10599,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "kind": "lyric",
+      "text": "ぶつけ続けんだ",
+      "startMs": 176804,
+      "endMs": 178250,
+      "characters": [
+        {
+          "text": "ぶ",
+          "index": 0,
+          "startMs": 176804,
+          "endMs": 176972,
+          "frame": 10608,
+          "vocal": true
+        },
+        {
+          "text": "つ",
+          "index": 1,
+          "startMs": 176972,
+          "endMs": 177140,
+          "frame": 10618,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 2,
+          "startMs": 177140,
+          "endMs": 177300,
+          "frame": 10628,
+          "vocal": true
+        },
+        {
+          "text": "続",
+          "index": 3,
+          "startMs": 177300,
+          "endMs": 177587,
+          "frame": 10638,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 4,
+          "startMs": 177587,
+          "endMs": 177776,
+          "frame": 10655,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 177776,
+          "endMs": 177965,
+          "frame": 10667,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 6,
+          "startMs": 177965,
+          "endMs": 178250,
+          "frame": 10678,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "kind": "lyric",
+      "text": "何度でも 何度でも走り出せるから",
+      "startMs": 178250,
+      "endMs": 182970,
+      "characters": [
+        {
+          "text": "何",
+          "index": 0,
+          "startMs": 178250,
+          "endMs": 178642,
+          "frame": 10695,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 1,
+          "startMs": 178642,
+          "endMs": 178842,
+          "frame": 10719,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 2,
+          "startMs": 178842,
+          "endMs": 178994,
+          "frame": 10731,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 3,
+          "startMs": 178994,
+          "endMs": 179347,
+          "frame": 10740,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 4,
+          "startMs": 179347,
+          "endMs": 179347,
+          "frame": 10761,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 5,
+          "startMs": 179347,
+          "endMs": 179689,
+          "frame": 10761,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 6,
+          "startMs": 179689,
+          "endMs": 180033,
+          "frame": 10781,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 7,
+          "startMs": 180033,
+          "endMs": 180346,
+          "frame": 10802,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 8,
+          "startMs": 180346,
+          "endMs": 180675,
+          "frame": 10821,
+          "vocal": true
+        },
+        {
+          "text": "走",
+          "index": 9,
+          "startMs": 180675,
+          "endMs": 181042,
+          "frame": 10841,
+          "vocal": true
+        },
+        {
+          "text": "り",
+          "index": 10,
+          "startMs": 181042,
+          "endMs": 181393,
+          "frame": 10863,
+          "vocal": true
+        },
+        {
+          "text": "出",
+          "index": 11,
+          "startMs": 181393,
+          "endMs": 181602,
+          "frame": 10884,
+          "vocal": true
+        },
+        {
+          "text": "せ",
+          "index": 12,
+          "startMs": 181602,
+          "endMs": 181954,
+          "frame": 10896,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 13,
+          "startMs": 181954,
+          "endMs": 182154,
+          "frame": 10917,
+          "vocal": true
+        },
+        {
+          "text": "か",
+          "index": 14,
+          "startMs": 182154,
+          "endMs": 182323,
+          "frame": 10929,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 15,
+          "startMs": 182323,
+          "endMs": 182970,
+          "frame": 10939,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "kind": "lyric",
+      "text": "見えているんだろう？",
+      "startMs": 182970,
+      "endMs": 186005,
+      "characters": [
+        {
+          "text": "見",
+          "index": 0,
+          "startMs": 182970,
+          "endMs": 183321,
+          "frame": 10978,
+          "vocal": true
+        },
+        {
+          "text": "え",
+          "index": 1,
+          "startMs": 183321,
+          "endMs": 183666,
+          "frame": 10999,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 2,
+          "startMs": 183666,
+          "endMs": 184345,
+          "frame": 11020,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 184345,
+          "endMs": 185049,
+          "frame": 11061,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 185049,
+          "endMs": 185285,
+          "frame": 11103,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 185285,
+          "endMs": 185500,
+          "frame": 11117,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 6,
+          "startMs": 185500,
+          "endMs": 185653,
+          "frame": 11130,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 7,
+          "startMs": 185653,
+          "endMs": 185770,
+          "frame": 11139,
+          "vocal": true
+        },
+        {
+          "text": "う",
+          "index": 8,
+          "startMs": 185770,
+          "endMs": 185887,
+          "frame": 11146,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 9,
+          "startMs": 185887,
+          "endMs": 186004,
+          "frame": 11153,
+          "vocal": false
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "kind": "lyric",
+      "text": "ほらアナタ次第だって",
+      "startMs": 186005,
+      "endMs": 188254,
+      "characters": [
+        {
+          "text": "ほ",
+          "index": 0,
+          "startMs": 186005,
+          "endMs": 186214,
+          "frame": 11160,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 186214,
+          "endMs": 186374,
+          "frame": 11173,
+          "vocal": true
+        },
+        {
+          "text": "ア",
+          "index": 2,
+          "startMs": 186374,
+          "endMs": 186542,
+          "frame": 11182,
+          "vocal": true
+        },
+        {
+          "text": "ナ",
+          "index": 3,
+          "startMs": 186542,
+          "endMs": 186710,
+          "frame": 11193,
+          "vocal": true
+        },
+        {
+          "text": "タ",
+          "index": 4,
+          "startMs": 186710,
+          "endMs": 186886,
+          "frame": 11203,
+          "vocal": true
+        },
+        {
+          "text": "次",
+          "index": 5,
+          "startMs": 186886,
+          "endMs": 187079,
+          "frame": 11213,
+          "vocal": true
+        },
+        {
+          "text": "第",
+          "index": 6,
+          "startMs": 187079,
+          "endMs": 187486,
+          "frame": 11225,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 7,
+          "startMs": 187486,
+          "endMs": 187630,
+          "frame": 11249,
+          "vocal": true
+        },
+        {
+          "text": "っ",
+          "index": 8,
+          "startMs": 187630,
+          "endMs": 187774,
+          "frame": 11258,
+          "vocal": true
+        },
+        {
+          "text": "て",
+          "index": 9,
+          "startMs": 187774,
+          "endMs": 188254,
+          "frame": 11266,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "kind": "lyric",
+      "text": "僕ら何度でも 何度でも",
+      "startMs": 188254,
+      "endMs": 191470,
+      "characters": [
+        {
+          "text": "僕",
+          "index": 0,
+          "startMs": 188254,
+          "endMs": 188630,
+          "frame": 11295,
+          "vocal": true
+        },
+        {
+          "text": "ら",
+          "index": 1,
+          "startMs": 188630,
+          "endMs": 188783,
+          "frame": 11318,
+          "vocal": true
+        },
+        {
+          "text": "何",
+          "index": 2,
+          "startMs": 188783,
+          "endMs": 189134,
+          "frame": 11327,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 3,
+          "startMs": 189134,
+          "endMs": 189471,
+          "frame": 11348,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 4,
+          "startMs": 189471,
+          "endMs": 189782,
+          "frame": 11368,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 5,
+          "startMs": 189782,
+          "endMs": 190126,
+          "frame": 11387,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 6,
+          "startMs": 190126,
+          "endMs": 190126,
+          "frame": 11408,
+          "vocal": false
+        },
+        {
+          "text": "何",
+          "index": 7,
+          "startMs": 190126,
+          "endMs": 190478,
+          "frame": 11408,
+          "vocal": true
+        },
+        {
+          "text": "度",
+          "index": 8,
+          "startMs": 190478,
+          "endMs": 190878,
+          "frame": 11429,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 9,
+          "startMs": 190878,
+          "endMs": 191055,
+          "frame": 11453,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 10,
+          "startMs": 191055,
+          "endMs": 191470,
+          "frame": 11463,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "kind": "lyric",
+      "text": "挑めばいいさ",
+      "startMs": 191470,
+      "endMs": 193829,
+      "characters": [
+        {
+          "text": "挑",
+          "index": 0,
+          "startMs": 191470,
+          "endMs": 191838,
+          "frame": 11488,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 1,
+          "startMs": 191838,
+          "endMs": 192198,
+          "frame": 11510,
+          "vocal": true
+        },
+        {
+          "text": "ば",
+          "index": 2,
+          "startMs": 192198,
+          "endMs": 192399,
+          "frame": 11532,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 3,
+          "startMs": 192399,
+          "endMs": 192778,
+          "frame": 11544,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 4,
+          "startMs": 192778,
+          "endMs": 193157,
+          "frame": 11567,
+          "vocal": true
+        },
+        {
+          "text": "さ",
+          "index": 5,
+          "startMs": 193157,
+          "endMs": 193828,
+          "frame": 11589,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "kind": "lyric",
+      "text": "明日も明後日も 自分で決めた道を",
+      "startMs": 193829,
+      "endMs": 199203,
+      "characters": [
+        {
+          "text": "明日",
+          "index": 0,
+          "startMs": 193829,
+          "endMs": 194509,
+          "frame": 11630,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 1,
+          "startMs": 194509,
+          "endMs": 195150,
+          "frame": 11671,
+          "vocal": true
+        },
+        {
+          "text": "明後日",
+          "index": 2,
+          "startMs": 195150,
+          "endMs": 196525,
+          "frame": 11709,
+          "vocal": true
+        },
+        {
+          "text": "も",
+          "index": 3,
+          "startMs": 196525,
+          "endMs": 196837,
+          "frame": 11792,
+          "vocal": true
+        },
+        {
+          "text": " ",
+          "index": 4,
+          "startMs": 196837,
+          "endMs": 196837,
+          "frame": 11810,
+          "vocal": false
+        },
+        {
+          "text": "自",
+          "index": 5,
+          "startMs": 196837,
+          "endMs": 197054,
+          "frame": 11810,
+          "vocal": true
+        },
+        {
+          "text": "分",
+          "index": 6,
+          "startMs": 197054,
+          "endMs": 197421,
+          "frame": 11823,
+          "vocal": true
+        },
+        {
+          "text": "で",
+          "index": 7,
+          "startMs": 197421,
+          "endMs": 197607,
+          "frame": 11845,
+          "vocal": true
+        },
+        {
+          "text": "決",
+          "index": 8,
+          "startMs": 197607,
+          "endMs": 197773,
+          "frame": 11856,
+          "vocal": true
+        },
+        {
+          "text": "め",
+          "index": 9,
+          "startMs": 197773,
+          "endMs": 197933,
+          "frame": 11866,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 10,
+          "startMs": 197933,
+          "endMs": 198093,
+          "frame": 11876,
+          "vocal": true
+        },
+        {
+          "text": "道",
+          "index": 11,
+          "startMs": 198093,
+          "endMs": 198469,
+          "frame": 11886,
+          "vocal": true
+        },
+        {
+          "text": "を",
+          "index": 12,
+          "startMs": 198469,
+          "endMs": 199203,
+          "frame": 11908,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "kind": "lyric",
+      "text": "逃げたりしないだろ？",
+      "startMs": 199203,
+      "endMs": 202271,
+      "characters": [
+        {
+          "text": "逃",
+          "index": 0,
+          "startMs": 199203,
+          "endMs": 199517,
+          "frame": 11952,
+          "vocal": true
+        },
+        {
+          "text": "げ",
+          "index": 1,
+          "startMs": 199517,
+          "endMs": 199861,
+          "frame": 11971,
+          "vocal": true
+        },
+        {
+          "text": "た",
+          "index": 2,
+          "startMs": 199861,
+          "endMs": 200548,
+          "frame": 11992,
+          "vocal": true
+        },
+        {
+          "text": "り",
+          "index": 3,
+          "startMs": 200548,
+          "endMs": 201189,
+          "frame": 12033,
+          "vocal": true
+        },
+        {
+          "text": "し",
+          "index": 4,
+          "startMs": 201189,
+          "endMs": 201355,
+          "frame": 12071,
+          "vocal": true
+        },
+        {
+          "text": "な",
+          "index": 5,
+          "startMs": 201355,
+          "endMs": 201460,
+          "frame": 12081,
+          "vocal": true
+        },
+        {
+          "text": "い",
+          "index": 6,
+          "startMs": 201460,
+          "endMs": 201691,
+          "frame": 12088,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 7,
+          "startMs": 201691,
+          "endMs": 201883,
+          "frame": 12101,
+          "vocal": true
+        },
+        {
+          "text": "ろ",
+          "index": 8,
+          "startMs": 201883,
+          "endMs": 202227,
+          "frame": 12113,
+          "vocal": true
+        },
+        {
+          "text": "？",
+          "index": 9,
+          "startMs": 202227,
+          "endMs": 202271,
+          "frame": 12134,
+          "vocal": false
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "kind": "lyric",
+      "text": "Forever GREEN BOY だね",
+      "startMs": 202271,
+      "endMs": 207493,
+      "characters": [
+        {
+          "text": "Forever ",
+          "index": 0,
+          "startMs": 202271,
+          "endMs": 202983,
+          "frame": 12136,
+          "vocal": true
+        },
+        {
+          "text": "GREEN ",
+          "index": 1,
+          "startMs": 202983,
+          "endMs": 203279,
+          "frame": 12179,
+          "vocal": true
+        },
+        {
+          "text": "BOY ",
+          "index": 2,
+          "startMs": 203279,
+          "endMs": 203695,
+          "frame": 12197,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 3,
+          "startMs": 203695,
+          "endMs": 203887,
+          "frame": 12222,
+          "vocal": true
+        },
+        {
+          "text": "ね",
+          "index": 4,
+          "startMs": 203887,
+          "endMs": 207493,
+          "frame": 12233,
+          "vocal": true
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "kind": "lyric",
+      "text": "挑み続けるんだ",
+      "startMs": 209681,
+      "endMs": 213961,
+      "characters": [
+        {
+          "text": "挑",
+          "index": 0,
+          "startMs": 209681,
+          "endMs": 210027,
+          "frame": 12581,
+          "vocal": true
+        },
+        {
+          "text": "み",
+          "index": 1,
+          "startMs": 210027,
+          "endMs": 210193,
+          "frame": 12602,
+          "vocal": true
+        },
+        {
+          "text": "続",
+          "index": 2,
+          "startMs": 210193,
+          "endMs": 210497,
+          "frame": 12612,
+          "vocal": true
+        },
+        {
+          "text": "け",
+          "index": 3,
+          "startMs": 210497,
+          "endMs": 210657,
+          "frame": 12630,
+          "vocal": true
+        },
+        {
+          "text": "る",
+          "index": 4,
+          "startMs": 210657,
+          "endMs": 210829,
+          "frame": 12639,
+          "vocal": true
+        },
+        {
+          "text": "ん",
+          "index": 5,
+          "startMs": 210829,
+          "endMs": 211001,
+          "frame": 12650,
+          "vocal": true
+        },
+        {
+          "text": "だ",
+          "index": 6,
+          "startMs": 211001,
+          "endMs": 213961,
+          "frame": 12660,
+          "vocal": true
+        }
+      ]
+    }
+  ]
+}

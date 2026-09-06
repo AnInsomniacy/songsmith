@@ -1,0 +1,49 @@
+{
+  "name": "remotion-lyric-studio",
+  "version": "1.0.0",
+  "description": "Shared Remotion workspace for character-aligned lyric films",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.507",
+    "@remotion/effects": "4.0.507",
+    "@remotion/fonts": "4.0.507",
+    "@remotion/google-fonts": "4.0.507",
+    "@remotion/layout-utils": "4.0.507",
+    "@remotion/media": "4.0.507",
+    "@remotion/noise": "4.0.507",
+    "@remotion/paths": "4.0.507",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.507"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.507",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "render:one-last-kiss:gpt-6-astra-svg": "remotion render src/index.ts OneLastKiss-GPT6Astra-SVG 'out/One Last Kiss（GPT-6 Astra · SVG）.mp4' && node scripts/one-last-kiss/svg-finalize.mjs",
+    "studio": "remotion studio src/index.ts",
+    "render:green-boys:gpt-6-astra": "remotion render src/index.ts GreenBoys-GPT6Astra 'out/Green boys（GPT-6 Astra）.mp4'",
+    "compositions": "remotion compositions src/index.ts",
+    "lint": "eslint src scripts && tsc",
+    "validate": "node scripts/bu-chao-bu-yong-hua-qian/validate-lyrics.mjs && node scripts/jia-you/validate-lyrics.mjs && node scripts/wo-de-hui-yi-bu-shi-wo-de/validate-lyrics.mjs",
+    "render:jia-you:gpt-5-6": "remotion render src/index.ts JiaYou-GPT56 'out/加油（GPT-5.6）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:gpt-5-6": "remotion render src/index.ts BuChaoBuYongHuaQian-GPT56 'out/不潮不用花钱（GPT-5.6）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:gpt-6-astra": "remotion render src/index.ts BuChaoBuYongHuaQian-GPT6Astra 'out/不潮不用花钱（GPT-6 Astra）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:grok-4-6": "remotion render src/index.ts BuChaoBuYongHuaQian-Grok46 'out/不潮不用花钱（Grok-4.6）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:claude-opus-4-5": "remotion render src/index.ts BuChaoBuYongHuaQian-ClaudeOpus45 'out/不潮不用花钱（Claude Opus 4.5）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:gemini-3-7-flash": "remotion render src/index.ts BuChaoBuYongHuaQian-Gemini37Flash 'out/不潮不用花钱（Gemini 3.7 Flash）.mp4'",
+    "render:qing-tian:gpt-5-6": "remotion render src/index.ts QingTian-GPT56 'out/晴天（GPT-5.6）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:deepseek-v4-flash": "remotion render src/index.ts BuChaoBuYongHuaQian-DeepSeekV4Flash 'out/不潮不用花钱（DeepSeek v4 Flash）.mp4'",
+    "render:bu-chao-bu-yong-hua-qian:glm-5-3-flash": "remotion render src/index.ts BuChaoBuYongHuaQian-Glm53Flash 'out/不潮不用花钱（GLM-5.3 Flash）.mp4'",
+    "render:wo-de-hui-yi-bu-shi-wo-de:gpt-5-6": "remotion render src/index.ts WoDeHuiYiBuShiWoDe-GPT56 'out/我的回忆不是我的（GPT-5.6）.mp4'"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

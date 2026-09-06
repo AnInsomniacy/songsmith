@@ -1,0 +1,3049 @@
+{
+  "source": {
+    "primary": "https://lyrics.kugou.com/download?ver=1&client=pc&id=211083113&accesskey=547122AD81120288E3AB60C01CA35AD4&fmt=krc&charset=utf8",
+    "references": [
+      "https://y.qq.com/n/ryqq/songDetail/0026G2Lq3Cl7ig",
+      "https://music.163.com/song?id=108463"
+    ]
+  },
+  "songId": "211083113",
+  "title": "不潮不用花钱",
+  "artist": "林俊杰",
+  "audioDurationMs": 233508,
+  "intro": {
+    "credits": [
+      {
+        "label": "词",
+        "value": "林怡凤"
+      },
+      {
+        "label": "曲",
+        "value": "林俊杰"
+      },
+      {
+        "label": "编曲",
+        "value": "林俊杰 / Kenn C"
+      },
+      {
+        "label": "制作",
+        "value": "林俊杰"
+      },
+      {
+        "label": "吉他",
+        "value": "林俊杰 / Kenn C"
+      },
+      {
+        "label": "录音与混音",
+        "value": "吴剑泓 / Joe Vannelli"
+      }
+    ],
+    "vocalises": [
+      {
+        "id": "intro-vocal-0",
+        "text": "Ah ah ah",
+        "startMs": 12024,
+        "endMs": 13091,
+        "kind": "vocalise",
+        "characters": [
+          {
+            "text": "Ah ",
+            "startMs": 12024,
+            "endMs": 12431,
+            "index": 0
+          },
+          {
+            "text": "ah ",
+            "startMs": 12431,
+            "endMs": 12990,
+            "index": 1
+          },
+          {
+            "text": "ah",
+            "startMs": 12990,
+            "endMs": 13091,
+            "index": 2
+          }
+        ]
+      },
+      {
+        "id": "intro-vocal-1",
+        "text": "Come on",
+        "startMs": 13599,
+        "endMs": 13752,
+        "kind": "vocalise",
+        "characters": [
+          {
+            "text": "Come ",
+            "startMs": 13599,
+            "endMs": 13701,
+            "index": 0
+          },
+          {
+            "text": "on",
+            "startMs": 13701,
+            "endMs": 13752,
+            "index": 1
+          }
+        ]
+      }
+    ]
+  },
+  "lines": [
+    {
+      "id": "line-0",
+      "text": "Hey greedy don't fret",
+      "startMs": 15733,
+      "endMs": 17107,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Hey ",
+          "startMs": 15733,
+          "endMs": 16038,
+          "index": 0
+        },
+        {
+          "text": "greedy ",
+          "startMs": 16038,
+          "endMs": 16345,
+          "index": 1
+        },
+        {
+          "text": "don't ",
+          "startMs": 16852,
+          "endMs": 17005,
+          "index": 2
+        },
+        {
+          "text": "fret",
+          "startMs": 17005,
+          "endMs": 17107,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "line-1",
+      "text": "What you see is what you get",
+      "startMs": 17614,
+      "endMs": 19348,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 17614,
+          "endMs": 17870,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 17870,
+          "endMs": 18124,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 18124,
+          "endMs": 18226,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 18429,
+          "endMs": 18684,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 18684,
+          "endMs": 18938,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 18938,
+          "endMs": 19196,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 19196,
+          "endMs": 19348,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-2",
+      "text": "You name it I have it",
+      "startMs": 20009,
+      "endMs": 21632,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "You ",
+          "startMs": 20009,
+          "endMs": 20313,
+          "index": 0
+        },
+        {
+          "text": "name ",
+          "startMs": 20313,
+          "endMs": 20516,
+          "index": 1
+        },
+        {
+          "text": "it ",
+          "startMs": 20516,
+          "endMs": 20668,
+          "index": 2
+        },
+        {
+          "text": "I ",
+          "startMs": 21076,
+          "endMs": 21380,
+          "index": 3
+        },
+        {
+          "text": "have ",
+          "startMs": 21380,
+          "endMs": 21583,
+          "index": 4
+        },
+        {
+          "text": "it",
+          "startMs": 21583,
+          "endMs": 21632,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-3",
+      "text": "What you see is what you get",
+      "startMs": 21983,
+      "endMs": 23559,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 21983,
+          "endMs": 22236,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 22236,
+          "endMs": 22439,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 22439,
+          "endMs": 22542,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 22746,
+          "endMs": 22846,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 22846,
+          "endMs": 23101,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 23101,
+          "endMs": 23458,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 23458,
+          "endMs": 23559,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "左左左左 偏左就用左手",
+      "startMs": 24320,
+      "endMs": 27570,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "左",
+          "startMs": 24320,
+          "endMs": 24524,
+          "index": 0
+        },
+        {
+          "text": "左",
+          "startMs": 24524,
+          "endMs": 24778,
+          "index": 1
+        },
+        {
+          "text": "左",
+          "startMs": 25133,
+          "endMs": 25336,
+          "index": 2
+        },
+        {
+          "text": "左",
+          "startMs": 25336,
+          "endMs": 25438,
+          "index": 3
+        },
+        {
+          "text": " ",
+          "startMs": 25438,
+          "endMs": 25946,
+          "index": 4
+        },
+        {
+          "text": "偏",
+          "startMs": 25946,
+          "endMs": 26199,
+          "index": 5
+        },
+        {
+          "text": "左",
+          "startMs": 26199,
+          "endMs": 26455,
+          "index": 6
+        },
+        {
+          "text": "就",
+          "startMs": 26455,
+          "endMs": 26708,
+          "index": 7
+        },
+        {
+          "text": "用",
+          "startMs": 26708,
+          "endMs": 27264,
+          "index": 8
+        },
+        {
+          "text": "左",
+          "startMs": 27264,
+          "endMs": 27519,
+          "index": 9
+        },
+        {
+          "text": "手",
+          "startMs": 27519,
+          "endMs": 27570,
+          "index": 10
+        }
+      ]
+    },
+    {
+      "id": "line-5",
+      "text": "生活就不用想太多",
+      "startMs": 28028,
+      "endMs": 31128,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "生",
+          "startMs": 28028,
+          "endMs": 28283,
+          "index": 0
+        },
+        {
+          "text": "活",
+          "startMs": 28283,
+          "endMs": 28537,
+          "index": 1
+        },
+        {
+          "text": "就",
+          "startMs": 28537,
+          "endMs": 28791,
+          "index": 2
+        },
+        {
+          "text": "不",
+          "startMs": 28791,
+          "endMs": 29247,
+          "index": 3
+        },
+        {
+          "text": "用",
+          "startMs": 29247,
+          "endMs": 29602,
+          "index": 4
+        },
+        {
+          "text": "想",
+          "startMs": 29602,
+          "endMs": 30112,
+          "index": 5
+        },
+        {
+          "text": "太",
+          "startMs": 30112,
+          "endMs": 30721,
+          "index": 6
+        },
+        {
+          "text": "多",
+          "startMs": 30721,
+          "endMs": 31128,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "怦怦怦怦心动 张开眼睛",
+      "startMs": 32984,
+      "endMs": 36183,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "怦",
+          "startMs": 32984,
+          "endMs": 33239,
+          "index": 0
+        },
+        {
+          "text": "怦",
+          "startMs": 33239,
+          "endMs": 33696,
+          "index": 1
+        },
+        {
+          "text": "怦",
+          "startMs": 33696,
+          "endMs": 33950,
+          "index": 2
+        },
+        {
+          "text": "怦",
+          "startMs": 33950,
+          "endMs": 34508,
+          "index": 3
+        },
+        {
+          "text": "心",
+          "startMs": 34508,
+          "endMs": 34761,
+          "index": 4
+        },
+        {
+          "text": "动",
+          "startMs": 34761,
+          "endMs": 34811,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 34811,
+          "endMs": 35168,
+          "index": 6
+        },
+        {
+          "text": "张",
+          "startMs": 35168,
+          "endMs": 35371,
+          "index": 7
+        },
+        {
+          "text": "开",
+          "startMs": 35371,
+          "endMs": 35879,
+          "index": 8
+        },
+        {
+          "text": "眼",
+          "startMs": 35879,
+          "endMs": 36133,
+          "index": 9
+        },
+        {
+          "text": "睛",
+          "startMs": 36133,
+          "endMs": 36183,
+          "index": 10
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "就记得当下的强烈",
+      "startMs": 36692,
+      "endMs": 39942,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "就",
+          "startMs": 36692,
+          "endMs": 36894,
+          "index": 0
+        },
+        {
+          "text": "记",
+          "startMs": 36894,
+          "endMs": 37149,
+          "index": 1
+        },
+        {
+          "text": "得",
+          "startMs": 37149,
+          "endMs": 37454,
+          "index": 2
+        },
+        {
+          "text": "当",
+          "startMs": 37454,
+          "endMs": 37959,
+          "index": 3
+        },
+        {
+          "text": "下",
+          "startMs": 37959,
+          "endMs": 38214,
+          "index": 4
+        },
+        {
+          "text": "的",
+          "startMs": 38214,
+          "endMs": 38774,
+          "index": 5
+        },
+        {
+          "text": "强",
+          "startMs": 38774,
+          "endMs": 39332,
+          "index": 6
+        },
+        {
+          "text": "烈",
+          "startMs": 39332,
+          "endMs": 39942,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "有时灵光一闪而过",
+      "startMs": 40704,
+      "endMs": 43193,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "有",
+          "startMs": 40704,
+          "endMs": 40958,
+          "index": 0
+        },
+        {
+          "text": "时",
+          "startMs": 40958,
+          "endMs": 41211,
+          "index": 1
+        },
+        {
+          "text": "灵",
+          "startMs": 41211,
+          "endMs": 41465,
+          "index": 2
+        },
+        {
+          "text": "光",
+          "startMs": 41465,
+          "endMs": 41770,
+          "index": 3
+        },
+        {
+          "text": "一",
+          "startMs": 41770,
+          "endMs": 42277,
+          "index": 4
+        },
+        {
+          "text": "闪",
+          "startMs": 42277,
+          "endMs": 42583,
+          "index": 5
+        },
+        {
+          "text": "而",
+          "startMs": 42583,
+          "endMs": 43040,
+          "index": 6
+        },
+        {
+          "text": "过",
+          "startMs": 43040,
+          "endMs": 43193,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "牛顿也吃苹果",
+      "startMs": 43701,
+      "endMs": 46645,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "牛",
+          "startMs": 43701,
+          "endMs": 44209,
+          "index": 0
+        },
+        {
+          "text": "顿",
+          "startMs": 44209,
+          "endMs": 44718,
+          "index": 1
+        },
+        {
+          "text": "也",
+          "startMs": 44718,
+          "endMs": 45276,
+          "index": 2
+        },
+        {
+          "text": "吃",
+          "startMs": 45276,
+          "endMs": 45783,
+          "index": 3
+        },
+        {
+          "text": "苹",
+          "startMs": 45783,
+          "endMs": 46342,
+          "index": 4
+        },
+        {
+          "text": "果",
+          "startMs": 46342,
+          "endMs": 46645,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "我的念头不太啰嗦",
+      "startMs": 49289,
+      "endMs": 51778,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "我",
+          "startMs": 49289,
+          "endMs": 49544,
+          "index": 0
+        },
+        {
+          "text": "的",
+          "startMs": 49544,
+          "endMs": 49798,
+          "index": 1
+        },
+        {
+          "text": "念",
+          "startMs": 49798,
+          "endMs": 50053,
+          "index": 2
+        },
+        {
+          "text": "头",
+          "startMs": 50053,
+          "endMs": 50306,
+          "index": 3
+        },
+        {
+          "text": "不",
+          "startMs": 50306,
+          "endMs": 50814,
+          "index": 4
+        },
+        {
+          "text": "太",
+          "startMs": 50814,
+          "endMs": 51168,
+          "index": 5
+        },
+        {
+          "text": "啰",
+          "startMs": 51168,
+          "endMs": 51625,
+          "index": 6
+        },
+        {
+          "text": "嗦",
+          "startMs": 51625,
+          "endMs": 51778,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "限时间能入座",
+      "startMs": 52283,
+      "endMs": 55534,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "限",
+          "startMs": 52283,
+          "endMs": 52793,
+          "index": 0
+        },
+        {
+          "text": "时",
+          "startMs": 52793,
+          "endMs": 53301,
+          "index": 1
+        },
+        {
+          "text": "间",
+          "startMs": 53301,
+          "endMs": 53808,
+          "index": 2
+        },
+        {
+          "text": "能",
+          "startMs": 53808,
+          "endMs": 54368,
+          "index": 3
+        },
+        {
+          "text": "入",
+          "startMs": 54368,
+          "endMs": 54874,
+          "index": 4
+        },
+        {
+          "text": "座",
+          "startMs": 54874,
+          "endMs": 55534,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "请你 不要到处叩叩",
+      "startMs": 56805,
+      "endMs": 59496,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "请",
+          "startMs": 56805,
+          "endMs": 57262,
+          "index": 0
+        },
+        {
+          "text": "你",
+          "startMs": 57262,
+          "endMs": 57364,
+          "index": 1
+        },
+        {
+          "text": " ",
+          "startMs": 57364,
+          "endMs": 57871,
+          "index": 2
+        },
+        {
+          "text": "不",
+          "startMs": 57871,
+          "endMs": 58125,
+          "index": 3
+        },
+        {
+          "text": "要",
+          "startMs": 58125,
+          "endMs": 58329,
+          "index": 4
+        },
+        {
+          "text": "到",
+          "startMs": 58329,
+          "endMs": 58632,
+          "index": 5
+        },
+        {
+          "text": "处",
+          "startMs": 58632,
+          "endMs": 58886,
+          "index": 6
+        },
+        {
+          "text": "叩",
+          "startMs": 58886,
+          "endMs": 59344,
+          "index": 7
+        },
+        {
+          "text": "叩",
+          "startMs": 59344,
+          "endMs": 59496,
+          "index": 8
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "潮流需要抠抠 不小心就没抠抠",
+      "startMs": 60005,
+      "endMs": 64375,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "潮",
+          "startMs": 60005,
+          "endMs": 60207,
+          "index": 0
+        },
+        {
+          "text": "流",
+          "startMs": 60207,
+          "endMs": 60461,
+          "index": 1
+        },
+        {
+          "text": "需",
+          "startMs": 60461,
+          "endMs": 60766,
+          "index": 2
+        },
+        {
+          "text": "要",
+          "startMs": 60766,
+          "endMs": 61020,
+          "index": 3
+        },
+        {
+          "text": "抠",
+          "startMs": 61020,
+          "endMs": 61530,
+          "index": 4
+        },
+        {
+          "text": "抠",
+          "startMs": 61530,
+          "endMs": 61631,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 61631,
+          "endMs": 62139,
+          "index": 6
+        },
+        {
+          "text": "不",
+          "startMs": 62139,
+          "endMs": 62394,
+          "index": 7
+        },
+        {
+          "text": "小",
+          "startMs": 62394,
+          "endMs": 62648,
+          "index": 8
+        },
+        {
+          "text": "心",
+          "startMs": 62648,
+          "endMs": 62902,
+          "index": 9
+        },
+        {
+          "text": "就",
+          "startMs": 62902,
+          "endMs": 63207,
+          "index": 10
+        },
+        {
+          "text": "没",
+          "startMs": 63207,
+          "endMs": 63664,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 63664,
+          "endMs": 63968,
+          "index": 12
+        },
+        {
+          "text": "抠",
+          "startMs": 63968,
+          "endMs": 64375,
+          "index": 13
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "用力到处扣扣 花掉所有抠抠",
+      "startMs": 66457,
+      "endMs": 70215,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "用",
+          "startMs": 66457,
+          "endMs": 66660,
+          "index": 0
+        },
+        {
+          "text": "力",
+          "startMs": 66660,
+          "endMs": 66914,
+          "index": 1
+        },
+        {
+          "text": "到",
+          "startMs": 66914,
+          "endMs": 67166,
+          "index": 2
+        },
+        {
+          "text": "处",
+          "startMs": 67166,
+          "endMs": 67472,
+          "index": 3
+        },
+        {
+          "text": "扣",
+          "startMs": 67472,
+          "endMs": 67930,
+          "index": 4
+        },
+        {
+          "text": "扣",
+          "startMs": 67930,
+          "endMs": 68082,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 68082,
+          "endMs": 68589,
+          "index": 6
+        },
+        {
+          "text": "花",
+          "startMs": 68589,
+          "endMs": 68792,
+          "index": 7
+        },
+        {
+          "text": "掉",
+          "startMs": 68792,
+          "endMs": 69047,
+          "index": 8
+        },
+        {
+          "text": "所",
+          "startMs": 69047,
+          "endMs": 69352,
+          "index": 9
+        },
+        {
+          "text": "有",
+          "startMs": 69352,
+          "endMs": 69605,
+          "index": 10
+        },
+        {
+          "text": "抠",
+          "startMs": 69605,
+          "endMs": 70114,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 70114,
+          "endMs": 70215,
+          "index": 12
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "钱买不到绝活",
+      "startMs": 70723,
+      "endMs": 72857,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "钱",
+          "startMs": 70723,
+          "endMs": 70976,
+          "index": 0
+        },
+        {
+          "text": "买",
+          "startMs": 70976,
+          "endMs": 71231,
+          "index": 1
+        },
+        {
+          "text": "不",
+          "startMs": 71231,
+          "endMs": 71536,
+          "index": 2
+        },
+        {
+          "text": "到",
+          "startMs": 71536,
+          "endMs": 71790,
+          "index": 3
+        },
+        {
+          "text": "绝",
+          "startMs": 71790,
+          "endMs": 72348,
+          "index": 4
+        },
+        {
+          "text": "活",
+          "startMs": 72348,
+          "endMs": 72857,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你说听说听说你听谁说",
+      "startMs": 93028,
+      "endMs": 96227,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "你",
+          "startMs": 93028,
+          "endMs": 93232,
+          "index": 0
+        },
+        {
+          "text": "说",
+          "startMs": 93232,
+          "endMs": 93536,
+          "index": 1
+        },
+        {
+          "text": "听",
+          "startMs": 93740,
+          "endMs": 93942,
+          "index": 2
+        },
+        {
+          "text": "说",
+          "startMs": 93942,
+          "endMs": 94145,
+          "index": 3
+        },
+        {
+          "text": "听",
+          "startMs": 94602,
+          "endMs": 94804,
+          "index": 4
+        },
+        {
+          "text": "说",
+          "startMs": 94804,
+          "endMs": 95008,
+          "index": 5
+        },
+        {
+          "text": "你",
+          "startMs": 95008,
+          "endMs": 95211,
+          "index": 6
+        },
+        {
+          "text": "听",
+          "startMs": 95211,
+          "endMs": 95769,
+          "index": 7
+        },
+        {
+          "text": "谁",
+          "startMs": 95769,
+          "endMs": 96024,
+          "index": 8
+        },
+        {
+          "text": "说",
+          "startMs": 96024,
+          "endMs": 96227,
+          "index": 9
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "跟着乱走闹哄哄",
+      "startMs": 96919,
+      "endMs": 99766,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "跟",
+          "startMs": 96919,
+          "endMs": 97123,
+          "index": 0
+        },
+        {
+          "text": "着",
+          "startMs": 97123,
+          "endMs": 97428,
+          "index": 1
+        },
+        {
+          "text": "乱",
+          "startMs": 97428,
+          "endMs": 97935,
+          "index": 2
+        },
+        {
+          "text": "走",
+          "startMs": 97935,
+          "endMs": 98242,
+          "index": 3
+        },
+        {
+          "text": "闹",
+          "startMs": 98242,
+          "endMs": 98748,
+          "index": 4
+        },
+        {
+          "text": "哄",
+          "startMs": 98748,
+          "endMs": 99359,
+          "index": 5
+        },
+        {
+          "text": "哄",
+          "startMs": 99359,
+          "endMs": 99766,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "通通通通普通普通",
+      "startMs": 101486,
+      "endMs": 103977,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "通",
+          "startMs": 101486,
+          "endMs": 101741,
+          "index": 0
+        },
+        {
+          "text": "通",
+          "startMs": 101741,
+          "endMs": 102249,
+          "index": 1
+        },
+        {
+          "text": "通",
+          "startMs": 102249,
+          "endMs": 102504,
+          "index": 2
+        },
+        {
+          "text": "通",
+          "startMs": 102504,
+          "endMs": 102758,
+          "index": 3
+        },
+        {
+          "text": "普",
+          "startMs": 103113,
+          "endMs": 103317,
+          "index": 4
+        },
+        {
+          "text": "通",
+          "startMs": 103317,
+          "endMs": 103570,
+          "index": 5
+        },
+        {
+          "text": "普",
+          "startMs": 103570,
+          "endMs": 103773,
+          "index": 6
+        },
+        {
+          "text": "通",
+          "startMs": 103773,
+          "endMs": 103977,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "如果不懂 不要随便拒绝",
+      "startMs": 104434,
+      "endMs": 108453,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "如",
+          "startMs": 104434,
+          "endMs": 104637,
+          "index": 0
+        },
+        {
+          "text": "果",
+          "startMs": 104637,
+          "endMs": 105144,
+          "index": 1
+        },
+        {
+          "text": "不",
+          "startMs": 105144,
+          "endMs": 105349,
+          "index": 2
+        },
+        {
+          "text": "懂",
+          "startMs": 105349,
+          "endMs": 105505,
+          "index": 3
+        },
+        {
+          "text": " ",
+          "startMs": 105505,
+          "endMs": 105759,
+          "index": 4
+        },
+        {
+          "text": "不",
+          "startMs": 105759,
+          "endMs": 105962,
+          "index": 5
+        },
+        {
+          "text": "要",
+          "startMs": 105962,
+          "endMs": 106523,
+          "index": 6
+        },
+        {
+          "text": "随",
+          "startMs": 106523,
+          "endMs": 106778,
+          "index": 7
+        },
+        {
+          "text": "便",
+          "startMs": 106778,
+          "endMs": 107336,
+          "index": 8
+        },
+        {
+          "text": "拒",
+          "startMs": 107336,
+          "endMs": 107845,
+          "index": 9
+        },
+        {
+          "text": "绝",
+          "startMs": 107845,
+          "endMs": 108453,
+          "index": 10
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "有时灵光一闪而过",
+      "startMs": 109268,
+      "endMs": 111757,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "有",
+          "startMs": 109268,
+          "endMs": 109471,
+          "index": 0
+        },
+        {
+          "text": "时",
+          "startMs": 109471,
+          "endMs": 109724,
+          "index": 1
+        },
+        {
+          "text": "灵",
+          "startMs": 109724,
+          "endMs": 109978,
+          "index": 2
+        },
+        {
+          "text": "光",
+          "startMs": 109978,
+          "endMs": 110232,
+          "index": 3
+        },
+        {
+          "text": "一",
+          "startMs": 110232,
+          "endMs": 110791,
+          "index": 4
+        },
+        {
+          "text": "闪",
+          "startMs": 110791,
+          "endMs": 111097,
+          "index": 5
+        },
+        {
+          "text": "而",
+          "startMs": 111097,
+          "endMs": 111605,
+          "index": 6
+        },
+        {
+          "text": "过",
+          "startMs": 111605,
+          "endMs": 111757,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "牛顿也吃苹果",
+      "startMs": 112265,
+      "endMs": 115364,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "牛",
+          "startMs": 112265,
+          "endMs": 112722,
+          "index": 0
+        },
+        {
+          "text": "顿",
+          "startMs": 112722,
+          "endMs": 113280,
+          "index": 1
+        },
+        {
+          "text": "也",
+          "startMs": 113280,
+          "endMs": 113788,
+          "index": 2
+        },
+        {
+          "text": "吃",
+          "startMs": 113788,
+          "endMs": 114295,
+          "index": 3
+        },
+        {
+          "text": "苹",
+          "startMs": 114295,
+          "endMs": 114855,
+          "index": 4
+        },
+        {
+          "text": "果",
+          "startMs": 114855,
+          "endMs": 115364,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "我的念头不太啰嗦",
+      "startMs": 117857,
+      "endMs": 120297,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "我",
+          "startMs": 117857,
+          "endMs": 118060,
+          "index": 0
+        },
+        {
+          "text": "的",
+          "startMs": 118060,
+          "endMs": 118313,
+          "index": 1
+        },
+        {
+          "text": "念",
+          "startMs": 118313,
+          "endMs": 118568,
+          "index": 2
+        },
+        {
+          "text": "头",
+          "startMs": 118568,
+          "endMs": 118823,
+          "index": 3
+        },
+        {
+          "text": "不",
+          "startMs": 118823,
+          "endMs": 119433,
+          "index": 4
+        },
+        {
+          "text": "太",
+          "startMs": 119433,
+          "endMs": 119687,
+          "index": 5
+        },
+        {
+          "text": "啰",
+          "startMs": 119687,
+          "endMs": 120094,
+          "index": 6
+        },
+        {
+          "text": "嗦",
+          "startMs": 120094,
+          "endMs": 120297,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "限时间能入座",
+      "startMs": 120753,
+      "endMs": 124209,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "限",
+          "startMs": 120753,
+          "endMs": 121261,
+          "index": 0
+        },
+        {
+          "text": "时",
+          "startMs": 121261,
+          "endMs": 121819,
+          "index": 1
+        },
+        {
+          "text": "间",
+          "startMs": 121819,
+          "endMs": 122328,
+          "index": 2
+        },
+        {
+          "text": "能",
+          "startMs": 122328,
+          "endMs": 122887,
+          "index": 3
+        },
+        {
+          "text": "入",
+          "startMs": 122887,
+          "endMs": 123397,
+          "index": 4
+        },
+        {
+          "text": "座",
+          "startMs": 123397,
+          "endMs": 124209,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "请你 不要到处叩叩",
+      "startMs": 125279,
+      "endMs": 128024,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "请",
+          "startMs": 125279,
+          "endMs": 125787,
+          "index": 0
+        },
+        {
+          "text": "你",
+          "startMs": 125787,
+          "endMs": 125939,
+          "index": 1
+        },
+        {
+          "text": " ",
+          "startMs": 125939,
+          "endMs": 126396,
+          "index": 2
+        },
+        {
+          "text": "不",
+          "startMs": 126396,
+          "endMs": 126600,
+          "index": 3
+        },
+        {
+          "text": "要",
+          "startMs": 126600,
+          "endMs": 126855,
+          "index": 4
+        },
+        {
+          "text": "到",
+          "startMs": 126855,
+          "endMs": 127159,
+          "index": 5
+        },
+        {
+          "text": "处",
+          "startMs": 127159,
+          "endMs": 127363,
+          "index": 6
+        },
+        {
+          "text": "叩",
+          "startMs": 127363,
+          "endMs": 127872,
+          "index": 7
+        },
+        {
+          "text": "叩",
+          "startMs": 127872,
+          "endMs": 128024,
+          "index": 8
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "潮流需要抠抠 不小心就没抠抠",
+      "startMs": 128482,
+      "endMs": 132544,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "潮",
+          "startMs": 128482,
+          "endMs": 128736,
+          "index": 0
+        },
+        {
+          "text": "流",
+          "startMs": 128736,
+          "endMs": 129040,
+          "index": 1
+        },
+        {
+          "text": "需",
+          "startMs": 129040,
+          "endMs": 129345,
+          "index": 2
+        },
+        {
+          "text": "要",
+          "startMs": 129345,
+          "endMs": 129600,
+          "index": 3
+        },
+        {
+          "text": "抠",
+          "startMs": 129600,
+          "endMs": 130056,
+          "index": 4
+        },
+        {
+          "text": "抠",
+          "startMs": 130056,
+          "endMs": 130209,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 130209,
+          "endMs": 130666,
+          "index": 6
+        },
+        {
+          "text": "不",
+          "startMs": 130666,
+          "endMs": 130919,
+          "index": 7
+        },
+        {
+          "text": "小",
+          "startMs": 130919,
+          "endMs": 131172,
+          "index": 8
+        },
+        {
+          "text": "心",
+          "startMs": 131172,
+          "endMs": 131426,
+          "index": 9
+        },
+        {
+          "text": "就",
+          "startMs": 131426,
+          "endMs": 131731,
+          "index": 10
+        },
+        {
+          "text": "没",
+          "startMs": 131731,
+          "endMs": 132290,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 132290,
+          "endMs": 132493,
+          "index": 12
+        },
+        {
+          "text": "抠",
+          "startMs": 132493,
+          "endMs": 132544,
+          "index": 13
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "用力到处扣扣 花掉所有抠抠",
+      "startMs": 134981,
+      "endMs": 138738,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "用",
+          "startMs": 134981,
+          "endMs": 135184,
+          "index": 0
+        },
+        {
+          "text": "力",
+          "startMs": 135184,
+          "endMs": 135438,
+          "index": 1
+        },
+        {
+          "text": "到",
+          "startMs": 135438,
+          "endMs": 135743,
+          "index": 2
+        },
+        {
+          "text": "处",
+          "startMs": 135743,
+          "endMs": 135996,
+          "index": 3
+        },
+        {
+          "text": "扣",
+          "startMs": 135996,
+          "endMs": 136451,
+          "index": 4
+        },
+        {
+          "text": "扣",
+          "startMs": 136451,
+          "endMs": 136655,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 136655,
+          "endMs": 137114,
+          "index": 6
+        },
+        {
+          "text": "花",
+          "startMs": 137114,
+          "endMs": 137369,
+          "index": 7
+        },
+        {
+          "text": "掉",
+          "startMs": 137369,
+          "endMs": 137571,
+          "index": 8
+        },
+        {
+          "text": "所",
+          "startMs": 137571,
+          "endMs": 137824,
+          "index": 9
+        },
+        {
+          "text": "有",
+          "startMs": 137824,
+          "endMs": 138130,
+          "index": 10
+        },
+        {
+          "text": "抠",
+          "startMs": 138130,
+          "endMs": 138586,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 138586,
+          "endMs": 138738,
+          "index": 12
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "钱买不到绝活",
+      "startMs": 139247,
+      "endMs": 141585,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "钱",
+          "startMs": 139247,
+          "endMs": 139451,
+          "index": 0
+        },
+        {
+          "text": "买",
+          "startMs": 139451,
+          "endMs": 139756,
+          "index": 1
+        },
+        {
+          "text": "不",
+          "startMs": 139756,
+          "endMs": 140011,
+          "index": 2
+        },
+        {
+          "text": "到",
+          "startMs": 140011,
+          "endMs": 140265,
+          "index": 3
+        },
+        {
+          "text": "绝",
+          "startMs": 140265,
+          "endMs": 140825,
+          "index": 4
+        },
+        {
+          "text": "活",
+          "startMs": 140825,
+          "endMs": 141585,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "Little chick having chips on my sofa",
+      "startMs": 144884,
+      "endMs": 146408,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Little ",
+          "startMs": 144884,
+          "endMs": 145139,
+          "index": 0
+        },
+        {
+          "text": "chick ",
+          "startMs": 145139,
+          "endMs": 145394,
+          "index": 1
+        },
+        {
+          "text": "having ",
+          "startMs": 145394,
+          "endMs": 145547,
+          "index": 2
+        },
+        {
+          "text": "chips ",
+          "startMs": 145547,
+          "endMs": 145698,
+          "index": 3
+        },
+        {
+          "text": "on ",
+          "startMs": 145953,
+          "endMs": 146105,
+          "index": 4
+        },
+        {
+          "text": "my ",
+          "startMs": 146105,
+          "endMs": 146206,
+          "index": 5
+        },
+        {
+          "text": "sofa",
+          "startMs": 146206,
+          "endMs": 146408,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "Bearbricks take a shit on my sofa",
+      "startMs": 146969,
+      "endMs": 148595,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Bearbricks ",
+          "startMs": 146969,
+          "endMs": 147426,
+          "index": 0
+        },
+        {
+          "text": "take ",
+          "startMs": 147629,
+          "endMs": 147782,
+          "index": 1
+        },
+        {
+          "text": "a ",
+          "startMs": 147782,
+          "endMs": 147935,
+          "index": 2
+        },
+        {
+          "text": "shit ",
+          "startMs": 147935,
+          "endMs": 148138,
+          "index": 3
+        },
+        {
+          "text": "on ",
+          "startMs": 148138,
+          "endMs": 148290,
+          "index": 4
+        },
+        {
+          "text": "my ",
+          "startMs": 148290,
+          "endMs": 148392,
+          "index": 5
+        },
+        {
+          "text": "sofa",
+          "startMs": 148392,
+          "endMs": 148595,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "Smudge babies lying on my sofa",
+      "startMs": 149103,
+      "endMs": 150728,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Smudge ",
+          "startMs": 149103,
+          "endMs": 149357,
+          "index": 0
+        },
+        {
+          "text": "babies ",
+          "startMs": 149357,
+          "endMs": 149661,
+          "index": 1
+        },
+        {
+          "text": "lying ",
+          "startMs": 149965,
+          "endMs": 150220,
+          "index": 2
+        },
+        {
+          "text": "on ",
+          "startMs": 150220,
+          "endMs": 150372,
+          "index": 3
+        },
+        {
+          "text": "my ",
+          "startMs": 150372,
+          "endMs": 150525,
+          "index": 4
+        },
+        {
+          "text": "sofa",
+          "startMs": 150525,
+          "endMs": 150728,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "Neighborhoods and kiks singing sofa",
+      "startMs": 151533,
+      "endMs": 153007,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Neighborhoods ",
+          "startMs": 151533,
+          "endMs": 151838,
+          "index": 0
+        },
+        {
+          "text": "and ",
+          "startMs": 151838,
+          "endMs": 152142,
+          "index": 1
+        },
+        {
+          "text": "kiks ",
+          "startMs": 152142,
+          "endMs": 152244,
+          "index": 2
+        },
+        {
+          "text": "singing ",
+          "startMs": 152498,
+          "endMs": 152702,
+          "index": 3
+        },
+        {
+          "text": "sofa",
+          "startMs": 152702,
+          "endMs": 153007,
+          "index": 4
+        }
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "Little chick having chips on my sofa",
+      "startMs": 153514,
+      "endMs": 155244,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Little ",
+          "startMs": 153514,
+          "endMs": 153768,
+          "index": 0
+        },
+        {
+          "text": "chick ",
+          "startMs": 153768,
+          "endMs": 153971,
+          "index": 1
+        },
+        {
+          "text": "having ",
+          "startMs": 154226,
+          "endMs": 154327,
+          "index": 2
+        },
+        {
+          "text": "chips ",
+          "startMs": 154327,
+          "endMs": 154582,
+          "index": 3
+        },
+        {
+          "text": "on ",
+          "startMs": 154582,
+          "endMs": 154734,
+          "index": 4
+        },
+        {
+          "text": "my ",
+          "startMs": 154734,
+          "endMs": 154938,
+          "index": 5
+        },
+        {
+          "text": "sofa",
+          "startMs": 154938,
+          "endMs": 155244,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "Bearbricks take a shit on my sofa",
+      "startMs": 155762,
+      "endMs": 157336,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Bearbricks ",
+          "startMs": 155762,
+          "endMs": 156220,
+          "index": 0
+        },
+        {
+          "text": "take ",
+          "startMs": 156220,
+          "endMs": 156373,
+          "index": 1
+        },
+        {
+          "text": "a ",
+          "startMs": 156373,
+          "endMs": 156474,
+          "index": 2
+        },
+        {
+          "text": "shit ",
+          "startMs": 156474,
+          "endMs": 156574,
+          "index": 3
+        },
+        {
+          "text": "on ",
+          "startMs": 156728,
+          "endMs": 156880,
+          "index": 4
+        },
+        {
+          "text": "my ",
+          "startMs": 156880,
+          "endMs": 157033,
+          "index": 5
+        },
+        {
+          "text": "sofa",
+          "startMs": 157033,
+          "endMs": 157336,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "Smudge babies lying on my sofa",
+      "startMs": 157743,
+      "endMs": 159931,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Smudge ",
+          "startMs": 157743,
+          "endMs": 157948,
+          "index": 0
+        },
+        {
+          "text": "babies ",
+          "startMs": 157948,
+          "endMs": 158305,
+          "index": 1
+        },
+        {
+          "text": "lying ",
+          "startMs": 158559,
+          "endMs": 158864,
+          "index": 2
+        },
+        {
+          "text": "on ",
+          "startMs": 158864,
+          "endMs": 159068,
+          "index": 3
+        },
+        {
+          "text": "my ",
+          "startMs": 159068,
+          "endMs": 159271,
+          "index": 4
+        },
+        {
+          "text": "sofa",
+          "startMs": 159271,
+          "endMs": 159931,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "Hey greedy don't fret",
+      "startMs": 161505,
+      "endMs": 162876,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Hey ",
+          "startMs": 161505,
+          "endMs": 161760,
+          "index": 0
+        },
+        {
+          "text": "greedy ",
+          "startMs": 161760,
+          "endMs": 162064,
+          "index": 1
+        },
+        {
+          "text": "don't ",
+          "startMs": 162572,
+          "endMs": 162775,
+          "index": 2
+        },
+        {
+          "text": "fret",
+          "startMs": 162775,
+          "endMs": 162876,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "What you see is what you get",
+      "startMs": 163334,
+      "endMs": 165061,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 163334,
+          "endMs": 163589,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 163589,
+          "endMs": 163843,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 163843,
+          "endMs": 163945,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 164147,
+          "endMs": 164401,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 164401,
+          "endMs": 164655,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 164655,
+          "endMs": 164960,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 164960,
+          "endMs": 165061,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "You name it I have it",
+      "startMs": 165773,
+      "endMs": 167346,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "You ",
+          "startMs": 165773,
+          "endMs": 166027,
+          "index": 0
+        },
+        {
+          "text": "name ",
+          "startMs": 166027,
+          "endMs": 166231,
+          "index": 1
+        },
+        {
+          "text": "it ",
+          "startMs": 166231,
+          "endMs": 166332,
+          "index": 2
+        },
+        {
+          "text": "I ",
+          "startMs": 166790,
+          "endMs": 167042,
+          "index": 3
+        },
+        {
+          "text": "have ",
+          "startMs": 167042,
+          "endMs": 167245,
+          "index": 4
+        },
+        {
+          "text": "it",
+          "startMs": 167245,
+          "endMs": 167346,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "What you see is what you get",
+      "startMs": 167650,
+      "endMs": 169276,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 167650,
+          "endMs": 167904,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 167904,
+          "endMs": 168108,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 168108,
+          "endMs": 168260,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 168362,
+          "endMs": 168565,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 168565,
+          "endMs": 168717,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 168717,
+          "endMs": 169122,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 169122,
+          "endMs": 169276,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "请你不要到处叩叩",
+      "startMs": 176817,
+      "endMs": 179459,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "请",
+          "startMs": 176817,
+          "endMs": 177325,
+          "index": 0
+        },
+        {
+          "text": "你",
+          "startMs": 177325,
+          "endMs": 177885,
+          "index": 1
+        },
+        {
+          "text": "不",
+          "startMs": 177885,
+          "endMs": 178088,
+          "index": 2
+        },
+        {
+          "text": "要",
+          "startMs": 178088,
+          "endMs": 178341,
+          "index": 3
+        },
+        {
+          "text": "到",
+          "startMs": 178341,
+          "endMs": 178594,
+          "index": 4
+        },
+        {
+          "text": "处",
+          "startMs": 178594,
+          "endMs": 178899,
+          "index": 5
+        },
+        {
+          "text": "叩",
+          "startMs": 178899,
+          "endMs": 179357,
+          "index": 6
+        },
+        {
+          "text": "叩",
+          "startMs": 179357,
+          "endMs": 179459,
+          "index": 7
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "潮流需要抠抠 不小心就没抠抠",
+      "startMs": 180018,
+      "endMs": 184029,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "潮",
+          "startMs": 180018,
+          "endMs": 180221,
+          "index": 0
+        },
+        {
+          "text": "流",
+          "startMs": 180221,
+          "endMs": 180476,
+          "index": 1
+        },
+        {
+          "text": "需",
+          "startMs": 180476,
+          "endMs": 180730,
+          "index": 2
+        },
+        {
+          "text": "要",
+          "startMs": 180730,
+          "endMs": 181033,
+          "index": 3
+        },
+        {
+          "text": "抠",
+          "startMs": 181033,
+          "endMs": 181491,
+          "index": 4
+        },
+        {
+          "text": "抠",
+          "startMs": 181491,
+          "endMs": 181642,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 181642,
+          "endMs": 182150,
+          "index": 6
+        },
+        {
+          "text": "不",
+          "startMs": 182150,
+          "endMs": 182353,
+          "index": 7
+        },
+        {
+          "text": "小",
+          "startMs": 182353,
+          "endMs": 182607,
+          "index": 8
+        },
+        {
+          "text": "心",
+          "startMs": 182607,
+          "endMs": 182862,
+          "index": 9
+        },
+        {
+          "text": "就",
+          "startMs": 182862,
+          "endMs": 183167,
+          "index": 10
+        },
+        {
+          "text": "没",
+          "startMs": 183167,
+          "endMs": 183724,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 183724,
+          "endMs": 183929,
+          "index": 12
+        },
+        {
+          "text": "抠",
+          "startMs": 183929,
+          "endMs": 184029,
+          "index": 13
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "用力到处扣扣 花掉所有抠抠",
+      "startMs": 186468,
+      "endMs": 190175,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "用",
+          "startMs": 186468,
+          "endMs": 186671,
+          "index": 0
+        },
+        {
+          "text": "力",
+          "startMs": 186671,
+          "endMs": 186925,
+          "index": 1
+        },
+        {
+          "text": "到",
+          "startMs": 186925,
+          "endMs": 187179,
+          "index": 2
+        },
+        {
+          "text": "处",
+          "startMs": 187179,
+          "endMs": 187432,
+          "index": 3
+        },
+        {
+          "text": "扣",
+          "startMs": 187432,
+          "endMs": 187891,
+          "index": 4
+        },
+        {
+          "text": "扣",
+          "startMs": 187891,
+          "endMs": 187992,
+          "index": 5
+        },
+        {
+          "text": " ",
+          "startMs": 187992,
+          "endMs": 188550,
+          "index": 6
+        },
+        {
+          "text": "花",
+          "startMs": 188550,
+          "endMs": 188804,
+          "index": 7
+        },
+        {
+          "text": "掉",
+          "startMs": 188804,
+          "endMs": 189057,
+          "index": 8
+        },
+        {
+          "text": "所",
+          "startMs": 189057,
+          "endMs": 189313,
+          "index": 9
+        },
+        {
+          "text": "有",
+          "startMs": 189313,
+          "endMs": 189618,
+          "index": 10
+        },
+        {
+          "text": "抠",
+          "startMs": 189618,
+          "endMs": 190023,
+          "index": 11
+        },
+        {
+          "text": "抠",
+          "startMs": 190023,
+          "endMs": 190175,
+          "index": 12
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "钱买不到绝活",
+      "startMs": 190735,
+      "endMs": 192618,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "钱",
+          "startMs": 190735,
+          "endMs": 190938,
+          "index": 0
+        },
+        {
+          "text": "买",
+          "startMs": 190938,
+          "endMs": 191243,
+          "index": 1
+        },
+        {
+          "text": "不",
+          "startMs": 191243,
+          "endMs": 191497,
+          "index": 2
+        },
+        {
+          "text": "到",
+          "startMs": 191497,
+          "endMs": 191752,
+          "index": 3
+        },
+        {
+          "text": "绝",
+          "startMs": 191752,
+          "endMs": 192259,
+          "index": 4
+        },
+        {
+          "text": "活",
+          "startMs": 192259,
+          "endMs": 192618,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "Hey greedy don't fret",
+      "startMs": 195920,
+      "endMs": 197190,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Hey ",
+          "startMs": 195920,
+          "endMs": 196073,
+          "index": 0
+        },
+        {
+          "text": "greedy ",
+          "startMs": 196073,
+          "endMs": 196378,
+          "index": 1
+        },
+        {
+          "text": "don't ",
+          "startMs": 196886,
+          "endMs": 197089,
+          "index": 2
+        },
+        {
+          "text": "fret",
+          "startMs": 197089,
+          "endMs": 197190,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "What you see is what you get",
+      "startMs": 197648,
+      "endMs": 199271,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 197648,
+          "endMs": 197902,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 197902,
+          "endMs": 198104,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 198104,
+          "endMs": 198256,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 198509,
+          "endMs": 198712,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 198712,
+          "endMs": 198966,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 198966,
+          "endMs": 199169,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 199169,
+          "endMs": 199271,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "You name it I have it",
+      "startMs": 200606,
+      "endMs": 201725,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "You ",
+          "startMs": 200606,
+          "endMs": 200708,
+          "index": 0
+        },
+        {
+          "text": "name ",
+          "startMs": 200708,
+          "endMs": 200860,
+          "index": 1
+        },
+        {
+          "text": "it ",
+          "startMs": 200860,
+          "endMs": 201064,
+          "index": 2
+        },
+        {
+          "text": "I ",
+          "startMs": 201318,
+          "endMs": 201471,
+          "index": 3
+        },
+        {
+          "text": "have ",
+          "startMs": 201471,
+          "endMs": 201624,
+          "index": 4
+        },
+        {
+          "text": "it",
+          "startMs": 201624,
+          "endMs": 201725,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "What you see is what you get",
+      "startMs": 201979,
+      "endMs": 203554,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 201979,
+          "endMs": 202183,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 202183,
+          "endMs": 202435,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 202435,
+          "endMs": 202586,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 202791,
+          "endMs": 202944,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 202944,
+          "endMs": 203197,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 203197,
+          "endMs": 203401,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 203401,
+          "endMs": 203554,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "Hey greedy don't fret",
+      "startMs": 204750,
+      "endMs": 205766,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "Hey ",
+          "startMs": 204750,
+          "endMs": 204903,
+          "index": 0
+        },
+        {
+          "text": "greedy ",
+          "startMs": 204903,
+          "endMs": 205258,
+          "index": 1
+        },
+        {
+          "text": "don't ",
+          "startMs": 205461,
+          "endMs": 205664,
+          "index": 2
+        },
+        {
+          "text": "fret",
+          "startMs": 205664,
+          "endMs": 205766,
+          "index": 3
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "What you see is what you get",
+      "startMs": 206223,
+      "endMs": 207849,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 206223,
+          "endMs": 206476,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 206476,
+          "endMs": 206732,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 206732,
+          "endMs": 206833,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 207088,
+          "endMs": 207291,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 207291,
+          "endMs": 207545,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 207545,
+          "endMs": 207697,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 207697,
+          "endMs": 207849,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "You name it I have it",
+      "startMs": 208823,
+      "endMs": 210246,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "You ",
+          "startMs": 208823,
+          "endMs": 208975,
+          "index": 0
+        },
+        {
+          "text": "name ",
+          "startMs": 208975,
+          "endMs": 209230,
+          "index": 1
+        },
+        {
+          "text": "it ",
+          "startMs": 209230,
+          "endMs": 209331,
+          "index": 2
+        },
+        {
+          "text": "I ",
+          "startMs": 209687,
+          "endMs": 209941,
+          "index": 3
+        },
+        {
+          "text": "have ",
+          "startMs": 209941,
+          "endMs": 210144,
+          "index": 4
+        },
+        {
+          "text": "it",
+          "startMs": 210144,
+          "endMs": 210246,
+          "index": 5
+        }
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "What you see is what you get",
+      "startMs": 210551,
+      "endMs": 212073,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "What ",
+          "startMs": 210551,
+          "endMs": 210755,
+          "index": 0
+        },
+        {
+          "text": "you ",
+          "startMs": 210755,
+          "endMs": 211008,
+          "index": 1
+        },
+        {
+          "text": "see ",
+          "startMs": 211008,
+          "endMs": 211109,
+          "index": 2
+        },
+        {
+          "text": "is ",
+          "startMs": 211362,
+          "endMs": 211565,
+          "index": 3
+        },
+        {
+          "text": "what ",
+          "startMs": 211565,
+          "endMs": 211819,
+          "index": 4
+        },
+        {
+          "text": "you ",
+          "startMs": 211819,
+          "endMs": 212022,
+          "index": 5
+        },
+        {
+          "text": "get",
+          "startMs": 212022,
+          "endMs": 212073,
+          "index": 6
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "喔噢 扣扣扣扣 喔噢",
+      "startMs": 212383,
+      "endMs": 233508,
+      "kind": "lyric",
+      "alignment": "krc-primary",
+      "characters": [
+        {
+          "text": "喔",
+          "startMs": 212383,
+          "endMs": 212639,
+          "index": 0
+        },
+        {
+          "text": "噢",
+          "startMs": 212639,
+          "endMs": 212945,
+          "index": 1
+        },
+        {
+          "text": " ",
+          "startMs": 212945,
+          "endMs": 213248,
+          "index": 2
+        },
+        {
+          "text": "扣",
+          "startMs": 213248,
+          "endMs": 213757,
+          "index": 3
+        },
+        {
+          "text": "扣",
+          "startMs": 213757,
+          "endMs": 214114,
+          "index": 4
+        },
+        {
+          "text": "扣",
+          "startMs": 215333,
+          "endMs": 215840,
+          "index": 5
+        },
+        {
+          "text": "扣",
+          "startMs": 215840,
+          "endMs": 215942,
+          "index": 6
+        },
+        {
+          "text": " ",
+          "startMs": 215942,
+          "endMs": 216653,
+          "index": 7
+        },
+        {
+          "text": "喔",
+          "startMs": 216653,
+          "endMs": 217212,
+          "index": 8
+        },
+        {
+          "text": "噢",
+          "startMs": 217212,
+          "endMs": 218838,
+          "index": 9
+        }
+      ]
+    }
+  ]
+}
