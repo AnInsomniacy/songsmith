@@ -57,3 +57,9 @@ Show the official title and artist in the first frame, then continue naturally. 
 Validate representative stills and exported short clips before a full film. Check unit coverage, translations, fonts, bounds, layer order, stable text, and transitions. Do not run exhaustive video decoding or isolated-frame anomaly scans by default.
 
 After export, verify dimensions, frame count, duration, and audio presence. Compare sampled output audio with the recording; distinguish this check from lyric audition. Fix only demonstrated causes and keep song-specific remedies scoped. Show render progress. Deliver a playable full film when requested, state actual verification limits, and stop when the requested work is complete.
+
+## Film releases
+
+Publish or update releases only with explicit authorization. Use only the official song title, performing artist, and full model name in release titles and attachment display names; append the file extension for downloads. Preserve original-language names. If the host sanitizes filenames, use a readable ASCII filename and the complete original-language asset label, then verify the published result.
+
+Write release notes in Chinese unless requested otherwise. Open with the song, verified performer and songwriter credits, and model attribution. Check embedded audio metadata first, then existing source credits; never invent missing credits. Explain the film's interpretation, narrative progression, scene choices, recurring motifs, and palette in readable, proportionate paragraphs grounded in the actual work. Emphasize creative reasoning over scene inventories or implementation mechanics. Omit technology promotion, rendering workflow, timing rules, export specifications, download instructions, and boilerplate disclaimers unless requested. Preview copy before publication when asked, and update the existing release rather than creating a duplicate.
