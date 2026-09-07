@@ -24,11 +24,11 @@ Implementations live in `src/renders/<official-title>/<model>/`. Public song ass
 
 Keep official song titles, artist names, lyrics, translations, and on-screen song content in their original languages. Write engineering documentation, comments, diagnostics, and identifiers in English. Use English component filenames such as Video.tsx and Lyrics.tsx. Technical Composition and Folder identifiers use Remotion-compatible ASCII. Output filenames retain the official title and full model name.
 
-Keep Video.tsx as the directly imported implementation entry. Root.tsx explicitly registers lazy-loaded compositions. Share small, proven utilities; keep scene artwork and musical interpretation local to each work. Do not build a plugin framework, duplicate dependency environments, or add empty scaffolding.
+Use model names alone to distinguish implementations; omit historical technique suffixes such as `-svg` from directories, composition IDs, commands, and output names. Keep Video.tsx as the directly imported implementation entry. Root.tsx explicitly registers lazy-loaded compositions. Share small, proven utilities; keep scene artwork and musical interpretation local to each work. Do not build a plugin framework, duplicate dependency environments, or add empty scaffolding.
 
 ## Art direction
 
-Start with the lyrics, vocal character, and emotional development. Define a distinctive theme, color logic, type hierarchy, spatial composition, and visual signature. Use the approved One Last Kiss SVG edition as a quality reference for complete settings, material detail, lighting, and reading hierarchy, without copying its subjects.
+Start with the lyrics, vocal character, and emotional development. Define a distinctive theme, color logic, type hierarchy, spatial composition, and visual signature. Use the approved One Last Kiss film as a quality reference for complete settings, material detail, lighting, and reading hierarchy, without copying its subjects.
 
 Build finished SVG illustrations, not placeholder geometry or isolated keyword icons. Compose foreground, subject, and background intentionally. Detail should follow scale and focus. Each scene needs meaningful objects, credible relationships, and an action that expresses the song. Maintain this quality through the cover, verses, choruses, instrumental sections, and ending.
 

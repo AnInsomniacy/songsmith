@@ -13,7 +13,7 @@
 <p align="center">
   <img src="docs/assets/one-last-kiss-preview.png" width="880" alt="One Last Kiss opening credits beside a detailed SVG landscape painting under a warm gallery light." />
   <br />
-  <sub>A frame from the One Last Kiss SVG edition. Artwork and typography are rendered from code.</sub>
+  <sub>A frame from the One Last Kiss film. Artwork and typography are rendered from code.</sub>
 </p>
 
 songsmith is a code-first workspace for full-length lyric videos made with React, TypeScript, and [Remotion](https://www.remotion.dev/). Each song has a distinct visual direction, detailed SVG scenes, and expressive typography. Native sung units follow the recording, with nearby Chinese translations for foreign-language vocals.
@@ -46,7 +46,7 @@ The One Last Kiss command additionally checks and, only when needed, repairs its
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
-npm run "render:One Last Kiss:gpt-6-astra-svg"
+npm run "render:One Last Kiss:gpt-6-astra"
 ```
 
 The pinned Python dependencies are used for font subsetting and audio checks. Python 3.13 is the tested environment; JavaScript checks and representative renders were run with Node.js 26.7.

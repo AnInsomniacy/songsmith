@@ -28,7 +28,7 @@
     "typescript": "5.9.3"
   },
   "scripts": {
-    "render:One Last Kiss:gpt-6-astra-svg": "remotion render src/index.ts OneLastKiss-GPT6Astra-SVG 'out/One Last Kiss（GPT-6 Astra · SVG）.mp4' && node 'scripts/One Last Kiss/gpt-6-astra-svg/finalize.mjs'",
+    "render:One Last Kiss:gpt-6-astra": "remotion render src/index.ts OneLastKiss-GPT6Astra 'out/One Last Kiss（GPT-6 Astra）.mp4' && node 'scripts/One Last Kiss/gpt-6-astra/finalize.mjs'",
     "studio": "remotion studio src/index.ts",
     "compositions": "remotion compositions src/index.ts",
     "lint": "eslint src scripts tests",

@@ -5,9 +5,9 @@ export const RemotionRoot: React.FC = () => (
   <Folder name="Songs">
     <Folder name="OneLastKiss">
       <Composition
-        id="OneLastKiss-GPT6Astra-SVG"
+        id="OneLastKiss-GPT6Astra"
         lazyComponent={() =>
-          import("./renders/One Last Kiss/gpt-6-astra-svg/Video")
+          import("./renders/One Last Kiss/gpt-6-astra/Video")
         }
         durationInFrames={15122}
         fps={60}
