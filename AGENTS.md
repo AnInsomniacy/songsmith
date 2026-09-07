@@ -60,6 +60,8 @@ After export, verify dimensions, frame count, duration, and audio presence. Comp
 
 ## Film releases
 
+Use a plain-text release title; format notes with GitHub Markdown. Start with compact bold credit labels and, when useful, one short concept blockquote. Organize substantial prose under descriptive H2 headings, using H3 only for meaningful narrative stages. Leave blank lines around headings and paragraphs. Avoid repeating the title as an H1, unbroken walls of text, decorative badges, excessive emphasis, and generic software changelog sections.
+
 Publish or update releases only with explicit authorization. Use only the official song title, performing artist, and full model name in release titles and attachment display names; append the file extension for downloads. Preserve original-language names. If the host sanitizes filenames, use a readable ASCII filename and the complete original-language asset label, then verify the published result.
 
 Write release notes in Chinese unless requested otherwise. Open with the song, verified performer and songwriter credits, and model attribution. Check embedded audio metadata first, then existing source credits; never invent missing credits. Explain the film's interpretation, narrative progression, scene choices, recurring motifs, and palette in readable, proportionate paragraphs grounded in the actual work. Emphasize creative reasoning over scene inventories or implementation mechanics. Omit technology promotion, rendering workflow, timing rules, export specifications, download instructions, and boilerplate disclaimers unless requested. Preview copy before publication when asked, and update the existing release rather than creating a duplicate.
