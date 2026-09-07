@@ -1,0 +1,4636 @@
+{
+  "title": "One Last Kiss",
+  "album": "One Last Kiss",
+  "audioDurationMs": 252027,
+  "language": "ja",
+  "translationLanguage": "zh-Hans",
+  "source": {
+    "platform": "酷狗音乐",
+    "format": "KRC",
+    "lyricId": "286935227",
+    "designation": "官方推荐歌词",
+    "nativeDurationMs": 252055,
+    "official": "https://www.utadahikaru.jp/music/ghmo4tohwu8i/",
+    "textReference": "https://www.uta-net.com/song/298948/",
+    "qqSong": "https://y.qq.com/n/ryqq/songDetail/003Rxsvb1Vwl5U",
+    "neteaseSong": "https://music.163.com/song?id=1824020871",
+    "identity": "Lookup uses the supplied file hash, duration, and exact artist/title. Hash alone had no result; artist/title fallback returned this edition.",
+    "verification": "Full text checked against Uta-Net. All 45 vocal row starts match QQ within 10 ms. Recording duration differs by 28 ms. Direct human listening is not certified by this automated check.",
+    "timingPolicy": "Native unit timestamps are preserved, including zero-duration layout spaces. No ASR, forced alignment, estimated splitting, or global offset.",
+    "rawFile": "raw/source.krc"
+  },
+  "credits": [
+    {
+      "id": "line--3",
+      "text": "One Last Kiss - 宇多田光 (宇多田ヒカル)",
+      "startMs": 0,
+      "endMs": 9569,
+      "kind": "credit",
+      "units": [
+        {
+          "text": "One ",
+          "startMs": 0,
+          "endMs": 638,
+          "sourceRow": 0,
+          "sourceUnit": 0,
+          "nativeText": "One ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "Last ",
+          "startMs": 638,
+          "endMs": 1276,
+          "sourceRow": 0,
+          "sourceUnit": 1,
+          "nativeText": "Last ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "Kiss - ",
+          "startMs": 1276,
+          "endMs": 1914,
+          "sourceRow": 0,
+          "sourceUnit": 2,
+          "nativeText": "Kiss - ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "宇",
+          "startMs": 1914,
+          "endMs": 2552,
+          "sourceRow": 0,
+          "sourceUnit": 3,
+          "nativeText": "宇",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 2552,
+          "endMs": 3190,
+          "sourceRow": 0,
+          "sourceUnit": 4,
+          "nativeText": "多",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "田",
+          "startMs": 3190,
+          "endMs": 3828,
+          "sourceRow": 0,
+          "sourceUnit": 5,
+          "nativeText": "田",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "光",
+          "startMs": 3828,
+          "endMs": 4466,
+          "sourceRow": 0,
+          "sourceUnit": 6,
+          "nativeText": "光",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": " (",
+          "startMs": 4466,
+          "endMs": 5104,
+          "sourceRow": 0,
+          "sourceUnit": 7,
+          "nativeText": " (",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "宇",
+          "startMs": 5104,
+          "endMs": 5742,
+          "sourceRow": 0,
+          "sourceUnit": 8,
+          "nativeText": "宇",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 5742,
+          "endMs": 6380,
+          "sourceRow": 0,
+          "sourceUnit": 9,
+          "nativeText": "多",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "田",
+          "startMs": 6380,
+          "endMs": 7018,
+          "sourceRow": 0,
+          "sourceUnit": 10,
+          "nativeText": "田",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "ヒ",
+          "startMs": 7018,
+          "endMs": 7656,
+          "sourceRow": 0,
+          "sourceUnit": 11,
+          "nativeText": "ヒ",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "カ",
+          "startMs": 7656,
+          "endMs": 8294,
+          "sourceRow": 0,
+          "sourceUnit": 12,
+          "nativeText": "カ",
+          "index": 12,
+          "kind": "vocal"
+        },
+        {
+          "text": "ル",
+          "startMs": 8294,
+          "endMs": 8932,
+          "sourceRow": 0,
+          "sourceUnit": 13,
+          "nativeText": "ル",
+          "index": 13,
+          "kind": "vocal"
+        },
+        {
+          "text": ")",
+          "startMs": 8932,
+          "endMs": 9570,
+          "sourceRow": 0,
+          "sourceUnit": 14,
+          "nativeText": ")",
+          "index": 14,
+          "kind": "vocal"
+        }
+      ]
+    },
+    {
+      "id": "line--2",
+      "text": "词：宇多田ヒカル",
+      "startMs": 9570,
+      "endMs": 14673,
+      "kind": "credit",
+      "units": [
+        {
+          "text": "词",
+          "startMs": 9570,
+          "endMs": 10208,
+          "sourceRow": 1,
+          "sourceUnit": 0,
+          "nativeText": "词",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "：",
+          "startMs": 10208,
+          "endMs": 10846,
+          "sourceRow": 1,
+          "sourceUnit": 1,
+          "nativeText": "：",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "宇",
+          "startMs": 10846,
+          "endMs": 11484,
+          "sourceRow": 1,
+          "sourceUnit": 2,
+          "nativeText": "宇",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 11484,
+          "endMs": 12122,
+          "sourceRow": 1,
+          "sourceUnit": 3,
+          "nativeText": "多",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "田",
+          "startMs": 12122,
+          "endMs": 12760,
+          "sourceRow": 1,
+          "sourceUnit": 4,
+          "nativeText": "田",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ヒ",
+          "startMs": 12760,
+          "endMs": 13398,
+          "sourceRow": 1,
+          "sourceUnit": 5,
+          "nativeText": "ヒ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "カ",
+          "startMs": 13398,
+          "endMs": 14036,
+          "sourceRow": 1,
+          "sourceUnit": 6,
+          "nativeText": "カ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ル",
+          "startMs": 14036,
+          "endMs": 14674,
+          "sourceRow": 1,
+          "sourceUnit": 7,
+          "nativeText": "ル",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ]
+    },
+    {
+      "id": "line--1",
+      "text": "曲：宇多田ヒカル",
+      "startMs": 14675,
+      "endMs": 20698,
+      "kind": "credit",
+      "units": [
+        {
+          "text": "曲",
+          "startMs": 14675,
+          "endMs": 16589,
+          "sourceRow": 2,
+          "sourceUnit": 0,
+          "nativeText": "曲",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "：",
+          "startMs": 16589,
+          "endMs": 17227,
+          "sourceRow": 2,
+          "sourceUnit": 1,
+          "nativeText": "：",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "宇",
+          "startMs": 17227,
+          "endMs": 17865,
+          "sourceRow": 2,
+          "sourceUnit": 2,
+          "nativeText": "宇",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 17865,
+          "endMs": 18503,
+          "sourceRow": 2,
+          "sourceUnit": 3,
+          "nativeText": "多",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "田",
+          "startMs": 18503,
+          "endMs": 19141,
+          "sourceRow": 2,
+          "sourceUnit": 4,
+          "nativeText": "田",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ヒ",
+          "startMs": 19141,
+          "endMs": 19779,
+          "sourceRow": 2,
+          "sourceUnit": 5,
+          "nativeText": "ヒ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "カ",
+          "startMs": 19779,
+          "endMs": 20417,
+          "sourceRow": 2,
+          "sourceUnit": 6,
+          "nativeText": "カ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ル",
+          "startMs": 20417,
+          "endMs": 20699,
+          "sourceRow": 2,
+          "sourceUnit": 7,
+          "nativeText": "ル",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "line-0",
+      "text": "初めてのルーブルは",
+      "startMs": 20699,
+      "endMs": 23011,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "初",
+          "startMs": 20699,
+          "endMs": 21133,
+          "sourceRow": 3,
+          "sourceUnit": 0,
+          "nativeText": "初",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "め",
+          "startMs": 21133,
+          "endMs": 21302,
+          "sourceRow": 3,
+          "sourceUnit": 1,
+          "nativeText": "め",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 21302,
+          "endMs": 21386,
+          "sourceRow": 3,
+          "sourceUnit": 2,
+          "nativeText": "て",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 21386,
+          "endMs": 21578,
+          "sourceRow": 3,
+          "sourceUnit": 3,
+          "nativeText": "の",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "ル",
+          "startMs": 21578,
+          "endMs": 21690,
+          "sourceRow": 3,
+          "sourceUnit": 4,
+          "nativeText": "ル",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ー",
+          "startMs": 21690,
+          "endMs": 21818,
+          "sourceRow": 3,
+          "sourceUnit": 5,
+          "nativeText": "ー",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ブ",
+          "startMs": 21818,
+          "endMs": 21970,
+          "sourceRow": 3,
+          "sourceUnit": 6,
+          "nativeText": "ブ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ル",
+          "startMs": 21970,
+          "endMs": 22298,
+          "sourceRow": 3,
+          "sourceUnit": 7,
+          "nativeText": "ル",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "は",
+          "startMs": 22298,
+          "endMs": 22434,
+          "sourceRow": 3,
+          "sourceUnit": 8,
+          "nativeText": "は",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "第一次去卢浮宫时"
+    },
+    {
+      "id": "line-1",
+      "text": "なんてことはなかったわ",
+      "startMs": 23011,
+      "endMs": 25100,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "な",
+          "startMs": 23011,
+          "endMs": 23103,
+          "sourceRow": 4,
+          "sourceUnit": 0,
+          "nativeText": "な",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "ん",
+          "startMs": 23103,
+          "endMs": 23195,
+          "sourceRow": 4,
+          "sourceUnit": 1,
+          "nativeText": "ん",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 23195,
+          "endMs": 23338,
+          "sourceRow": 4,
+          "sourceUnit": 2,
+          "nativeText": "て",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "こ",
+          "startMs": 23338,
+          "endMs": 23506,
+          "sourceRow": 4,
+          "sourceUnit": 3,
+          "nativeText": "こ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 23506,
+          "endMs": 23650,
+          "sourceRow": 4,
+          "sourceUnit": 4,
+          "nativeText": "と",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "は",
+          "startMs": 23650,
+          "endMs": 23739,
+          "sourceRow": 4,
+          "sourceUnit": 5,
+          "nativeText": "は",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 23739,
+          "endMs": 23907,
+          "sourceRow": 4,
+          "sourceUnit": 6,
+          "nativeText": "な",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 23907,
+          "endMs": 24071,
+          "sourceRow": 4,
+          "sourceUnit": 7,
+          "nativeText": "か",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 24071,
+          "endMs": 24235,
+          "sourceRow": 4,
+          "sourceUnit": 8,
+          "nativeText": "っ",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 24235,
+          "endMs": 24651,
+          "sourceRow": 4,
+          "sourceUnit": 9,
+          "nativeText": "た",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "わ",
+          "startMs": 24651,
+          "endMs": 25099,
+          "sourceRow": 4,
+          "sourceUnit": 10,
+          "nativeText": "わ",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "并没有觉得多么特别"
+    },
+    {
+      "id": "line-2",
+      "text": "私だけのモナリザ",
+      "startMs": 25100,
+      "endMs": 26828,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "私",
+          "startMs": 25100,
+          "endMs": 25604,
+          "sourceRow": 5,
+          "sourceUnit": 0,
+          "nativeText": "私",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "だ",
+          "startMs": 25604,
+          "endMs": 25756,
+          "sourceRow": 5,
+          "sourceUnit": 1,
+          "nativeText": "だ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "け",
+          "startMs": 25756,
+          "endMs": 25901,
+          "sourceRow": 5,
+          "sourceUnit": 2,
+          "nativeText": "け",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 25901,
+          "endMs": 26044,
+          "sourceRow": 5,
+          "sourceUnit": 3,
+          "nativeText": "の",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "モ",
+          "startMs": 26044,
+          "endMs": 26204,
+          "sourceRow": 5,
+          "sourceUnit": 4,
+          "nativeText": "モ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ナ",
+          "startMs": 26204,
+          "endMs": 26364,
+          "sourceRow": 5,
+          "sourceUnit": 5,
+          "nativeText": "ナ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "リ",
+          "startMs": 26364,
+          "endMs": 26516,
+          "sourceRow": 5,
+          "sourceUnit": 6,
+          "nativeText": "リ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ザ",
+          "startMs": 26516,
+          "endMs": 26828,
+          "sourceRow": 5,
+          "sourceUnit": 7,
+          "nativeText": "ザ",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "只属于我的蒙娜丽莎"
+    },
+    {
+      "id": "line-3",
+      "text": "もうとっくに出会ってたから",
+      "startMs": 26942,
+      "endMs": 29374,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "も",
+          "startMs": 26942,
+          "endMs": 27022,
+          "sourceRow": 6,
+          "sourceUnit": 0,
+          "nativeText": "も",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 27022,
+          "endMs": 27295,
+          "sourceRow": 6,
+          "sourceUnit": 1,
+          "nativeText": "う",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 27295,
+          "endMs": 27370,
+          "sourceRow": 6,
+          "sourceUnit": 2,
+          "nativeText": "と",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 27370,
+          "endMs": 27468,
+          "sourceRow": 6,
+          "sourceUnit": 3,
+          "nativeText": "っ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 27468,
+          "endMs": 27668,
+          "sourceRow": 6,
+          "sourceUnit": 4,
+          "nativeText": "く",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "に",
+          "startMs": 27668,
+          "endMs": 27765,
+          "sourceRow": 6,
+          "sourceUnit": 5,
+          "nativeText": "に",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "出",
+          "startMs": 27765,
+          "endMs": 27957,
+          "sourceRow": 6,
+          "sourceUnit": 6,
+          "nativeText": "出",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "会",
+          "startMs": 27957,
+          "endMs": 28121,
+          "sourceRow": 6,
+          "sourceUnit": 7,
+          "nativeText": "会",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 28121,
+          "endMs": 28285,
+          "sourceRow": 6,
+          "sourceUnit": 8,
+          "nativeText": "っ",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 28285,
+          "endMs": 28317,
+          "sourceRow": 6,
+          "sourceUnit": 9,
+          "nativeText": "て",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 28317,
+          "endMs": 28486,
+          "sourceRow": 6,
+          "sourceUnit": 10,
+          "nativeText": "た",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 28486,
+          "endMs": 28900,
+          "sourceRow": 6,
+          "sourceUnit": 11,
+          "nativeText": "か",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 28900,
+          "endMs": 29044,
+          "sourceRow": 6,
+          "sourceUnit": 12,
+          "nativeText": "ら",
+          "index": 12,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "因为我早就已经遇见"
+    },
+    {
+      "id": "line-4",
+      "text": "初めてあなたを見た",
+      "startMs": 29374,
+      "endMs": 31168,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "初",
+          "startMs": 29374,
+          "endMs": 29686,
+          "sourceRow": 7,
+          "sourceUnit": 0,
+          "nativeText": "初",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "め",
+          "startMs": 29686,
+          "endMs": 29886,
+          "sourceRow": 7,
+          "sourceUnit": 1,
+          "nativeText": "め",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 29886,
+          "endMs": 29969,
+          "sourceRow": 7,
+          "sourceUnit": 2,
+          "nativeText": "て",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "あ",
+          "startMs": 29969,
+          "endMs": 30052,
+          "sourceRow": 7,
+          "sourceUnit": 3,
+          "nativeText": "あ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 30052,
+          "endMs": 30228,
+          "sourceRow": 7,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 30228,
+          "endMs": 30404,
+          "sourceRow": 7,
+          "sourceUnit": 5,
+          "nativeText": "た",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "を",
+          "startMs": 30404,
+          "endMs": 30424,
+          "sourceRow": 7,
+          "sourceUnit": 6,
+          "nativeText": "を",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "見",
+          "startMs": 30424,
+          "endMs": 30897,
+          "sourceRow": 7,
+          "sourceUnit": 7,
+          "nativeText": "見",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 30897,
+          "endMs": 31104,
+          "sourceRow": 7,
+          "sourceUnit": 8,
+          "nativeText": "た",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "初次见到你的"
+    },
+    {
+      "id": "line-5",
+      "text": "あの日動き出した歯車",
+      "startMs": 31168,
+      "endMs": 33678,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "あ",
+          "startMs": 31168,
+          "endMs": 31352,
+          "sourceRow": 8,
+          "sourceUnit": 0,
+          "nativeText": "あ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 31352,
+          "endMs": 31453,
+          "sourceRow": 8,
+          "sourceUnit": 1,
+          "nativeText": "の",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "日",
+          "startMs": 31453,
+          "endMs": 31550,
+          "sourceRow": 8,
+          "sourceUnit": 2,
+          "nativeText": "日",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "動",
+          "startMs": 31550,
+          "endMs": 31942,
+          "sourceRow": 8,
+          "sourceUnit": 3,
+          "nativeText": "動",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "き",
+          "startMs": 31942,
+          "endMs": 32035,
+          "sourceRow": 8,
+          "sourceUnit": 4,
+          "nativeText": "き",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "出",
+          "startMs": 32035,
+          "endMs": 32219,
+          "sourceRow": 8,
+          "sourceUnit": 5,
+          "nativeText": "出",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 32219,
+          "endMs": 32403,
+          "sourceRow": 8,
+          "sourceUnit": 6,
+          "nativeText": "し",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 32403,
+          "endMs": 32509,
+          "sourceRow": 8,
+          "sourceUnit": 7,
+          "nativeText": "た",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "歯",
+          "startMs": 32509,
+          "endMs": 32685,
+          "sourceRow": 8,
+          "sourceUnit": 8,
+          "nativeText": "歯",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "車",
+          "startMs": 32685,
+          "endMs": 33501,
+          "sourceRow": 8,
+          "sourceUnit": 9,
+          "nativeText": "車",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那一天，齿轮开始转动"
+    },
+    {
+      "id": "line-6",
+      "text": "止められない喪失の予感",
+      "startMs": 33678,
+      "endMs": 37863,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "止",
+          "startMs": 33678,
+          "endMs": 33679,
+          "sourceRow": 9,
+          "sourceUnit": 0,
+          "nativeText": "止",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "め",
+          "startMs": 33679,
+          "endMs": 33856,
+          "sourceRow": 9,
+          "sourceUnit": 1,
+          "nativeText": "め",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 33856,
+          "endMs": 34047,
+          "sourceRow": 9,
+          "sourceUnit": 2,
+          "nativeText": "ら",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 34047,
+          "endMs": 34194,
+          "sourceRow": 9,
+          "sourceUnit": 3,
+          "nativeText": "れ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 34194,
+          "endMs": 34269,
+          "sourceRow": 9,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 34269,
+          "endMs": 34637,
+          "sourceRow": 9,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "喪",
+          "startMs": 34637,
+          "endMs": 34919,
+          "sourceRow": 9,
+          "sourceUnit": 6,
+          "nativeText": "喪",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "失",
+          "startMs": 34919,
+          "endMs": 35874,
+          "sourceRow": 9,
+          "sourceUnit": 7,
+          "nativeText": "失",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 35874,
+          "endMs": 36128,
+          "sourceRow": 9,
+          "sourceUnit": 8,
+          "nativeText": "の",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "予",
+          "startMs": 36128,
+          "endMs": 36735,
+          "sourceRow": 9,
+          "sourceUnit": 9,
+          "nativeText": "予",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "感",
+          "startMs": 36735,
+          "endMs": 37863,
+          "sourceRow": 9,
+          "sourceUnit": 10,
+          "nativeText": "感",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那将要失去什么的预感，无法止息"
+    },
+    {
+      "id": "line-7",
+      "text": "もういっぱいあるけど",
+      "startMs": 38028,
+      "endMs": 43316,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "も",
+          "startMs": 38028,
+          "endMs": 38804,
+          "sourceRow": 10,
+          "sourceUnit": 0,
+          "nativeText": "も",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 38804,
+          "endMs": 39580,
+          "sourceRow": 10,
+          "sourceUnit": 1,
+          "nativeText": "う",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 39580,
+          "endMs": 39832,
+          "sourceRow": 10,
+          "sourceUnit": 2,
+          "nativeText": "い",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 39832,
+          "endMs": 40084,
+          "sourceRow": 10,
+          "sourceUnit": 3,
+          "nativeText": "っ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "ぱ",
+          "startMs": 40084,
+          "endMs": 40283,
+          "sourceRow": 10,
+          "sourceUnit": 4,
+          "nativeText": "ぱ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 40283,
+          "endMs": 40611,
+          "sourceRow": 10,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "あ",
+          "startMs": 40611,
+          "endMs": 41134,
+          "sourceRow": 10,
+          "sourceUnit": 6,
+          "nativeText": "あ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "る",
+          "startMs": 41134,
+          "endMs": 41379,
+          "sourceRow": 10,
+          "sourceUnit": 7,
+          "nativeText": "る",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "け",
+          "startMs": 41379,
+          "endMs": 42067,
+          "sourceRow": 10,
+          "sourceUnit": 8,
+          "nativeText": "け",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "ど",
+          "startMs": 42067,
+          "endMs": 43315,
+          "sourceRow": 10,
+          "sourceUnit": 9,
+          "nativeText": "ど",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "虽然已经有那么多了"
+    },
+    {
+      "id": "line-8",
+      "text": "もう一つ増やしましょう",
+      "startMs": 43792,
+      "endMs": 47751,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "も",
+          "startMs": 43792,
+          "endMs": 43932,
+          "sourceRow": 11,
+          "sourceUnit": 0,
+          "nativeText": "も",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 43932,
+          "endMs": 44072,
+          "sourceRow": 11,
+          "sourceUnit": 1,
+          "nativeText": "う",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "一",
+          "startMs": 44072,
+          "endMs": 44568,
+          "sourceRow": 11,
+          "sourceUnit": 2,
+          "nativeText": "一",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "つ",
+          "startMs": 44568,
+          "endMs": 44873,
+          "sourceRow": 11,
+          "sourceUnit": 3,
+          "nativeText": "つ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "増",
+          "startMs": 44873,
+          "endMs": 45097,
+          "sourceRow": 11,
+          "sourceUnit": 4,
+          "nativeText": "増",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "や",
+          "startMs": 45097,
+          "endMs": 45448,
+          "sourceRow": 11,
+          "sourceUnit": 5,
+          "nativeText": "や",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 45448,
+          "endMs": 45771,
+          "sourceRow": 11,
+          "sourceUnit": 6,
+          "nativeText": "し",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ま",
+          "startMs": 45771,
+          "endMs": 46120,
+          "sourceRow": 11,
+          "sourceUnit": 7,
+          "nativeText": "ま",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 46120,
+          "endMs": 46157,
+          "sourceRow": 11,
+          "sourceUnit": 8,
+          "nativeText": "し",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "ょ",
+          "startMs": 46157,
+          "endMs": 46170,
+          "sourceRow": 11,
+          "sourceUnit": 9,
+          "nativeText": "ょ",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 46170,
+          "endMs": 46226,
+          "sourceRow": 11,
+          "sourceUnit": 10,
+          "nativeText": "う",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "就让我们再添一个吧"
+    },
+    {
+      "id": "line-9",
+      "text": "(Can you give me one last kiss?)",
+      "startMs": 47751,
+      "endMs": 52399,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "(",
+          "startMs": 47751,
+          "endMs": 48193,
+          "sourceRow": 12,
+          "sourceUnit": 0,
+          "nativeText": "(",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "Can ",
+          "startMs": 48193,
+          "endMs": 48408,
+          "sourceRow": 12,
+          "sourceUnit": 1,
+          "nativeText": "Can ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 48408,
+          "endMs": 48759,
+          "sourceRow": 12,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "give ",
+          "startMs": 48759,
+          "endMs": 49282,
+          "sourceRow": 12,
+          "sourceUnit": 3,
+          "nativeText": "give ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "me ",
+          "startMs": 49282,
+          "endMs": 49791,
+          "sourceRow": 12,
+          "sourceUnit": 4,
+          "nativeText": "me ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "one ",
+          "startMs": 49791,
+          "endMs": 50055,
+          "sourceRow": 12,
+          "sourceUnit": 5,
+          "nativeText": "one ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "last ",
+          "startMs": 50055,
+          "endMs": 50751,
+          "sourceRow": 12,
+          "sourceUnit": 6,
+          "nativeText": "last ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "kiss?)",
+          "startMs": 50751,
+          "endMs": 52399,
+          "sourceRow": 12,
+          "sourceUnit": 7,
+          "nativeText": "kiss?)",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "能再给我最后一个吻吗？"
+    },
+    {
+      "id": "line-10",
+      "text": "忘れたくないこと",
+      "startMs": 52399,
+      "endMs": 55225,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 52399,
+          "endMs": 52935,
+          "sourceRow": 13,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 52935,
+          "endMs": 53223,
+          "sourceRow": 13,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 53223,
+          "endMs": 53475,
+          "sourceRow": 13,
+          "sourceUnit": 2,
+          "nativeText": "た",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 53475,
+          "endMs": 53713,
+          "sourceRow": 13,
+          "sourceUnit": 3,
+          "nativeText": "く",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 53713,
+          "endMs": 53959,
+          "sourceRow": 13,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 53959,
+          "endMs": 54215,
+          "sourceRow": 13,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "こ",
+          "startMs": 54215,
+          "endMs": 54551,
+          "sourceRow": 13,
+          "sourceUnit": 6,
+          "nativeText": "こ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 54551,
+          "endMs": 54824,
+          "sourceRow": 13,
+          "sourceUnit": 7,
+          "nativeText": "と",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那些不愿忘记的事"
+    },
+    {
+      "id": "line-11",
+      "text": "Oh oh oh oh oh",
+      "startMs": 55225,
+      "endMs": 61072,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 55225,
+          "endMs": 56033,
+          "sourceRow": 14,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 56033,
+          "endMs": 57169,
+          "sourceRow": 14,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 57169,
+          "endMs": 58207,
+          "sourceRow": 14,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 58207,
+          "endMs": 59434,
+          "sourceRow": 14,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 59434,
+          "endMs": 61072,
+          "sourceRow": 14,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-12",
+      "text": "忘れたくないこと",
+      "startMs": 61072,
+      "endMs": 63791,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 61072,
+          "endMs": 61633,
+          "sourceRow": 15,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 61633,
+          "endMs": 61863,
+          "sourceRow": 15,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 61863,
+          "endMs": 62103,
+          "sourceRow": 15,
+          "sourceUnit": 2,
+          "nativeText": "た",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 62103,
+          "endMs": 62352,
+          "sourceRow": 15,
+          "sourceUnit": 3,
+          "nativeText": "く",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 62352,
+          "endMs": 62577,
+          "sourceRow": 15,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 62577,
+          "endMs": 62823,
+          "sourceRow": 15,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "こ",
+          "startMs": 62823,
+          "endMs": 63159,
+          "sourceRow": 15,
+          "sourceUnit": 6,
+          "nativeText": "こ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 63159,
+          "endMs": 63553,
+          "sourceRow": 15,
+          "sourceUnit": 7,
+          "nativeText": "と",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那些不愿忘记的事"
+    },
+    {
+      "id": "line-13",
+      "text": "Oh oh oh oh oh",
+      "startMs": 63791,
+      "endMs": 69631,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 63791,
+          "endMs": 65239,
+          "sourceRow": 16,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 65239,
+          "endMs": 65911,
+          "sourceRow": 16,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 65911,
+          "endMs": 67943,
+          "sourceRow": 16,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 67943,
+          "endMs": 68847,
+          "sourceRow": 16,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 68847,
+          "endMs": 69631,
+          "sourceRow": 16,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-14",
+      "text": "I love you more than you'll ever know",
+      "startMs": 69631,
+      "endMs": 80847,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "I ",
+          "startMs": 69631,
+          "endMs": 69871,
+          "sourceRow": 17,
+          "sourceUnit": 0,
+          "nativeText": "I ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "love ",
+          "startMs": 69871,
+          "endMs": 70135,
+          "sourceRow": 17,
+          "sourceUnit": 1,
+          "nativeText": "love ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 70135,
+          "endMs": 70359,
+          "sourceRow": 17,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "more ",
+          "startMs": 70359,
+          "endMs": 70624,
+          "sourceRow": 17,
+          "sourceUnit": 3,
+          "nativeText": "more ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "than ",
+          "startMs": 70624,
+          "endMs": 70895,
+          "sourceRow": 17,
+          "sourceUnit": 4,
+          "nativeText": "than ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "you'll ",
+          "startMs": 70895,
+          "endMs": 71223,
+          "sourceRow": 17,
+          "sourceUnit": 5,
+          "nativeText": "you'll ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ever ",
+          "startMs": 71223,
+          "endMs": 71679,
+          "sourceRow": 17,
+          "sourceUnit": 6,
+          "nativeText": "ever ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "know",
+          "startMs": 71679,
+          "endMs": 72607,
+          "sourceRow": 17,
+          "sourceUnit": 7,
+          "nativeText": "know",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我爱你，比你能懂得的还要深"
+    },
+    {
+      "id": "line-15",
+      "text": "「写真は苦手なんだ」",
+      "startMs": 80847,
+      "endMs": 82783,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "「",
+          "startMs": 80847,
+          "endMs": 81063,
+          "sourceRow": 18,
+          "sourceUnit": 0,
+          "nativeText": "「",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "写",
+          "startMs": 81063,
+          "endMs": 81255,
+          "sourceRow": 18,
+          "sourceUnit": 1,
+          "nativeText": "写",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "真",
+          "startMs": 81255,
+          "endMs": 81439,
+          "sourceRow": 18,
+          "sourceUnit": 2,
+          "nativeText": "真",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "は",
+          "startMs": 81439,
+          "endMs": 81615,
+          "sourceRow": 18,
+          "sourceUnit": 3,
+          "nativeText": "は",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "苦",
+          "startMs": 81615,
+          "endMs": 81964,
+          "sourceRow": 18,
+          "sourceUnit": 4,
+          "nativeText": "苦",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "手",
+          "startMs": 81964,
+          "endMs": 82143,
+          "sourceRow": 18,
+          "sourceUnit": 5,
+          "nativeText": "手",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 82143,
+          "endMs": 82239,
+          "sourceRow": 18,
+          "sourceUnit": 6,
+          "nativeText": "な",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ん",
+          "startMs": 82239,
+          "endMs": 82335,
+          "sourceRow": 18,
+          "sourceUnit": 7,
+          "nativeText": "ん",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "だ",
+          "startMs": 82335,
+          "endMs": 82782,
+          "sourceRow": 18,
+          "sourceUnit": 8,
+          "nativeText": "だ",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "」",
+          "startMs": 82782,
+          "endMs": 82783,
+          "sourceRow": 18,
+          "sourceUnit": 9,
+          "nativeText": "」",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "“我不太习惯拍照”"
+    },
+    {
+      "id": "line-16",
+      "text": "でもそんなものはいらないわ",
+      "startMs": 82783,
+      "endMs": 84922,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "で",
+          "startMs": 82783,
+          "endMs": 82951,
+          "sourceRow": 19,
+          "sourceUnit": 0,
+          "nativeText": "で",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "も",
+          "startMs": 82951,
+          "endMs": 83148,
+          "sourceRow": 19,
+          "sourceUnit": 1,
+          "nativeText": "も",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "そ",
+          "startMs": 83148,
+          "endMs": 83237,
+          "sourceRow": 19,
+          "sourceUnit": 2,
+          "nativeText": "そ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "ん",
+          "startMs": 83237,
+          "endMs": 83326,
+          "sourceRow": 19,
+          "sourceUnit": 3,
+          "nativeText": "ん",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 83326,
+          "endMs": 83494,
+          "sourceRow": 19,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "も",
+          "startMs": 83494,
+          "endMs": 83654,
+          "sourceRow": 19,
+          "sourceUnit": 5,
+          "nativeText": "も",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 83654,
+          "endMs": 83799,
+          "sourceRow": 19,
+          "sourceUnit": 6,
+          "nativeText": "の",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "は",
+          "startMs": 83799,
+          "endMs": 83950,
+          "sourceRow": 19,
+          "sourceUnit": 7,
+          "nativeText": "は",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 83950,
+          "endMs": 84118,
+          "sourceRow": 19,
+          "sourceUnit": 8,
+          "nativeText": "い",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 84118,
+          "endMs": 84262,
+          "sourceRow": 19,
+          "sourceUnit": 9,
+          "nativeText": "ら",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 84262,
+          "endMs": 84424,
+          "sourceRow": 19,
+          "sourceUnit": 10,
+          "nativeText": "な",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 84424,
+          "endMs": 84537,
+          "sourceRow": 19,
+          "sourceUnit": 11,
+          "nativeText": "い",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "わ",
+          "startMs": 84537,
+          "endMs": 84921,
+          "sourceRow": 19,
+          "sourceUnit": 12,
+          "nativeText": "わ",
+          "index": 12,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "不过，那些照片也不必了"
+    },
+    {
+      "id": "line-17",
+      "text": "あなたが焼きついたまま",
+      "startMs": 84922,
+      "endMs": 86746,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "あ",
+          "startMs": 84922,
+          "endMs": 85066,
+          "sourceRow": 20,
+          "sourceUnit": 0,
+          "nativeText": "あ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 85066,
+          "endMs": 85250,
+          "sourceRow": 20,
+          "sourceUnit": 1,
+          "nativeText": "な",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 85250,
+          "endMs": 85418,
+          "sourceRow": 20,
+          "sourceUnit": 2,
+          "nativeText": "た",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "が",
+          "startMs": 85418,
+          "endMs": 85570,
+          "sourceRow": 20,
+          "sourceUnit": 3,
+          "nativeText": "が",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "焼",
+          "startMs": 85570,
+          "endMs": 85722,
+          "sourceRow": 20,
+          "sourceUnit": 4,
+          "nativeText": "焼",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "き",
+          "startMs": 85722,
+          "endMs": 85875,
+          "sourceRow": 20,
+          "sourceUnit": 5,
+          "nativeText": "き",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "つ",
+          "startMs": 85875,
+          "endMs": 86018,
+          "sourceRow": 20,
+          "sourceUnit": 6,
+          "nativeText": "つ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 86018,
+          "endMs": 86162,
+          "sourceRow": 20,
+          "sourceUnit": 7,
+          "nativeText": "い",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 86162,
+          "endMs": 86315,
+          "sourceRow": 20,
+          "sourceUnit": 8,
+          "nativeText": "た",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "ま",
+          "startMs": 86315,
+          "endMs": 86476,
+          "sourceRow": 20,
+          "sourceUnit": 9,
+          "nativeText": "ま",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "ま",
+          "startMs": 86476,
+          "endMs": 86746,
+          "sourceRow": 20,
+          "sourceUnit": 10,
+          "nativeText": "ま",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "你的身影，始终烙印在"
+    },
+    {
+      "id": "line-18",
+      "text": "私の心のプロジェクター",
+      "startMs": 86907,
+      "endMs": 89266,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "私",
+          "startMs": 86907,
+          "endMs": 87365,
+          "sourceRow": 21,
+          "sourceUnit": 0,
+          "nativeText": "私",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 87365,
+          "endMs": 87541,
+          "sourceRow": 21,
+          "sourceUnit": 1,
+          "nativeText": "の",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "心",
+          "startMs": 87541,
+          "endMs": 87967,
+          "sourceRow": 21,
+          "sourceUnit": 2,
+          "nativeText": "心",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 87967,
+          "endMs": 88045,
+          "sourceRow": 21,
+          "sourceUnit": 3,
+          "nativeText": "の",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "プ",
+          "startMs": 88045,
+          "endMs": 88237,
+          "sourceRow": 21,
+          "sourceUnit": 4,
+          "nativeText": "プ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ロ",
+          "startMs": 88237,
+          "endMs": 88346,
+          "sourceRow": 21,
+          "sourceUnit": 5,
+          "nativeText": "ロ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ジ",
+          "startMs": 88346,
+          "endMs": 88598,
+          "sourceRow": 21,
+          "sourceUnit": 6,
+          "nativeText": "ジ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ェ",
+          "startMs": 88598,
+          "endMs": 88850,
+          "sourceRow": 21,
+          "sourceUnit": 7,
+          "nativeText": "ェ",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "ク",
+          "startMs": 88850,
+          "endMs": 89043,
+          "sourceRow": 21,
+          "sourceUnit": 8,
+          "nativeText": "ク",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "タ",
+          "startMs": 89043,
+          "endMs": 89072,
+          "sourceRow": 21,
+          "sourceUnit": 9,
+          "nativeText": "タ",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "ー",
+          "startMs": 89072,
+          "endMs": 89120,
+          "sourceRow": 21,
+          "sourceUnit": 10,
+          "nativeText": "ー",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我心中的放映机里"
+    },
+    {
+      "id": "line-19",
+      "text": "寂しくないふりしてた",
+      "startMs": 89266,
+      "endMs": 91350,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "寂",
+          "startMs": 89266,
+          "endMs": 89553,
+          "sourceRow": 22,
+          "sourceUnit": 0,
+          "nativeText": "寂",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 89553,
+          "endMs": 89721,
+          "sourceRow": 22,
+          "sourceUnit": 1,
+          "nativeText": "し",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 89721,
+          "endMs": 89803,
+          "sourceRow": 22,
+          "sourceUnit": 2,
+          "nativeText": "く",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 89803,
+          "endMs": 89847,
+          "sourceRow": 22,
+          "sourceUnit": 3,
+          "nativeText": "な",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 89847,
+          "endMs": 90095,
+          "sourceRow": 22,
+          "sourceUnit": 4,
+          "nativeText": "い",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "ふ",
+          "startMs": 90095,
+          "endMs": 90169,
+          "sourceRow": 22,
+          "sourceUnit": 5,
+          "nativeText": "ふ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "り",
+          "startMs": 90169,
+          "endMs": 90409,
+          "sourceRow": 22,
+          "sourceUnit": 6,
+          "nativeText": "り",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 90409,
+          "endMs": 90617,
+          "sourceRow": 22,
+          "sourceUnit": 7,
+          "nativeText": "し",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 90617,
+          "endMs": 90702,
+          "sourceRow": 22,
+          "sourceUnit": 8,
+          "nativeText": "て",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 90702,
+          "endMs": 90742,
+          "sourceRow": 22,
+          "sourceUnit": 9,
+          "nativeText": "た",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "一直装作并不寂寞"
+    },
+    {
+      "id": "line-20",
+      "text": "まあ そんなのお互い様か",
+      "startMs": 91350,
+      "endMs": 93579,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "ま",
+          "startMs": 91350,
+          "endMs": 91395,
+          "sourceRow": 23,
+          "sourceUnit": 0,
+          "nativeText": "ま",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "あ",
+          "startMs": 91395,
+          "endMs": 91627,
+          "sourceRow": 23,
+          "sourceUnit": 1,
+          "nativeText": "あ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 91627,
+          "endMs": 91627,
+          "sourceRow": 23,
+          "sourceUnit": 2,
+          "nativeText": " ",
+          "index": 2,
+          "kind": "layout"
+        },
+        {
+          "text": "そ",
+          "startMs": 91627,
+          "endMs": 91711,
+          "sourceRow": 23,
+          "sourceUnit": 3,
+          "nativeText": "そ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "ん",
+          "startMs": 91711,
+          "endMs": 91768,
+          "sourceRow": 23,
+          "sourceUnit": 4,
+          "nativeText": "ん",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 91768,
+          "endMs": 91936,
+          "sourceRow": 23,
+          "sourceUnit": 5,
+          "nativeText": "な",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 91936,
+          "endMs": 92091,
+          "sourceRow": 23,
+          "sourceUnit": 6,
+          "nativeText": "の",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "お",
+          "startMs": 92091,
+          "endMs": 92129,
+          "sourceRow": 23,
+          "sourceUnit": 7,
+          "nativeText": "お",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "互",
+          "startMs": 92129,
+          "endMs": 92465,
+          "sourceRow": 23,
+          "sourceUnit": 8,
+          "nativeText": "互",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 92465,
+          "endMs": 92580,
+          "sourceRow": 23,
+          "sourceUnit": 9,
+          "nativeText": "い",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "様",
+          "startMs": 92580,
+          "endMs": 93167,
+          "sourceRow": 23,
+          "sourceUnit": 10,
+          "nativeText": "様",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 93167,
+          "endMs": 93431,
+          "sourceRow": 23,
+          "sourceUnit": 11,
+          "nativeText": "か",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "其实，我们彼此都一样吧"
+    },
+    {
+      "id": "line-21",
+      "text": "誰かを求めることは",
+      "startMs": 93579,
+      "endMs": 95576,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "誰",
+          "startMs": 93579,
+          "endMs": 93841,
+          "sourceRow": 24,
+          "sourceUnit": 0,
+          "nativeText": "誰",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 93841,
+          "endMs": 94001,
+          "sourceRow": 24,
+          "sourceUnit": 1,
+          "nativeText": "か",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "を",
+          "startMs": 94001,
+          "endMs": 94118,
+          "sourceRow": 24,
+          "sourceUnit": 2,
+          "nativeText": "を",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "求",
+          "startMs": 94118,
+          "endMs": 94357,
+          "sourceRow": 24,
+          "sourceUnit": 3,
+          "nativeText": "求",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "め",
+          "startMs": 94357,
+          "endMs": 94525,
+          "sourceRow": 24,
+          "sourceUnit": 4,
+          "nativeText": "め",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "る",
+          "startMs": 94525,
+          "endMs": 94605,
+          "sourceRow": 24,
+          "sourceUnit": 5,
+          "nativeText": "る",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "こ",
+          "startMs": 94605,
+          "endMs": 94749,
+          "sourceRow": 24,
+          "sourceUnit": 6,
+          "nativeText": "こ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 94749,
+          "endMs": 95116,
+          "sourceRow": 24,
+          "sourceUnit": 7,
+          "nativeText": "と",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "は",
+          "startMs": 95116,
+          "endMs": 95238,
+          "sourceRow": 24,
+          "sourceUnit": 8,
+          "nativeText": "は",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "渴望有个人在身边"
+    },
+    {
+      "id": "line-22",
+      "text": "即ち傷つくことだった",
+      "startMs": 95576,
+      "endMs": 98194,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "即",
+          "startMs": 95576,
+          "endMs": 95992,
+          "sourceRow": 25,
+          "sourceUnit": 0,
+          "nativeText": "即",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "ち",
+          "startMs": 95992,
+          "endMs": 96096,
+          "sourceRow": 25,
+          "sourceUnit": 1,
+          "nativeText": "ち",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "傷",
+          "startMs": 96096,
+          "endMs": 96318,
+          "sourceRow": 25,
+          "sourceUnit": 2,
+          "nativeText": "傷",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "つ",
+          "startMs": 96318,
+          "endMs": 96505,
+          "sourceRow": 25,
+          "sourceUnit": 3,
+          "nativeText": "つ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 96505,
+          "endMs": 96612,
+          "sourceRow": 25,
+          "sourceUnit": 4,
+          "nativeText": "く",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "こ",
+          "startMs": 96612,
+          "endMs": 96780,
+          "sourceRow": 25,
+          "sourceUnit": 5,
+          "nativeText": "こ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 96780,
+          "endMs": 97013,
+          "sourceRow": 25,
+          "sourceUnit": 6,
+          "nativeText": "と",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "だ",
+          "startMs": 97013,
+          "endMs": 97188,
+          "sourceRow": 25,
+          "sourceUnit": 7,
+          "nativeText": "だ",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 97188,
+          "endMs": 97363,
+          "sourceRow": 25,
+          "sourceUnit": 8,
+          "nativeText": "っ",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 97363,
+          "endMs": 97483,
+          "sourceRow": 25,
+          "sourceUnit": 9,
+          "nativeText": "た",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "原来也意味着会受伤"
+    },
+    {
+      "id": "line-23",
+      "text": "Oh can you give me one last kiss?",
+      "startMs": 98194,
+      "endMs": 103444,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 98194,
+          "endMs": 99522,
+          "sourceRow": 26,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "can ",
+          "startMs": 99522,
+          "endMs": 99778,
+          "sourceRow": 26,
+          "sourceUnit": 1,
+          "nativeText": "can ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 99778,
+          "endMs": 100098,
+          "sourceRow": 26,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "give ",
+          "startMs": 100098,
+          "endMs": 100674,
+          "sourceRow": 26,
+          "sourceUnit": 3,
+          "nativeText": "give ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "me ",
+          "startMs": 100674,
+          "endMs": 101147,
+          "sourceRow": 26,
+          "sourceUnit": 4,
+          "nativeText": "me ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "one ",
+          "startMs": 101147,
+          "endMs": 101410,
+          "sourceRow": 26,
+          "sourceUnit": 5,
+          "nativeText": "one ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "last ",
+          "startMs": 101410,
+          "endMs": 102044,
+          "sourceRow": 26,
+          "sourceUnit": 6,
+          "nativeText": "last ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "kiss?",
+          "startMs": 102044,
+          "endMs": 103444,
+          "sourceRow": 26,
+          "sourceUnit": 7,
+          "nativeText": "kiss?",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "能再给我最后一个吻吗？"
+    },
+    {
+      "id": "line-24",
+      "text": "燃えるようなキスをしよう",
+      "startMs": 103721,
+      "endMs": 108055,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "燃",
+          "startMs": 103721,
+          "endMs": 103985,
+          "sourceRow": 27,
+          "sourceUnit": 0,
+          "nativeText": "燃",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "え",
+          "startMs": 103985,
+          "endMs": 104401,
+          "sourceRow": 27,
+          "sourceUnit": 1,
+          "nativeText": "え",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "る",
+          "startMs": 104401,
+          "endMs": 104649,
+          "sourceRow": 27,
+          "sourceUnit": 2,
+          "nativeText": "る",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "よ",
+          "startMs": 104649,
+          "endMs": 104777,
+          "sourceRow": 27,
+          "sourceUnit": 3,
+          "nativeText": "よ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 104777,
+          "endMs": 104867,
+          "sourceRow": 27,
+          "sourceUnit": 4,
+          "nativeText": "う",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 104867,
+          "endMs": 105267,
+          "sourceRow": 27,
+          "sourceUnit": 5,
+          "nativeText": "な",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "キ",
+          "startMs": 105267,
+          "endMs": 105304,
+          "sourceRow": 27,
+          "sourceUnit": 6,
+          "nativeText": "キ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ス",
+          "startMs": 105304,
+          "endMs": 105366,
+          "sourceRow": 27,
+          "sourceUnit": 7,
+          "nativeText": "ス",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "を",
+          "startMs": 105366,
+          "endMs": 105606,
+          "sourceRow": 27,
+          "sourceUnit": 8,
+          "nativeText": "を",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 105606,
+          "endMs": 106054,
+          "sourceRow": 27,
+          "sourceUnit": 9,
+          "nativeText": "し",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "よ",
+          "startMs": 106054,
+          "endMs": 106604,
+          "sourceRow": 27,
+          "sourceUnit": 10,
+          "nativeText": "よ",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 106604,
+          "endMs": 106605,
+          "sourceRow": 27,
+          "sourceUnit": 11,
+          "nativeText": "う",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "让我们热烈地吻一次吧"
+    },
+    {
+      "id": "line-25",
+      "text": "忘れたくても",
+      "startMs": 108055,
+      "endMs": 112449,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 108055,
+          "endMs": 108674,
+          "sourceRow": 28,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 108674,
+          "endMs": 109207,
+          "sourceRow": 28,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 109207,
+          "endMs": 109679,
+          "sourceRow": 28,
+          "sourceUnit": 2,
+          "nativeText": "た",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "く",
+          "startMs": 109679,
+          "endMs": 109929,
+          "sourceRow": 28,
+          "sourceUnit": 3,
+          "nativeText": "く",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 109929,
+          "endMs": 110686,
+          "sourceRow": 28,
+          "sourceUnit": 4,
+          "nativeText": "て",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "も",
+          "startMs": 110686,
+          "endMs": 112046,
+          "sourceRow": 28,
+          "sourceUnit": 5,
+          "nativeText": "も",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "让它成为即使想忘"
+    },
+    {
+      "id": "line-26",
+      "text": "忘れられないほど",
+      "startMs": 112449,
+      "endMs": 115198,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 112449,
+          "endMs": 112903,
+          "sourceRow": 29,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 112903,
+          "endMs": 113158,
+          "sourceRow": 29,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 113158,
+          "endMs": 113439,
+          "sourceRow": 29,
+          "sourceUnit": 2,
+          "nativeText": "ら",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 113439,
+          "endMs": 113686,
+          "sourceRow": 29,
+          "sourceUnit": 3,
+          "nativeText": "れ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 113686,
+          "endMs": 113951,
+          "sourceRow": 29,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 113951,
+          "endMs": 114215,
+          "sourceRow": 29,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ほ",
+          "startMs": 114215,
+          "endMs": 114511,
+          "sourceRow": 29,
+          "sourceUnit": 6,
+          "nativeText": "ほ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "ど",
+          "startMs": 114511,
+          "endMs": 115198,
+          "sourceRow": 29,
+          "sourceUnit": 7,
+          "nativeText": "ど",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "也无法忘却的一吻"
+    },
+    {
+      "id": "line-27",
+      "text": "Oh oh oh oh oh",
+      "startMs": 115198,
+      "endMs": 121007,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 115198,
+          "endMs": 115887,
+          "sourceRow": 30,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 115887,
+          "endMs": 117095,
+          "sourceRow": 30,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 117095,
+          "endMs": 118511,
+          "sourceRow": 30,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 118511,
+          "endMs": 119759,
+          "sourceRow": 30,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 119759,
+          "endMs": 121007,
+          "sourceRow": 30,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-28",
+      "text": "I love you more than you'll ever know",
+      "startMs": 121007,
+      "endMs": 123767,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "I ",
+          "startMs": 121007,
+          "endMs": 121287,
+          "sourceRow": 31,
+          "sourceUnit": 0,
+          "nativeText": "I ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "love ",
+          "startMs": 121287,
+          "endMs": 121534,
+          "sourceRow": 31,
+          "sourceUnit": 1,
+          "nativeText": "love ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 121534,
+          "endMs": 121759,
+          "sourceRow": 31,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "more ",
+          "startMs": 121759,
+          "endMs": 122023,
+          "sourceRow": 31,
+          "sourceUnit": 3,
+          "nativeText": "more ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "than ",
+          "startMs": 122023,
+          "endMs": 122286,
+          "sourceRow": 31,
+          "sourceUnit": 4,
+          "nativeText": "than ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "you'll ",
+          "startMs": 122286,
+          "endMs": 122606,
+          "sourceRow": 31,
+          "sourceUnit": 5,
+          "nativeText": "you'll ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ever ",
+          "startMs": 122606,
+          "endMs": 123061,
+          "sourceRow": 31,
+          "sourceUnit": 6,
+          "nativeText": "ever ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "know",
+          "startMs": 123061,
+          "endMs": 123476,
+          "sourceRow": 31,
+          "sourceUnit": 7,
+          "nativeText": "know",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我爱你，比你能懂得的还要深"
+    },
+    {
+      "id": "line-29",
+      "text": "Oh oh oh oh oh",
+      "startMs": 123767,
+      "endMs": 129614,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 123767,
+          "endMs": 124830,
+          "sourceRow": 32,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 124830,
+          "endMs": 125759,
+          "sourceRow": 32,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 125759,
+          "endMs": 127934,
+          "sourceRow": 32,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 127934,
+          "endMs": 128903,
+          "sourceRow": 32,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 128903,
+          "endMs": 129614,
+          "sourceRow": 32,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-30",
+      "text": "I love you more than you'll ever know",
+      "startMs": 129614,
+      "endMs": 132519,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "I ",
+          "startMs": 129614,
+          "endMs": 129848,
+          "sourceRow": 33,
+          "sourceUnit": 0,
+          "nativeText": "I ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "love ",
+          "startMs": 129848,
+          "endMs": 130135,
+          "sourceRow": 33,
+          "sourceUnit": 1,
+          "nativeText": "love ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 130135,
+          "endMs": 130359,
+          "sourceRow": 33,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "more ",
+          "startMs": 130359,
+          "endMs": 130599,
+          "sourceRow": 33,
+          "sourceUnit": 3,
+          "nativeText": "more ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "than ",
+          "startMs": 130599,
+          "endMs": 130862,
+          "sourceRow": 33,
+          "sourceUnit": 4,
+          "nativeText": "than ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "you'll ",
+          "startMs": 130862,
+          "endMs": 131208,
+          "sourceRow": 33,
+          "sourceUnit": 5,
+          "nativeText": "you'll ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ever ",
+          "startMs": 131208,
+          "endMs": 131687,
+          "sourceRow": 33,
+          "sourceUnit": 6,
+          "nativeText": "ever ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "know",
+          "startMs": 131687,
+          "endMs": 132519,
+          "sourceRow": 33,
+          "sourceUnit": 7,
+          "nativeText": "know",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我爱你，比你能懂得的还要深"
+    },
+    {
+      "id": "line-31",
+      "text": "もう分かっているよ",
+      "startMs": 149522,
+      "endMs": 155051,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "も",
+          "startMs": 149522,
+          "endMs": 150270,
+          "sourceRow": 34,
+          "sourceUnit": 0,
+          "nativeText": "も",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "う",
+          "startMs": 150270,
+          "endMs": 151018,
+          "sourceRow": 34,
+          "sourceUnit": 1,
+          "nativeText": "う",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "分",
+          "startMs": 151018,
+          "endMs": 151314,
+          "sourceRow": 34,
+          "sourceUnit": 2,
+          "nativeText": "分",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 151314,
+          "endMs": 151517,
+          "sourceRow": 34,
+          "sourceUnit": 3,
+          "nativeText": "か",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 151517,
+          "endMs": 152053,
+          "sourceRow": 34,
+          "sourceUnit": 4,
+          "nativeText": "っ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 152053,
+          "endMs": 152632,
+          "sourceRow": 34,
+          "sourceUnit": 5,
+          "nativeText": "て",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 152632,
+          "endMs": 153000,
+          "sourceRow": 34,
+          "sourceUnit": 6,
+          "nativeText": "い",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "る",
+          "startMs": 153000,
+          "endMs": 153736,
+          "sourceRow": 34,
+          "sourceUnit": 7,
+          "nativeText": "る",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "よ",
+          "startMs": 153736,
+          "endMs": 154297,
+          "sourceRow": 34,
+          "sourceUnit": 8,
+          "nativeText": "よ",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我已经明白了"
+    },
+    {
+      "id": "line-32",
+      "text": "この世の終わりでも",
+      "startMs": 155051,
+      "endMs": 159635,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "こ",
+          "startMs": 155051,
+          "endMs": 155299,
+          "sourceRow": 35,
+          "sourceUnit": 0,
+          "nativeText": "こ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 155299,
+          "endMs": 155747,
+          "sourceRow": 35,
+          "sourceUnit": 1,
+          "nativeText": "の",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "世",
+          "startMs": 155747,
+          "endMs": 155979,
+          "sourceRow": 35,
+          "sourceUnit": 2,
+          "nativeText": "世",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 155979,
+          "endMs": 156387,
+          "sourceRow": 35,
+          "sourceUnit": 3,
+          "nativeText": "の",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "終",
+          "startMs": 156387,
+          "endMs": 156619,
+          "sourceRow": 35,
+          "sourceUnit": 4,
+          "nativeText": "終",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "わ",
+          "startMs": 156619,
+          "endMs": 156923,
+          "sourceRow": 35,
+          "sourceUnit": 5,
+          "nativeText": "わ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "り",
+          "startMs": 156923,
+          "endMs": 157155,
+          "sourceRow": 35,
+          "sourceUnit": 6,
+          "nativeText": "り",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "で",
+          "startMs": 157155,
+          "endMs": 157534,
+          "sourceRow": 35,
+          "sourceUnit": 7,
+          "nativeText": "で",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "も",
+          "startMs": 157534,
+          "endMs": 158526,
+          "sourceRow": 35,
+          "sourceUnit": 8,
+          "nativeText": "も",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "即使世界走到尽头"
+    },
+    {
+      "id": "line-33",
+      "text": "年をとっても",
+      "startMs": 159635,
+      "endMs": 166149,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "年",
+          "startMs": 159635,
+          "endMs": 160263,
+          "sourceRow": 36,
+          "sourceUnit": 0,
+          "nativeText": "年",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "を",
+          "startMs": 160263,
+          "endMs": 160711,
+          "sourceRow": 36,
+          "sourceUnit": 1,
+          "nativeText": "を",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "と",
+          "startMs": 160711,
+          "endMs": 161087,
+          "sourceRow": 36,
+          "sourceUnit": 2,
+          "nativeText": "と",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 161087,
+          "endMs": 161463,
+          "sourceRow": 36,
+          "sourceUnit": 3,
+          "nativeText": "っ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 161463,
+          "endMs": 162338,
+          "sourceRow": 36,
+          "sourceUnit": 4,
+          "nativeText": "て",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "も",
+          "startMs": 162338,
+          "endMs": 164612,
+          "sourceRow": 36,
+          "sourceUnit": 5,
+          "nativeText": "も",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "即使我们渐渐老去"
+    },
+    {
+      "id": "line-34",
+      "text": "忘れられない人",
+      "startMs": 166149,
+      "endMs": 168718,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 166149,
+          "endMs": 166612,
+          "sourceRow": 37,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 166612,
+          "endMs": 166901,
+          "sourceRow": 37,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 166901,
+          "endMs": 167132,
+          "sourceRow": 37,
+          "sourceUnit": 2,
+          "nativeText": "ら",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 167132,
+          "endMs": 167365,
+          "sourceRow": 37,
+          "sourceUnit": 3,
+          "nativeText": "れ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 167365,
+          "endMs": 167606,
+          "sourceRow": 37,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 167606,
+          "endMs": 167860,
+          "sourceRow": 37,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "人",
+          "startMs": 167860,
+          "endMs": 168660,
+          "sourceRow": 37,
+          "sourceUnit": 6,
+          "nativeText": "人",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "你依然是我忘不了的人"
+    },
+    {
+      "id": "line-35",
+      "text": "Oh oh oh oh oh",
+      "startMs": 168718,
+      "endMs": 170671,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 168718,
+          "endMs": 169142,
+          "sourceRow": 38,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 169142,
+          "endMs": 169654,
+          "sourceRow": 38,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 169654,
+          "endMs": 170109,
+          "sourceRow": 38,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 170109,
+          "endMs": 170421,
+          "sourceRow": 38,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 170421,
+          "endMs": 170671,
+          "sourceRow": 38,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-36",
+      "text": "忘れられない人",
+      "startMs": 170671,
+      "endMs": 175472,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 170671,
+          "endMs": 171142,
+          "sourceRow": 39,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 171142,
+          "endMs": 171357,
+          "sourceRow": 39,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 171357,
+          "endMs": 171557,
+          "sourceRow": 39,
+          "sourceUnit": 2,
+          "nativeText": "ら",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 171557,
+          "endMs": 171758,
+          "sourceRow": 39,
+          "sourceUnit": 3,
+          "nativeText": "れ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 171758,
+          "endMs": 171959,
+          "sourceRow": 39,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 171959,
+          "endMs": 172157,
+          "sourceRow": 39,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "人",
+          "startMs": 172157,
+          "endMs": 173188,
+          "sourceRow": 39,
+          "sourceUnit": 6,
+          "nativeText": "人",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那个无法忘记的人"
+    },
+    {
+      "id": "line-37",
+      "text": "Oh oh oh oh oh",
+      "startMs": 175472,
+      "endMs": 181256,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 175472,
+          "endMs": 176161,
+          "sourceRow": 40,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 176161,
+          "endMs": 177088,
+          "sourceRow": 40,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 177088,
+          "endMs": 179291,
+          "sourceRow": 40,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 179291,
+          "endMs": 180392,
+          "sourceRow": 40,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 180392,
+          "endMs": 181256,
+          "sourceRow": 40,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-38",
+      "text": "I love you more than you'll ever know",
+      "startMs": 181256,
+      "endMs": 184864,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "I ",
+          "startMs": 181256,
+          "endMs": 181496,
+          "sourceRow": 41,
+          "sourceUnit": 0,
+          "nativeText": "I ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "love ",
+          "startMs": 181496,
+          "endMs": 181744,
+          "sourceRow": 41,
+          "sourceUnit": 1,
+          "nativeText": "love ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 181744,
+          "endMs": 181944,
+          "sourceRow": 41,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "more ",
+          "startMs": 181944,
+          "endMs": 182164,
+          "sourceRow": 41,
+          "sourceUnit": 3,
+          "nativeText": "more ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "than ",
+          "startMs": 182164,
+          "endMs": 182408,
+          "sourceRow": 41,
+          "sourceUnit": 4,
+          "nativeText": "than ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "you'll ",
+          "startMs": 182408,
+          "endMs": 182712,
+          "sourceRow": 41,
+          "sourceUnit": 5,
+          "nativeText": "you'll ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ever ",
+          "startMs": 182712,
+          "endMs": 183120,
+          "sourceRow": 41,
+          "sourceUnit": 6,
+          "nativeText": "ever ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "know",
+          "startMs": 183120,
+          "endMs": 183952,
+          "sourceRow": 41,
+          "sourceUnit": 7,
+          "nativeText": "know",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我爱你，比你能懂得的还要深"
+    },
+    {
+      "id": "line-39",
+      "text": "Oh oh oh oh oh",
+      "startMs": 184864,
+      "endMs": 189704,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 184864,
+          "endMs": 185792,
+          "sourceRow": 42,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 185792,
+          "endMs": 186944,
+          "sourceRow": 42,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 186944,
+          "endMs": 188000,
+          "sourceRow": 42,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 188000,
+          "endMs": 189104,
+          "sourceRow": 42,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 189104,
+          "endMs": 189704,
+          "sourceRow": 42,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-40",
+      "text": "忘れられない人",
+      "startMs": 189704,
+      "endMs": 192569,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "忘",
+          "startMs": 189704,
+          "endMs": 190185,
+          "sourceRow": 43,
+          "sourceUnit": 0,
+          "nativeText": "忘",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 190185,
+          "endMs": 190413,
+          "sourceRow": 43,
+          "sourceUnit": 1,
+          "nativeText": "れ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "ら",
+          "startMs": 190413,
+          "endMs": 190648,
+          "sourceRow": 43,
+          "sourceUnit": 2,
+          "nativeText": "ら",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "れ",
+          "startMs": 190648,
+          "endMs": 190904,
+          "sourceRow": 43,
+          "sourceUnit": 3,
+          "nativeText": "れ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "な",
+          "startMs": 190904,
+          "endMs": 191152,
+          "sourceRow": 43,
+          "sourceUnit": 4,
+          "nativeText": "な",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 191152,
+          "endMs": 191401,
+          "sourceRow": 43,
+          "sourceUnit": 5,
+          "nativeText": "い",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "人",
+          "startMs": 191401,
+          "endMs": 192569,
+          "sourceRow": 43,
+          "sourceUnit": 6,
+          "nativeText": "人",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "那个无法忘记的人"
+    },
+    {
+      "id": "line-41",
+      "text": "Oh oh oh oh oh",
+      "startMs": 192569,
+      "endMs": 198304,
+      "kind": "vocalise",
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 192569,
+          "endMs": 193610,
+          "sourceRow": 44,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 193610,
+          "endMs": 194800,
+          "sourceRow": 44,
+          "sourceUnit": 1,
+          "nativeText": "oh ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 194800,
+          "endMs": 196368,
+          "sourceRow": 44,
+          "sourceUnit": 2,
+          "nativeText": "oh ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh ",
+          "startMs": 196368,
+          "endMs": 197400,
+          "sourceRow": 44,
+          "sourceUnit": 3,
+          "nativeText": "oh ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "oh",
+          "startMs": 197400,
+          "endMs": 198304,
+          "sourceRow": 44,
+          "sourceUnit": 4,
+          "nativeText": "oh",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "translation": ""
+    },
+    {
+      "id": "line-42",
+      "text": "I love you more than you'll ever know",
+      "startMs": 198304,
+      "endMs": 226208,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "I ",
+          "startMs": 198304,
+          "endMs": 198552,
+          "sourceRow": 45,
+          "sourceUnit": 0,
+          "nativeText": "I ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "love ",
+          "startMs": 198552,
+          "endMs": 198802,
+          "sourceRow": 45,
+          "sourceUnit": 1,
+          "nativeText": "love ",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "you ",
+          "startMs": 198802,
+          "endMs": 199032,
+          "sourceRow": 45,
+          "sourceUnit": 2,
+          "nativeText": "you ",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "more ",
+          "startMs": 199032,
+          "endMs": 199240,
+          "sourceRow": 45,
+          "sourceUnit": 3,
+          "nativeText": "more ",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "than ",
+          "startMs": 199240,
+          "endMs": 199488,
+          "sourceRow": 45,
+          "sourceUnit": 4,
+          "nativeText": "than ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "you'll ",
+          "startMs": 199488,
+          "endMs": 199800,
+          "sourceRow": 45,
+          "sourceUnit": 5,
+          "nativeText": "you'll ",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "ever ",
+          "startMs": 199800,
+          "endMs": 200256,
+          "sourceRow": 45,
+          "sourceUnit": 6,
+          "nativeText": "ever ",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "know",
+          "startMs": 200256,
+          "endMs": 201192,
+          "sourceRow": 45,
+          "sourceUnit": 7,
+          "nativeText": "know",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "我爱你，比你能懂得的还要深"
+    },
+    {
+      "id": "line-43",
+      "text": "吹いていった風の後を",
+      "startMs": 226208,
+      "endMs": 230576,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "吹",
+          "startMs": 226208,
+          "endMs": 226432,
+          "sourceRow": 46,
+          "sourceUnit": 0,
+          "nativeText": "吹",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 226432,
+          "endMs": 226672,
+          "sourceRow": 46,
+          "sourceUnit": 1,
+          "nativeText": "い",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "て",
+          "startMs": 226672,
+          "endMs": 226874,
+          "sourceRow": 46,
+          "sourceUnit": 2,
+          "nativeText": "て",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 226874,
+          "endMs": 227076,
+          "sourceRow": 46,
+          "sourceUnit": 3,
+          "nativeText": "い",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "っ",
+          "startMs": 227076,
+          "endMs": 227278,
+          "sourceRow": 46,
+          "sourceUnit": 4,
+          "nativeText": "っ",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 227278,
+          "endMs": 228378,
+          "sourceRow": 46,
+          "sourceUnit": 5,
+          "nativeText": "た",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "風",
+          "startMs": 228378,
+          "endMs": 228814,
+          "sourceRow": 46,
+          "sourceUnit": 6,
+          "nativeText": "風",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "の",
+          "startMs": 228814,
+          "endMs": 229070,
+          "sourceRow": 46,
+          "sourceUnit": 7,
+          "nativeText": "の",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "後",
+          "startMs": 229070,
+          "endMs": 229806,
+          "sourceRow": 46,
+          "sourceUnit": 8,
+          "nativeText": "後",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "を",
+          "startMs": 229806,
+          "endMs": 230574,
+          "sourceRow": 46,
+          "sourceUnit": 9,
+          "nativeText": "を",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "追着那阵吹过的风"
+    },
+    {
+      "id": "line-44",
+      "text": "追いかけた 眩しい午後",
+      "startMs": 230576,
+      "endMs": 235544,
+      "kind": "lyric",
+      "units": [
+        {
+          "text": "追",
+          "startMs": 230576,
+          "endMs": 230808,
+          "sourceRow": 47,
+          "sourceUnit": 0,
+          "nativeText": "追",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 230808,
+          "endMs": 231001,
+          "sourceRow": 47,
+          "sourceUnit": 1,
+          "nativeText": "い",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "か",
+          "startMs": 231001,
+          "endMs": 231203,
+          "sourceRow": 47,
+          "sourceUnit": 2,
+          "nativeText": "か",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "け",
+          "startMs": 231203,
+          "endMs": 231643,
+          "sourceRow": 47,
+          "sourceUnit": 3,
+          "nativeText": "け",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "た",
+          "startMs": 231643,
+          "endMs": 232592,
+          "sourceRow": 47,
+          "sourceUnit": 4,
+          "nativeText": "た",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 232592,
+          "endMs": 232592,
+          "sourceRow": 47,
+          "sourceUnit": 5,
+          "nativeText": " ",
+          "index": 5,
+          "kind": "layout"
+        },
+        {
+          "text": "眩",
+          "startMs": 232592,
+          "endMs": 233089,
+          "sourceRow": 47,
+          "sourceUnit": 6,
+          "nativeText": "眩",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "し",
+          "startMs": 233089,
+          "endMs": 233432,
+          "sourceRow": 47,
+          "sourceUnit": 7,
+          "nativeText": "し",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "い",
+          "startMs": 233432,
+          "endMs": 233775,
+          "sourceRow": 47,
+          "sourceUnit": 8,
+          "nativeText": "い",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "午",
+          "startMs": 233775,
+          "endMs": 234279,
+          "sourceRow": 47,
+          "sourceUnit": 9,
+          "nativeText": "午",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "後",
+          "startMs": 234279,
+          "endMs": 235543,
+          "sourceRow": 47,
+          "sourceUnit": 10,
+          "nativeText": "後",
+          "index": 10,
+          "kind": "vocal"
+        }
+      ],
+      "translation": "在那个耀眼的午后"
+    }
+  ],
+  "artists": [
+    "宇多田ヒカル"
+  ]
+}

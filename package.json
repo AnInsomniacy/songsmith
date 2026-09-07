@@ -1,18 +1,19 @@
 {
-  "name": "remotion-lyric-studio",
+  "name": "songsmith",
   "version": "1.0.0",
-  "description": "Shared Remotion workspace for character-aligned lyric films",
+  "description": "Illustrated, word-timed lyric films built with Remotion and SVG",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@remotion/bundler": "4.0.507",
     "@remotion/captions": "4.0.507",
     "@remotion/cli": "4.0.507",
     "@remotion/fonts": "4.0.507",
-    "@remotion/google-fonts": "4.0.507",
     "@remotion/layout-utils": "4.0.507",
     "@remotion/media": "4.0.507",
     "@remotion/noise": "4.0.507",
     "@remotion/paths": "4.0.507",
+    "@remotion/renderer": "4.0.507",
     "@remotion/transitions": "4.0.507",
     "react": "19.2.3",
     "react-dom": "19.2.3",
@@ -22,22 +23,30 @@
     "@remotion/eslint-config-flat": "4.0.507",
     "@types/react": "19.2.7",
     "@types/web": "0.0.166",
-    "eslint": "9.19.0",
+    "eslint": "9.39.5",
     "prettier": "3.8.1",
     "typescript": "5.9.3"
   },
   "scripts": {
-    "render:one-last-kiss:gpt-6-astra-svg": "remotion render src/index.ts OneLastKiss-GPT6Astra-SVG 'out/One Last Kiss（GPT-6 Astra · SVG）.mp4' && node scripts/one-last-kiss/svg-finalize.mjs",
+    "render:One Last Kiss:gpt-6-astra-svg": "remotion render src/index.ts OneLastKiss-GPT6Astra-SVG 'out/One Last Kiss（GPT-6 Astra · SVG）.mp4' && node 'scripts/One Last Kiss/gpt-6-astra-svg/finalize.mjs'",
     "studio": "remotion studio src/index.ts",
     "compositions": "remotion compositions src/index.ts",
-    "lint": "eslint src scripts && tsc",
-    "validate": "node scripts/bu-chao-bu-yong-hua-qian/validate-lyrics.mjs && node scripts/jia-you/validate-lyrics.mjs && node scripts/wo-de-hui-yi-bu-shi-wo-de/validate-lyrics.mjs",
-    "render:jia-you:gpt-5-6": "remotion render src/index.ts JiaYou-GPT56 'out/加油（GPT-5.6）.mp4'",
-    "render:bu-chao-bu-yong-hua-qian:gpt-6-astra": "remotion render src/index.ts BuChaoBuYongHuaQian-GPT6Astra 'out/不潮不用花钱（GPT-6 Astra）.mp4'",
-    "render:qing-tian:gpt-5-6": "remotion render src/index.ts QingTian-GPT56 'out/晴天（GPT-5.6）.mp4'",
-    "render:wo-de-hui-yi-bu-shi-wo-de:gpt-5-6": "remotion render src/index.ts WoDeHuiYiBuShiWoDe-GPT56 'out/我的回忆不是我的（GPT-5.6）.mp4'"
+    "lint": "eslint src scripts tests",
+    "render:加油:gpt-5-6": "remotion render src/index.ts JiaYou-GPT56 'out/加油（GPT-5.6）.mp4'",
+    "render:不潮不用花钱:gpt-6-astra": "remotion render src/index.ts BuChaoBuYongHuaQian-GPT6Astra 'out/不潮不用花钱（GPT-6 Astra）.mp4'",
+    "render:晴天:gpt-5-6": "remotion render src/index.ts QingTian-GPT56 'out/晴天（GPT-5.6）.mp4'",
+    "render:我的回忆不是我的:gpt-5-6": "remotion render src/index.ts WoDeHuiYiBuShiWoDe-GPT56 'out/我的回忆不是我的（GPT-5.6）.mp4'",
+    "typecheck": "tsc --noEmit",
+    "check": "node scripts/check.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "inspect": "node scripts/inspect.mjs",
+    "fonts:build": ".venv/bin/python scripts/fonts.py"
   },
   "sideEffects": [
     "*.css"
-  ]
+  ],
+  "engines": {
+    "node": ">=22.16.0",
+    "npm": ">=10"
+  }
 }

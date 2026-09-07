@@ -1,0 +1,5029 @@
+{
+  "title": "我的回忆不是我的",
+  "artists": [
+    "海鸣威"
+  ],
+  "album": "Dance Dance Dance",
+  "language": "粤语",
+  "audioDurationMs": 230067,
+  "source": {
+    "platform": "酷狗音乐",
+    "format": "KRC",
+    "designation": "官方推荐歌词",
+    "songPage": "https://www.kugou.com/mixsong/12fasj2e.html",
+    "lyricId": "345565722",
+    "lyricDurationMs": 230112,
+    "rawFile": "raw/source.krc"
+  },
+  "credits": [
+    {
+      "text": "我的回忆不是我的 - 海鸣威",
+      "startMs": 0,
+      "endMs": 5190,
+      "units": [
+        {
+          "text": "我",
+          "startMs": 0,
+          "endMs": 370,
+          "sourceRow": 0,
+          "sourceUnit": 0,
+          "nativeText": "我",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 370,
+          "endMs": 740,
+          "sourceRow": 0,
+          "sourceUnit": 1,
+          "nativeText": "的",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "回",
+          "startMs": 740,
+          "endMs": 1110,
+          "sourceRow": 0,
+          "sourceUnit": 2,
+          "nativeText": "回",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 1110,
+          "endMs": 1480,
+          "sourceRow": 0,
+          "sourceUnit": 3,
+          "nativeText": "忆",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 1480,
+          "endMs": 1850,
+          "sourceRow": 0,
+          "sourceUnit": 4,
+          "nativeText": "不",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 1850,
+          "endMs": 2220,
+          "sourceRow": 0,
+          "sourceUnit": 5,
+          "nativeText": "是",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 2220,
+          "endMs": 2590,
+          "sourceRow": 0,
+          "sourceUnit": 6,
+          "nativeText": "我",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 2590,
+          "endMs": 2960,
+          "sourceRow": 0,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 2960,
+          "endMs": 3330,
+          "sourceRow": 0,
+          "sourceUnit": 8,
+          "nativeText": " ",
+          "index": 8,
+          "kind": "layout"
+        },
+        {
+          "text": "-",
+          "startMs": 3330,
+          "endMs": 3700,
+          "sourceRow": 0,
+          "sourceUnit": 9,
+          "nativeText": "-",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 3700,
+          "endMs": 4070,
+          "sourceRow": 0,
+          "sourceUnit": 10,
+          "nativeText": " ",
+          "index": 10,
+          "kind": "layout"
+        },
+        {
+          "text": "海",
+          "startMs": 4070,
+          "endMs": 4440,
+          "sourceRow": 0,
+          "sourceUnit": 11,
+          "nativeText": "海",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "鸣",
+          "startMs": 4440,
+          "endMs": 4810,
+          "sourceRow": 0,
+          "sourceUnit": 12,
+          "nativeText": "鸣",
+          "index": 12,
+          "kind": "vocal"
+        },
+        {
+          "text": "威",
+          "startMs": 4810,
+          "endMs": 5180,
+          "sourceRow": 0,
+          "sourceUnit": 13,
+          "nativeText": "威",
+          "index": 13,
+          "kind": "vocal"
+        }
+      ],
+      "id": "credit-0",
+      "kind": "credit"
+    },
+    {
+      "text": "词：周耀辉",
+      "startMs": 5190,
+      "endMs": 10380,
+      "units": [
+        {
+          "text": "词",
+          "startMs": 5190,
+          "endMs": 6228,
+          "sourceRow": 1,
+          "sourceUnit": 0,
+          "nativeText": "词",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "：",
+          "startMs": 6228,
+          "endMs": 7266,
+          "sourceRow": 1,
+          "sourceUnit": 1,
+          "nativeText": "：",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "周",
+          "startMs": 7266,
+          "endMs": 8304,
+          "sourceRow": 1,
+          "sourceUnit": 2,
+          "nativeText": "周",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "耀",
+          "startMs": 8304,
+          "endMs": 9342,
+          "sourceRow": 1,
+          "sourceUnit": 3,
+          "nativeText": "耀",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "辉",
+          "startMs": 9342,
+          "endMs": 10380,
+          "sourceRow": 1,
+          "sourceUnit": 4,
+          "nativeText": "辉",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "id": "credit-1",
+      "kind": "credit"
+    },
+    {
+      "text": "曲：朱其民",
+      "startMs": 10380,
+      "endMs": 15570,
+      "units": [
+        {
+          "text": "曲",
+          "startMs": 10380,
+          "endMs": 11418,
+          "sourceRow": 2,
+          "sourceUnit": 0,
+          "nativeText": "曲",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "：",
+          "startMs": 11418,
+          "endMs": 12456,
+          "sourceRow": 2,
+          "sourceUnit": 1,
+          "nativeText": "：",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "朱",
+          "startMs": 12456,
+          "endMs": 13494,
+          "sourceRow": 2,
+          "sourceUnit": 2,
+          "nativeText": "朱",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "其",
+          "startMs": 13494,
+          "endMs": 14532,
+          "sourceRow": 2,
+          "sourceUnit": 3,
+          "nativeText": "其",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "民",
+          "startMs": 14532,
+          "endMs": 15570,
+          "sourceRow": 2,
+          "sourceUnit": 4,
+          "nativeText": "民",
+          "index": 4,
+          "kind": "vocal"
+        }
+      ],
+      "id": "credit-2",
+      "kind": "credit"
+    }
+  ],
+  "lines": [
+    {
+      "text": "伤心的总会任性",
+      "startMs": 15581,
+      "endMs": 18442,
+      "units": [
+        {
+          "text": "伤",
+          "startMs": 15581,
+          "endMs": 15978,
+          "sourceRow": 3,
+          "sourceUnit": 0,
+          "nativeText": "伤",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "心",
+          "startMs": 15978,
+          "endMs": 16410,
+          "sourceRow": 3,
+          "sourceUnit": 1,
+          "nativeText": "心",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 16410,
+          "endMs": 16909,
+          "sourceRow": 3,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "总",
+          "startMs": 16909,
+          "endMs": 17354,
+          "sourceRow": 3,
+          "sourceUnit": 3,
+          "nativeText": "总",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "会",
+          "startMs": 17354,
+          "endMs": 17613,
+          "sourceRow": 3,
+          "sourceUnit": 4,
+          "nativeText": "会",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "任",
+          "startMs": 17613,
+          "endMs": 17994,
+          "sourceRow": 3,
+          "sourceUnit": 5,
+          "nativeText": "任",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 17994,
+          "endMs": 18442,
+          "sourceRow": 3,
+          "sourceUnit": 6,
+          "nativeText": "性",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-0",
+      "kind": "lyric"
+    },
+    {
+      "text": "灰心的总会用气力",
+      "startMs": 18810,
+      "endMs": 21508,
+      "units": [
+        {
+          "text": "灰",
+          "startMs": 18810,
+          "endMs": 19242,
+          "sourceRow": 4,
+          "sourceUnit": 0,
+          "nativeText": "灰",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "心",
+          "startMs": 19242,
+          "endMs": 19546,
+          "sourceRow": 4,
+          "sourceUnit": 1,
+          "nativeText": "心",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 19546,
+          "endMs": 19802,
+          "sourceRow": 4,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "总",
+          "startMs": 19802,
+          "endMs": 20122,
+          "sourceRow": 4,
+          "sourceUnit": 3,
+          "nativeText": "总",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "会",
+          "startMs": 20122,
+          "endMs": 20442,
+          "sourceRow": 4,
+          "sourceUnit": 4,
+          "nativeText": "会",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "用",
+          "startMs": 20442,
+          "endMs": 20682,
+          "sourceRow": 4,
+          "sourceUnit": 5,
+          "nativeText": "用",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "气",
+          "startMs": 20682,
+          "endMs": 21034,
+          "sourceRow": 4,
+          "sourceUnit": 6,
+          "nativeText": "气",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "力",
+          "startMs": 21034,
+          "endMs": 21508,
+          "sourceRow": 4,
+          "sourceUnit": 7,
+          "nativeText": "力",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-1",
+      "kind": "lyric"
+    },
+    {
+      "text": "将最好的过去 将最多的细碎",
+      "startMs": 21972,
+      "endMs": 25387,
+      "units": [
+        {
+          "text": "将",
+          "startMs": 21972,
+          "endMs": 22166,
+          "sourceRow": 5,
+          "sourceUnit": 0,
+          "nativeText": "将",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "最",
+          "startMs": 22166,
+          "endMs": 22339,
+          "sourceRow": 5,
+          "sourceUnit": 1,
+          "nativeText": "最",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "好",
+          "startMs": 22339,
+          "endMs": 22612,
+          "sourceRow": 5,
+          "sourceUnit": 2,
+          "nativeText": "好",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 22612,
+          "endMs": 23106,
+          "sourceRow": 5,
+          "sourceUnit": 3,
+          "nativeText": "的",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "过",
+          "startMs": 23106,
+          "endMs": 23318,
+          "sourceRow": 5,
+          "sourceUnit": 4,
+          "nativeText": "过",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "去",
+          "startMs": 23318,
+          "endMs": 23874,
+          "sourceRow": 5,
+          "sourceUnit": 5,
+          "nativeText": "去",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 23874,
+          "endMs": 23874,
+          "sourceRow": 5,
+          "sourceUnit": 6,
+          "nativeText": " ",
+          "index": 6,
+          "kind": "layout"
+        },
+        {
+          "text": "将",
+          "startMs": 23874,
+          "endMs": 24068,
+          "sourceRow": 5,
+          "sourceUnit": 7,
+          "nativeText": "将",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "最",
+          "startMs": 24068,
+          "endMs": 24242,
+          "sourceRow": 5,
+          "sourceUnit": 8,
+          "nativeText": "最",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 24242,
+          "endMs": 24514,
+          "sourceRow": 5,
+          "sourceUnit": 9,
+          "nativeText": "多",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 24514,
+          "endMs": 24931,
+          "sourceRow": 5,
+          "sourceUnit": 10,
+          "nativeText": "的",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "细",
+          "startMs": 24931,
+          "endMs": 25138,
+          "sourceRow": 5,
+          "sourceUnit": 11,
+          "nativeText": "细",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "碎",
+          "startMs": 25138,
+          "endMs": 25387,
+          "sourceRow": 5,
+          "sourceUnit": 12,
+          "nativeText": "碎",
+          "index": 12,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-2",
+      "kind": "lyric"
+    },
+    {
+      "text": "锁到属于你的眼睛",
+      "startMs": 25675,
+      "endMs": 29960,
+      "units": [
+        {
+          "text": "锁",
+          "startMs": 25675,
+          "endMs": 26395,
+          "sourceRow": 6,
+          "sourceUnit": 0,
+          "nativeText": "锁",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "到",
+          "startMs": 26395,
+          "endMs": 27643,
+          "sourceRow": 6,
+          "sourceUnit": 1,
+          "nativeText": "到",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "属",
+          "startMs": 27643,
+          "endMs": 27852,
+          "sourceRow": 6,
+          "sourceUnit": 2,
+          "nativeText": "属",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "于",
+          "startMs": 27852,
+          "endMs": 28075,
+          "sourceRow": 6,
+          "sourceUnit": 3,
+          "nativeText": "于",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 28075,
+          "endMs": 28494,
+          "sourceRow": 6,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 28494,
+          "endMs": 29095,
+          "sourceRow": 6,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "眼",
+          "startMs": 29095,
+          "endMs": 29511,
+          "sourceRow": 6,
+          "sourceUnit": 6,
+          "nativeText": "眼",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "睛",
+          "startMs": 29511,
+          "endMs": 29960,
+          "sourceRow": 6,
+          "sourceUnit": 7,
+          "nativeText": "睛",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-3",
+      "kind": "lyric"
+    },
+    {
+      "text": "失恋的不够耐性",
+      "startMs": 30489,
+      "endMs": 33620,
+      "units": [
+        {
+          "text": "失",
+          "startMs": 30489,
+          "endMs": 30998,
+          "sourceRow": 7,
+          "sourceUnit": 0,
+          "nativeText": "失",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "恋",
+          "startMs": 30998,
+          "endMs": 31494,
+          "sourceRow": 7,
+          "sourceUnit": 1,
+          "nativeText": "恋",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 31494,
+          "endMs": 32001,
+          "sourceRow": 7,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 32001,
+          "endMs": 32449,
+          "sourceRow": 7,
+          "sourceUnit": 3,
+          "nativeText": "不",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "够",
+          "startMs": 32449,
+          "endMs": 32688,
+          "sourceRow": 7,
+          "sourceUnit": 4,
+          "nativeText": "够",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "耐",
+          "startMs": 32688,
+          "endMs": 33073,
+          "sourceRow": 7,
+          "sourceUnit": 5,
+          "nativeText": "耐",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 33073,
+          "endMs": 33620,
+          "sourceRow": 7,
+          "sourceUnit": 6,
+          "nativeText": "性",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-4",
+      "kind": "lyric"
+    },
+    {
+      "text": "失恋的不信是注定",
+      "startMs": 33889,
+      "endMs": 36673,
+      "units": [
+        {
+          "text": "失",
+          "startMs": 33889,
+          "endMs": 34241,
+          "sourceRow": 8,
+          "sourceUnit": 0,
+          "nativeText": "失",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "恋",
+          "startMs": 34241,
+          "endMs": 34545,
+          "sourceRow": 8,
+          "sourceUnit": 1,
+          "nativeText": "恋",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 34545,
+          "endMs": 34802,
+          "sourceRow": 8,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 34802,
+          "endMs": 35089,
+          "sourceRow": 8,
+          "sourceUnit": 3,
+          "nativeText": "不",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "信",
+          "startMs": 35089,
+          "endMs": 35457,
+          "sourceRow": 8,
+          "sourceUnit": 4,
+          "nativeText": "信",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 35457,
+          "endMs": 35713,
+          "sourceRow": 8,
+          "sourceUnit": 5,
+          "nativeText": "是",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "注",
+          "startMs": 35713,
+          "endMs": 36081,
+          "sourceRow": 8,
+          "sourceUnit": 6,
+          "nativeText": "注",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "定",
+          "startMs": 36081,
+          "endMs": 36673,
+          "sourceRow": 8,
+          "sourceUnit": 7,
+          "nativeText": "定",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-5",
+      "kind": "lyric"
+    },
+    {
+      "text": "于最黑的世界 于最光的刹那",
+      "startMs": 36945,
+      "endMs": 40394,
+      "units": [
+        {
+          "text": "于",
+          "startMs": 36945,
+          "endMs": 37153,
+          "sourceRow": 9,
+          "sourceUnit": 0,
+          "nativeText": "于",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "最",
+          "startMs": 37153,
+          "endMs": 37345,
+          "sourceRow": 9,
+          "sourceUnit": 1,
+          "nativeText": "最",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "黑",
+          "startMs": 37345,
+          "endMs": 37617,
+          "sourceRow": 9,
+          "sourceUnit": 2,
+          "nativeText": "黑",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 37617,
+          "endMs": 38000,
+          "sourceRow": 9,
+          "sourceUnit": 3,
+          "nativeText": "的",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "世",
+          "startMs": 38000,
+          "endMs": 38241,
+          "sourceRow": 9,
+          "sourceUnit": 4,
+          "nativeText": "世",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "界",
+          "startMs": 38241,
+          "endMs": 38801,
+          "sourceRow": 9,
+          "sourceUnit": 5,
+          "nativeText": "界",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 38801,
+          "endMs": 38801,
+          "sourceRow": 9,
+          "sourceUnit": 6,
+          "nativeText": " ",
+          "index": 6,
+          "kind": "layout"
+        },
+        {
+          "text": "于",
+          "startMs": 38801,
+          "endMs": 38995,
+          "sourceRow": 9,
+          "sourceUnit": 7,
+          "nativeText": "于",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "最",
+          "startMs": 38995,
+          "endMs": 39186,
+          "sourceRow": 9,
+          "sourceUnit": 8,
+          "nativeText": "最",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "光",
+          "startMs": 39186,
+          "endMs": 39489,
+          "sourceRow": 9,
+          "sourceUnit": 9,
+          "nativeText": "光",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 39489,
+          "endMs": 39895,
+          "sourceRow": 9,
+          "sourceUnit": 10,
+          "nativeText": "的",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "刹",
+          "startMs": 39895,
+          "endMs": 40113,
+          "sourceRow": 9,
+          "sourceUnit": 11,
+          "nativeText": "刹",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "那",
+          "startMs": 40113,
+          "endMs": 40394,
+          "sourceRow": 9,
+          "sourceUnit": 12,
+          "nativeText": "那",
+          "index": 12,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-6",
+      "kind": "lyric"
+    },
+    {
+      "text": "感到属于你的气息",
+      "startMs": 40700,
+      "endMs": 44939,
+      "units": [
+        {
+          "text": "感",
+          "startMs": 40700,
+          "endMs": 41384,
+          "sourceRow": 10,
+          "sourceUnit": 0,
+          "nativeText": "感",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "到",
+          "startMs": 41384,
+          "endMs": 42584,
+          "sourceRow": 10,
+          "sourceUnit": 1,
+          "nativeText": "到",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "属",
+          "startMs": 42584,
+          "endMs": 42808,
+          "sourceRow": 10,
+          "sourceUnit": 2,
+          "nativeText": "属",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "于",
+          "startMs": 42808,
+          "endMs": 43049,
+          "sourceRow": 10,
+          "sourceUnit": 3,
+          "nativeText": "于",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 43049,
+          "endMs": 43431,
+          "sourceRow": 10,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 43431,
+          "endMs": 44096,
+          "sourceRow": 10,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "气",
+          "startMs": 44096,
+          "endMs": 44527,
+          "sourceRow": 10,
+          "sourceUnit": 6,
+          "nativeText": "气",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "息",
+          "startMs": 44527,
+          "endMs": 44939,
+          "sourceRow": 10,
+          "sourceUnit": 7,
+          "nativeText": "息",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-7",
+      "kind": "lyric"
+    },
+    {
+      "text": "即使很多一起过的",
+      "startMs": 45404,
+      "endMs": 46970,
+      "units": [
+        {
+          "text": "即",
+          "startMs": 45404,
+          "endMs": 45563,
+          "sourceRow": 11,
+          "sourceUnit": 0,
+          "nativeText": "即",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "使",
+          "startMs": 45563,
+          "endMs": 45723,
+          "sourceRow": 11,
+          "sourceUnit": 1,
+          "nativeText": "使",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "很",
+          "startMs": 45723,
+          "endMs": 45947,
+          "sourceRow": 11,
+          "sourceUnit": 2,
+          "nativeText": "很",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 45947,
+          "endMs": 46158,
+          "sourceRow": 11,
+          "sourceUnit": 3,
+          "nativeText": "多",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "一",
+          "startMs": 46158,
+          "endMs": 46347,
+          "sourceRow": 11,
+          "sourceUnit": 4,
+          "nativeText": "一",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 46347,
+          "endMs": 46571,
+          "sourceRow": 11,
+          "sourceUnit": 5,
+          "nativeText": "起",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "过",
+          "startMs": 46571,
+          "endMs": 46796,
+          "sourceRow": 11,
+          "sourceUnit": 6,
+          "nativeText": "过",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 46796,
+          "endMs": 46970,
+          "sourceRow": 11,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-8",
+      "kind": "lyric"
+    },
+    {
+      "text": "想起的通通你的",
+      "startMs": 47306,
+      "endMs": 48711,
+      "units": [
+        {
+          "text": "想",
+          "startMs": 47306,
+          "endMs": 47514,
+          "sourceRow": 12,
+          "sourceUnit": 0,
+          "nativeText": "想",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 47514,
+          "endMs": 47722,
+          "sourceRow": 12,
+          "sourceUnit": 1,
+          "nativeText": "起",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 47722,
+          "endMs": 47994,
+          "sourceRow": 12,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 47994,
+          "endMs": 48203,
+          "sourceRow": 12,
+          "sourceUnit": 3,
+          "nativeText": "通",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 48203,
+          "endMs": 48442,
+          "sourceRow": 12,
+          "sourceUnit": 4,
+          "nativeText": "通",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 48442,
+          "endMs": 48650,
+          "sourceRow": 12,
+          "sourceUnit": 5,
+          "nativeText": "你",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 48650,
+          "endMs": 48711,
+          "sourceRow": 12,
+          "sourceUnit": 6,
+          "nativeText": "的",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-9",
+      "kind": "lyric"
+    },
+    {
+      "text": "为着是浪漫的爱情",
+      "startMs": 48964,
+      "endMs": 51571,
+      "units": [
+        {
+          "text": "为",
+          "startMs": 48964,
+          "endMs": 49236,
+          "sourceRow": 13,
+          "sourceUnit": 0,
+          "nativeText": "为",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "着",
+          "startMs": 49236,
+          "endMs": 49541,
+          "sourceRow": 13,
+          "sourceUnit": 1,
+          "nativeText": "着",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 49541,
+          "endMs": 49812,
+          "sourceRow": 13,
+          "sourceUnit": 2,
+          "nativeText": "是",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "浪",
+          "startMs": 49812,
+          "endMs": 50116,
+          "sourceRow": 13,
+          "sourceUnit": 3,
+          "nativeText": "浪",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "漫",
+          "startMs": 50116,
+          "endMs": 50436,
+          "sourceRow": 13,
+          "sourceUnit": 4,
+          "nativeText": "漫",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 50436,
+          "endMs": 50711,
+          "sourceRow": 13,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "爱",
+          "startMs": 50711,
+          "endMs": 50996,
+          "sourceRow": 13,
+          "sourceUnit": 6,
+          "nativeText": "爱",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "情",
+          "startMs": 50996,
+          "endMs": 51571,
+          "sourceRow": 13,
+          "sourceUnit": 7,
+          "nativeText": "情",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-10",
+      "kind": "lyric"
+    },
+    {
+      "text": "通通都可再见",
+      "startMs": 51989,
+      "endMs": 53494,
+      "units": [
+        {
+          "text": "通",
+          "startMs": 51989,
+          "endMs": 52178,
+          "sourceRow": 14,
+          "sourceUnit": 0,
+          "nativeText": "通",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 52178,
+          "endMs": 52371,
+          "sourceRow": 14,
+          "sourceUnit": 1,
+          "nativeText": "通",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "都",
+          "startMs": 52371,
+          "endMs": 52628,
+          "sourceRow": 14,
+          "sourceUnit": 2,
+          "nativeText": "都",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 52628,
+          "endMs": 53027,
+          "sourceRow": 14,
+          "sourceUnit": 3,
+          "nativeText": "可",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 53027,
+          "endMs": 53257,
+          "sourceRow": 14,
+          "sourceUnit": 4,
+          "nativeText": "再",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "见",
+          "startMs": 53257,
+          "endMs": 53494,
+          "sourceRow": 14,
+          "sourceUnit": 5,
+          "nativeText": "见",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-11",
+      "kind": "lyric"
+    },
+    {
+      "text": "但承诺可再听",
+      "startMs": 53798,
+      "endMs": 55621,
+      "units": [
+        {
+          "text": "但",
+          "startMs": 53798,
+          "endMs": 54006,
+          "sourceRow": 15,
+          "sourceUnit": 0,
+          "nativeText": "但",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "承",
+          "startMs": 54006,
+          "endMs": 54201,
+          "sourceRow": 15,
+          "sourceUnit": 1,
+          "nativeText": "承",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "诺",
+          "startMs": 54201,
+          "endMs": 54469,
+          "sourceRow": 15,
+          "sourceUnit": 2,
+          "nativeText": "诺",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 54469,
+          "endMs": 54870,
+          "sourceRow": 15,
+          "sourceUnit": 3,
+          "nativeText": "可",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 54870,
+          "endMs": 55110,
+          "sourceRow": 15,
+          "sourceUnit": 4,
+          "nativeText": "再",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "听",
+          "startMs": 55110,
+          "endMs": 55621,
+          "sourceRow": 15,
+          "sourceUnit": 5,
+          "nativeText": "听",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-12",
+      "kind": "lyric"
+    },
+    {
+      "text": "什么可不变色",
+      "startMs": 56120,
+      "endMs": 58771,
+      "units": [
+        {
+          "text": "什",
+          "startMs": 56120,
+          "endMs": 56325,
+          "sourceRow": 16,
+          "sourceUnit": 0,
+          "nativeText": "什",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "么",
+          "startMs": 56325,
+          "endMs": 56795,
+          "sourceRow": 16,
+          "sourceUnit": 1,
+          "nativeText": "么",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 56795,
+          "endMs": 57013,
+          "sourceRow": 16,
+          "sourceUnit": 2,
+          "nativeText": "可",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 57013,
+          "endMs": 57766,
+          "sourceRow": 16,
+          "sourceUnit": 3,
+          "nativeText": "不",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "变",
+          "startMs": 57766,
+          "endMs": 57971,
+          "sourceRow": 16,
+          "sourceUnit": 4,
+          "nativeText": "变",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "色",
+          "startMs": 57971,
+          "endMs": 58771,
+          "sourceRow": 16,
+          "sourceUnit": 5,
+          "nativeText": "色",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-13",
+      "kind": "lyric"
+    },
+    {
+      "text": "Oh baby",
+      "startMs": 59059,
+      "endMs": 59726,
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 59059,
+          "endMs": 59235,
+          "sourceRow": 17,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "baby",
+          "startMs": 59235,
+          "endMs": 59726,
+          "sourceRow": 17,
+          "sourceUnit": 1,
+          "nativeText": "baby",
+          "index": 1,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-14",
+      "kind": "vocalise"
+    },
+    {
+      "text": "当晚与你记住蒲公英",
+      "startMs": 60142,
+      "endMs": 63071,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 60142,
+          "endMs": 60351,
+          "sourceRow": 18,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 60351,
+          "endMs": 60542,
+          "sourceRow": 18,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 60542,
+          "endMs": 60750,
+          "sourceRow": 18,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 60750,
+          "endMs": 61026,
+          "sourceRow": 18,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 61026,
+          "endMs": 61519,
+          "sourceRow": 18,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 61519,
+          "endMs": 61759,
+          "sourceRow": 18,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "蒲",
+          "startMs": 61759,
+          "endMs": 62414,
+          "sourceRow": 18,
+          "sourceUnit": 6,
+          "nativeText": "蒲",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "公",
+          "startMs": 62414,
+          "endMs": 62654,
+          "sourceRow": 18,
+          "sourceUnit": 7,
+          "nativeText": "公",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "英",
+          "startMs": 62654,
+          "endMs": 63071,
+          "sourceRow": 18,
+          "sourceUnit": 8,
+          "nativeText": "英",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-15",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚偏偏想起风的清劲",
+      "startMs": 63390,
+      "endMs": 66362,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 63390,
+          "endMs": 63601,
+          "sourceRow": 19,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 63601,
+          "endMs": 63872,
+          "sourceRow": 19,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 63872,
+          "endMs": 64046,
+          "sourceRow": 19,
+          "sourceUnit": 2,
+          "nativeText": "偏",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 64046,
+          "endMs": 64303,
+          "sourceRow": 19,
+          "sourceUnit": 3,
+          "nativeText": "偏",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "想",
+          "startMs": 64303,
+          "endMs": 64510,
+          "sourceRow": 19,
+          "sourceUnit": 4,
+          "nativeText": "想",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 64510,
+          "endMs": 64783,
+          "sourceRow": 19,
+          "sourceUnit": 5,
+          "nativeText": "起",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "风",
+          "startMs": 64783,
+          "endMs": 65322,
+          "sourceRow": 19,
+          "sourceUnit": 6,
+          "nativeText": "风",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 65322,
+          "endMs": 65518,
+          "sourceRow": 19,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "清",
+          "startMs": 65518,
+          "endMs": 65883,
+          "sourceRow": 19,
+          "sourceUnit": 8,
+          "nativeText": "清",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "劲",
+          "startMs": 65883,
+          "endMs": 66362,
+          "sourceRow": 19,
+          "sourceUnit": 9,
+          "nativeText": "劲",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-16",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆不再受制于我 我承认",
+      "startMs": 67065,
+      "endMs": 72043,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 67065,
+          "endMs": 67289,
+          "sourceRow": 20,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 67289,
+          "endMs": 67578,
+          "sourceRow": 20,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 67578,
+          "endMs": 68014,
+          "sourceRow": 20,
+          "sourceUnit": 2,
+          "nativeText": "不",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 68014,
+          "endMs": 68265,
+          "sourceRow": 20,
+          "sourceUnit": 3,
+          "nativeText": "再",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "受",
+          "startMs": 68265,
+          "endMs": 68966,
+          "sourceRow": 20,
+          "sourceUnit": 4,
+          "nativeText": "受",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "制",
+          "startMs": 68966,
+          "endMs": 69206,
+          "sourceRow": 20,
+          "sourceUnit": 5,
+          "nativeText": "制",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "于",
+          "startMs": 69206,
+          "endMs": 69936,
+          "sourceRow": 20,
+          "sourceUnit": 6,
+          "nativeText": "于",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 69936,
+          "endMs": 70163,
+          "sourceRow": 20,
+          "sourceUnit": 7,
+          "nativeText": "我",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 70163,
+          "endMs": 70163,
+          "sourceRow": 20,
+          "sourceUnit": 8,
+          "nativeText": " ",
+          "index": 8,
+          "kind": "layout"
+        },
+        {
+          "text": "我",
+          "startMs": 70163,
+          "endMs": 70881,
+          "sourceRow": 20,
+          "sourceUnit": 9,
+          "nativeText": "我",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "承",
+          "startMs": 70881,
+          "endMs": 71072,
+          "sourceRow": 20,
+          "sourceUnit": 10,
+          "nativeText": "承",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "认",
+          "startMs": 71072,
+          "endMs": 72043,
+          "sourceRow": 20,
+          "sourceUnit": 11,
+          "nativeText": "认",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-17",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆也许你的",
+      "startMs": 72571,
+      "endMs": 74671,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 72571,
+          "endMs": 72779,
+          "sourceRow": 21,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 72779,
+          "endMs": 73019,
+          "sourceRow": 21,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "也",
+          "startMs": 73019,
+          "endMs": 73388,
+          "sourceRow": 21,
+          "sourceUnit": 2,
+          "nativeText": "也",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "许",
+          "startMs": 73388,
+          "endMs": 73883,
+          "sourceRow": 21,
+          "sourceUnit": 3,
+          "nativeText": "许",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 73883,
+          "endMs": 74314,
+          "sourceRow": 21,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 74314,
+          "endMs": 74671,
+          "sourceRow": 21,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-18",
+      "kind": "lyric"
+    },
+    {
+      "text": "当晚与你记住流水声",
+      "startMs": 75067,
+      "endMs": 77931,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 75067,
+          "endMs": 75310,
+          "sourceRow": 22,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 75310,
+          "endMs": 75500,
+          "sourceRow": 22,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 75500,
+          "endMs": 75691,
+          "sourceRow": 22,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 75691,
+          "endMs": 75995,
+          "sourceRow": 22,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 75995,
+          "endMs": 76491,
+          "sourceRow": 22,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 76491,
+          "endMs": 76734,
+          "sourceRow": 22,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "流",
+          "startMs": 76734,
+          "endMs": 77371,
+          "sourceRow": 22,
+          "sourceUnit": 6,
+          "nativeText": "流",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "水",
+          "startMs": 77371,
+          "endMs": 77630,
+          "sourceRow": 22,
+          "sourceUnit": 7,
+          "nativeText": "水",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "声",
+          "startMs": 77630,
+          "endMs": 77931,
+          "sourceRow": 22,
+          "sourceUnit": 8,
+          "nativeText": "声",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-19",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚站在大地自己倾听",
+      "startMs": 78282,
+      "endMs": 81459,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 78282,
+          "endMs": 78523,
+          "sourceRow": 23,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 78523,
+          "endMs": 78842,
+          "sourceRow": 23,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "站",
+          "startMs": 78842,
+          "endMs": 79051,
+          "sourceRow": 23,
+          "sourceUnit": 2,
+          "nativeText": "站",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "在",
+          "startMs": 79051,
+          "endMs": 79275,
+          "sourceRow": 23,
+          "sourceUnit": 3,
+          "nativeText": "在",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "大",
+          "startMs": 79275,
+          "endMs": 79483,
+          "sourceRow": 23,
+          "sourceUnit": 4,
+          "nativeText": "大",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "地",
+          "startMs": 79483,
+          "endMs": 79771,
+          "sourceRow": 23,
+          "sourceUnit": 5,
+          "nativeText": "地",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "自",
+          "startMs": 79771,
+          "endMs": 80274,
+          "sourceRow": 23,
+          "sourceUnit": 6,
+          "nativeText": "自",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "己",
+          "startMs": 80274,
+          "endMs": 80483,
+          "sourceRow": 23,
+          "sourceUnit": 7,
+          "nativeText": "己",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "倾",
+          "startMs": 80483,
+          "endMs": 80914,
+          "sourceRow": 23,
+          "sourceUnit": 8,
+          "nativeText": "倾",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "听",
+          "startMs": 80914,
+          "endMs": 81459,
+          "sourceRow": 23,
+          "sourceUnit": 9,
+          "nativeText": "听",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-20",
+      "kind": "lyric"
+    },
+    {
+      "text": "难道送别你 回头总是虔诚",
+      "startMs": 82114,
+      "endMs": 85935,
+      "units": [
+        {
+          "text": "难",
+          "startMs": 82114,
+          "endMs": 82323,
+          "sourceRow": 24,
+          "sourceUnit": 0,
+          "nativeText": "难",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "道",
+          "startMs": 82323,
+          "endMs": 82626,
+          "sourceRow": 24,
+          "sourceUnit": 1,
+          "nativeText": "道",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "送",
+          "startMs": 82626,
+          "endMs": 83075,
+          "sourceRow": 24,
+          "sourceUnit": 2,
+          "nativeText": "送",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "别",
+          "startMs": 83075,
+          "endMs": 83299,
+          "sourceRow": 24,
+          "sourceUnit": 3,
+          "nativeText": "别",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 83299,
+          "endMs": 83987,
+          "sourceRow": 24,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 83987,
+          "endMs": 83987,
+          "sourceRow": 24,
+          "sourceUnit": 5,
+          "nativeText": " ",
+          "index": 5,
+          "kind": "layout"
+        },
+        {
+          "text": "回",
+          "startMs": 83987,
+          "endMs": 84178,
+          "sourceRow": 24,
+          "sourceUnit": 6,
+          "nativeText": "回",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "头",
+          "startMs": 84178,
+          "endMs": 84438,
+          "sourceRow": 24,
+          "sourceUnit": 7,
+          "nativeText": "头",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "总",
+          "startMs": 84438,
+          "endMs": 84883,
+          "sourceRow": 24,
+          "sourceUnit": 8,
+          "nativeText": "总",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 84883,
+          "endMs": 85125,
+          "sourceRow": 24,
+          "sourceUnit": 9,
+          "nativeText": "是",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "虔",
+          "startMs": 85125,
+          "endMs": 85539,
+          "sourceRow": 24,
+          "sourceUnit": 10,
+          "nativeText": "虔",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "诚",
+          "startMs": 85539,
+          "endMs": 85935,
+          "sourceRow": 24,
+          "sourceUnit": 11,
+          "nativeText": "诚",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-21",
+      "kind": "lyric"
+    },
+    {
+      "text": "谁能怪我 总是太感性",
+      "startMs": 86190,
+      "endMs": 92626,
+      "units": [
+        {
+          "text": "谁",
+          "startMs": 86190,
+          "endMs": 86398,
+          "sourceRow": 25,
+          "sourceUnit": 0,
+          "nativeText": "谁",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "能",
+          "startMs": 86398,
+          "endMs": 86770,
+          "sourceRow": 25,
+          "sourceUnit": 1,
+          "nativeText": "能",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "怪",
+          "startMs": 86770,
+          "endMs": 87022,
+          "sourceRow": 25,
+          "sourceUnit": 2,
+          "nativeText": "怪",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 87022,
+          "endMs": 88703,
+          "sourceRow": 25,
+          "sourceUnit": 3,
+          "nativeText": "我",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 88703,
+          "endMs": 88703,
+          "sourceRow": 25,
+          "sourceUnit": 4,
+          "nativeText": " ",
+          "index": 4,
+          "kind": "layout"
+        },
+        {
+          "text": "总",
+          "startMs": 88703,
+          "endMs": 89135,
+          "sourceRow": 25,
+          "sourceUnit": 5,
+          "nativeText": "总",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 89135,
+          "endMs": 89662,
+          "sourceRow": 25,
+          "sourceUnit": 6,
+          "nativeText": "是",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "太",
+          "startMs": 89662,
+          "endMs": 89968,
+          "sourceRow": 25,
+          "sourceUnit": 7,
+          "nativeText": "太",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "感",
+          "startMs": 89968,
+          "endMs": 90495,
+          "sourceRow": 25,
+          "sourceUnit": 8,
+          "nativeText": "感",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 90495,
+          "endMs": 92626,
+          "sourceRow": 25,
+          "sourceUnit": 9,
+          "nativeText": "性",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-22",
+      "kind": "lyric"
+    },
+    {
+      "text": "失恋的都有惰性",
+      "startMs": 109305,
+      "endMs": 112249,
+      "units": [
+        {
+          "text": "失",
+          "startMs": 109305,
+          "endMs": 109769,
+          "sourceRow": 26,
+          "sourceUnit": 0,
+          "nativeText": "失",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "恋",
+          "startMs": 109769,
+          "endMs": 110233,
+          "sourceRow": 26,
+          "sourceUnit": 1,
+          "nativeText": "恋",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 110233,
+          "endMs": 110713,
+          "sourceRow": 26,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "都",
+          "startMs": 110713,
+          "endMs": 111161,
+          "sourceRow": 26,
+          "sourceUnit": 3,
+          "nativeText": "都",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "有",
+          "startMs": 111161,
+          "endMs": 111401,
+          "sourceRow": 26,
+          "sourceUnit": 4,
+          "nativeText": "有",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "惰",
+          "startMs": 111401,
+          "endMs": 111817,
+          "sourceRow": 26,
+          "sourceUnit": 5,
+          "nativeText": "惰",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 111817,
+          "endMs": 112249,
+          "sourceRow": 26,
+          "sourceUnit": 6,
+          "nativeText": "性",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-23",
+      "kind": "lyric"
+    },
+    {
+      "text": "失恋的都记住约定",
+      "startMs": 112633,
+      "endMs": 115337,
+      "units": [
+        {
+          "text": "失",
+          "startMs": 112633,
+          "endMs": 112985,
+          "sourceRow": 27,
+          "sourceUnit": 0,
+          "nativeText": "失",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "恋",
+          "startMs": 112985,
+          "endMs": 113324,
+          "sourceRow": 27,
+          "sourceUnit": 1,
+          "nativeText": "恋",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 113324,
+          "endMs": 113548,
+          "sourceRow": 27,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "都",
+          "startMs": 113548,
+          "endMs": 113881,
+          "sourceRow": 27,
+          "sourceUnit": 3,
+          "nativeText": "都",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 113881,
+          "endMs": 114169,
+          "sourceRow": 27,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 114169,
+          "endMs": 114425,
+          "sourceRow": 27,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "约",
+          "startMs": 114425,
+          "endMs": 114796,
+          "sourceRow": 27,
+          "sourceUnit": 6,
+          "nativeText": "约",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "定",
+          "startMs": 114796,
+          "endMs": 115337,
+          "sourceRow": 27,
+          "sourceUnit": 7,
+          "nativeText": "定",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-24",
+      "kind": "lyric"
+    },
+    {
+      "text": "当理想的世界 当理想的刹那",
+      "startMs": 115705,
+      "endMs": 119211,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 115705,
+          "endMs": 115881,
+          "sourceRow": 28,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "理",
+          "startMs": 115881,
+          "endMs": 116075,
+          "sourceRow": 28,
+          "sourceUnit": 1,
+          "nativeText": "理",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "想",
+          "startMs": 116075,
+          "endMs": 116345,
+          "sourceRow": 28,
+          "sourceUnit": 2,
+          "nativeText": "想",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 116345,
+          "endMs": 116747,
+          "sourceRow": 28,
+          "sourceUnit": 3,
+          "nativeText": "的",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "世",
+          "startMs": 116747,
+          "endMs": 117002,
+          "sourceRow": 28,
+          "sourceUnit": 4,
+          "nativeText": "世",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "界",
+          "startMs": 117002,
+          "endMs": 117529,
+          "sourceRow": 28,
+          "sourceUnit": 5,
+          "nativeText": "界",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 117529,
+          "endMs": 117529,
+          "sourceRow": 28,
+          "sourceUnit": 6,
+          "nativeText": " ",
+          "index": 6,
+          "kind": "layout"
+        },
+        {
+          "text": "当",
+          "startMs": 117529,
+          "endMs": 117721,
+          "sourceRow": 28,
+          "sourceUnit": 7,
+          "nativeText": "当",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "理",
+          "startMs": 117721,
+          "endMs": 117929,
+          "sourceRow": 28,
+          "sourceUnit": 8,
+          "nativeText": "理",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "想",
+          "startMs": 117929,
+          "endMs": 118202,
+          "sourceRow": 28,
+          "sourceUnit": 9,
+          "nativeText": "想",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 118202,
+          "endMs": 118650,
+          "sourceRow": 28,
+          "sourceUnit": 10,
+          "nativeText": "的",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "刹",
+          "startMs": 118650,
+          "endMs": 118859,
+          "sourceRow": 28,
+          "sourceUnit": 11,
+          "nativeText": "刹",
+          "index": 11,
+          "kind": "vocal"
+        },
+        {
+          "text": "那",
+          "startMs": 118859,
+          "endMs": 119211,
+          "sourceRow": 28,
+          "sourceUnit": 12,
+          "nativeText": "那",
+          "index": 12,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-25",
+      "kind": "lyric"
+    },
+    {
+      "text": "因爱 无分你的我的",
+      "startMs": 119545,
+      "endMs": 123607,
+      "units": [
+        {
+          "text": "因",
+          "startMs": 119545,
+          "endMs": 119978,
+          "sourceRow": 29,
+          "sourceUnit": 0,
+          "nativeText": "因",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "爱",
+          "startMs": 119978,
+          "endMs": 121324,
+          "sourceRow": 29,
+          "sourceUnit": 1,
+          "nativeText": "爱",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 121324,
+          "endMs": 121324,
+          "sourceRow": 29,
+          "sourceUnit": 2,
+          "nativeText": " ",
+          "index": 2,
+          "kind": "layout"
+        },
+        {
+          "text": "无",
+          "startMs": 121324,
+          "endMs": 121561,
+          "sourceRow": 29,
+          "sourceUnit": 3,
+          "nativeText": "无",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "分",
+          "startMs": 121561,
+          "endMs": 121833,
+          "sourceRow": 29,
+          "sourceUnit": 4,
+          "nativeText": "分",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 121833,
+          "endMs": 122233,
+          "sourceRow": 29,
+          "sourceUnit": 5,
+          "nativeText": "你",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 122233,
+          "endMs": 122834,
+          "sourceRow": 29,
+          "sourceUnit": 6,
+          "nativeText": "的",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 122834,
+          "endMs": 123248,
+          "sourceRow": 29,
+          "sourceUnit": 7,
+          "nativeText": "我",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 123248,
+          "endMs": 123607,
+          "sourceRow": 29,
+          "sourceUnit": 8,
+          "nativeText": "的",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-26",
+      "kind": "lyric"
+    },
+    {
+      "text": "即使很多一起过的",
+      "startMs": 124182,
+      "endMs": 125682,
+      "units": [
+        {
+          "text": "即",
+          "startMs": 124182,
+          "endMs": 124364,
+          "sourceRow": 30,
+          "sourceUnit": 0,
+          "nativeText": "即",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "使",
+          "startMs": 124364,
+          "endMs": 124502,
+          "sourceRow": 30,
+          "sourceUnit": 1,
+          "nativeText": "使",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "很",
+          "startMs": 124502,
+          "endMs": 124710,
+          "sourceRow": 30,
+          "sourceUnit": 2,
+          "nativeText": "很",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "多",
+          "startMs": 124710,
+          "endMs": 124903,
+          "sourceRow": 30,
+          "sourceUnit": 3,
+          "nativeText": "多",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "一",
+          "startMs": 124903,
+          "endMs": 125082,
+          "sourceRow": 30,
+          "sourceUnit": 4,
+          "nativeText": "一",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 125082,
+          "endMs": 125286,
+          "sourceRow": 30,
+          "sourceUnit": 5,
+          "nativeText": "起",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "过",
+          "startMs": 125286,
+          "endMs": 125510,
+          "sourceRow": 30,
+          "sourceUnit": 6,
+          "nativeText": "过",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 125510,
+          "endMs": 125682,
+          "sourceRow": 30,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-27",
+      "kind": "lyric"
+    },
+    {
+      "text": "想起的通通你的",
+      "startMs": 126001,
+      "endMs": 127425,
+      "units": [
+        {
+          "text": "想",
+          "startMs": 126001,
+          "endMs": 126198,
+          "sourceRow": 31,
+          "sourceUnit": 0,
+          "nativeText": "想",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 126198,
+          "endMs": 126369,
+          "sourceRow": 31,
+          "sourceUnit": 1,
+          "nativeText": "起",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 126369,
+          "endMs": 126674,
+          "sourceRow": 31,
+          "sourceUnit": 2,
+          "nativeText": "的",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 126674,
+          "endMs": 126882,
+          "sourceRow": 31,
+          "sourceUnit": 3,
+          "nativeText": "通",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 126882,
+          "endMs": 127075,
+          "sourceRow": 31,
+          "sourceUnit": 4,
+          "nativeText": "通",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 127075,
+          "endMs": 127249,
+          "sourceRow": 31,
+          "sourceUnit": 5,
+          "nativeText": "你",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 127249,
+          "endMs": 127425,
+          "sourceRow": 31,
+          "sourceUnit": 6,
+          "nativeText": "的",
+          "index": 6,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-28",
+      "kind": "lyric"
+    },
+    {
+      "text": "为着是浪漫的爱情",
+      "startMs": 127634,
+      "endMs": 130288,
+      "units": [
+        {
+          "text": "为",
+          "startMs": 127634,
+          "endMs": 127873,
+          "sourceRow": 32,
+          "sourceUnit": 0,
+          "nativeText": "为",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "着",
+          "startMs": 127873,
+          "endMs": 128197,
+          "sourceRow": 32,
+          "sourceUnit": 1,
+          "nativeText": "着",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 128197,
+          "endMs": 128481,
+          "sourceRow": 32,
+          "sourceUnit": 2,
+          "nativeText": "是",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "浪",
+          "startMs": 128481,
+          "endMs": 128837,
+          "sourceRow": 32,
+          "sourceUnit": 3,
+          "nativeText": "浪",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "漫",
+          "startMs": 128837,
+          "endMs": 129217,
+          "sourceRow": 32,
+          "sourceUnit": 4,
+          "nativeText": "漫",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 129217,
+          "endMs": 129461,
+          "sourceRow": 32,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "爱",
+          "startMs": 129461,
+          "endMs": 129794,
+          "sourceRow": 32,
+          "sourceUnit": 6,
+          "nativeText": "爱",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "情",
+          "startMs": 129794,
+          "endMs": 130288,
+          "sourceRow": 32,
+          "sourceUnit": 7,
+          "nativeText": "情",
+          "index": 7,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-29",
+      "kind": "lyric"
+    },
+    {
+      "text": "通通都可再见",
+      "startMs": 130690,
+      "endMs": 132272,
+      "units": [
+        {
+          "text": "通",
+          "startMs": 130690,
+          "endMs": 130881,
+          "sourceRow": 33,
+          "sourceUnit": 0,
+          "nativeText": "通",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "通",
+          "startMs": 130881,
+          "endMs": 131088,
+          "sourceRow": 33,
+          "sourceUnit": 1,
+          "nativeText": "通",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "都",
+          "startMs": 131088,
+          "endMs": 131378,
+          "sourceRow": 33,
+          "sourceUnit": 2,
+          "nativeText": "都",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 131378,
+          "endMs": 131760,
+          "sourceRow": 33,
+          "sourceUnit": 3,
+          "nativeText": "可",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 131760,
+          "endMs": 131984,
+          "sourceRow": 33,
+          "sourceUnit": 4,
+          "nativeText": "再",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "见",
+          "startMs": 131984,
+          "endMs": 132272,
+          "sourceRow": 33,
+          "sourceUnit": 5,
+          "nativeText": "见",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-30",
+      "kind": "lyric"
+    },
+    {
+      "text": "但承诺可再听",
+      "startMs": 132528,
+      "endMs": 134112,
+      "units": [
+        {
+          "text": "但",
+          "startMs": 132528,
+          "endMs": 132754,
+          "sourceRow": 34,
+          "sourceUnit": 0,
+          "nativeText": "但",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "承",
+          "startMs": 132754,
+          "endMs": 132944,
+          "sourceRow": 34,
+          "sourceUnit": 1,
+          "nativeText": "承",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "诺",
+          "startMs": 132944,
+          "endMs": 133200,
+          "sourceRow": 34,
+          "sourceUnit": 2,
+          "nativeText": "诺",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 133200,
+          "endMs": 133600,
+          "sourceRow": 34,
+          "sourceUnit": 3,
+          "nativeText": "可",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 133600,
+          "endMs": 133840,
+          "sourceRow": 34,
+          "sourceUnit": 4,
+          "nativeText": "再",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "听",
+          "startMs": 133840,
+          "endMs": 134112,
+          "sourceRow": 34,
+          "sourceUnit": 5,
+          "nativeText": "听",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-31",
+      "kind": "lyric"
+    },
+    {
+      "text": "什么可不变色",
+      "startMs": 134833,
+      "endMs": 137505,
+      "units": [
+        {
+          "text": "什",
+          "startMs": 134833,
+          "endMs": 135072,
+          "sourceRow": 35,
+          "sourceUnit": 0,
+          "nativeText": "什",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "么",
+          "startMs": 135072,
+          "endMs": 135475,
+          "sourceRow": 35,
+          "sourceUnit": 1,
+          "nativeText": "么",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "可",
+          "startMs": 135475,
+          "endMs": 135696,
+          "sourceRow": 35,
+          "sourceUnit": 2,
+          "nativeText": "可",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 135696,
+          "endMs": 136483,
+          "sourceRow": 35,
+          "sourceUnit": 3,
+          "nativeText": "不",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "变",
+          "startMs": 136483,
+          "endMs": 136689,
+          "sourceRow": 35,
+          "sourceUnit": 4,
+          "nativeText": "变",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "色",
+          "startMs": 136689,
+          "endMs": 137505,
+          "sourceRow": 35,
+          "sourceUnit": 5,
+          "nativeText": "色",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-32",
+      "kind": "lyric"
+    },
+    {
+      "text": "Oh baby",
+      "startMs": 137747,
+      "endMs": 138466,
+      "units": [
+        {
+          "text": "Oh ",
+          "startMs": 137747,
+          "endMs": 137937,
+          "sourceRow": 36,
+          "sourceUnit": 0,
+          "nativeText": "Oh ",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "baby",
+          "startMs": 137937,
+          "endMs": 138466,
+          "sourceRow": 36,
+          "sourceUnit": 1,
+          "nativeText": "baby",
+          "index": 1,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-33",
+      "kind": "vocalise"
+    },
+    {
+      "text": "当晚与你记住蒲公英",
+      "startMs": 138866,
+      "endMs": 141651,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 138866,
+          "endMs": 139074,
+          "sourceRow": 37,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 139074,
+          "endMs": 139281,
+          "sourceRow": 37,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 139281,
+          "endMs": 139457,
+          "sourceRow": 37,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 139457,
+          "endMs": 139749,
+          "sourceRow": 37,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 139749,
+          "endMs": 140241,
+          "sourceRow": 37,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 140241,
+          "endMs": 140482,
+          "sourceRow": 37,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "蒲",
+          "startMs": 140482,
+          "endMs": 141177,
+          "sourceRow": 37,
+          "sourceUnit": 6,
+          "nativeText": "蒲",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "公",
+          "startMs": 141177,
+          "endMs": 141409,
+          "sourceRow": 37,
+          "sourceUnit": 7,
+          "nativeText": "公",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "英",
+          "startMs": 141409,
+          "endMs": 141651,
+          "sourceRow": 37,
+          "sourceUnit": 8,
+          "nativeText": "英",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-34",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚偏偏想起风的清劲",
+      "startMs": 142048,
+      "endMs": 145172,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 142048,
+          "endMs": 142305,
+          "sourceRow": 38,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 142305,
+          "endMs": 142593,
+          "sourceRow": 38,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 142593,
+          "endMs": 142801,
+          "sourceRow": 38,
+          "sourceUnit": 2,
+          "nativeText": "偏",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 142801,
+          "endMs": 143027,
+          "sourceRow": 38,
+          "sourceUnit": 3,
+          "nativeText": "偏",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "想",
+          "startMs": 143027,
+          "endMs": 143233,
+          "sourceRow": 38,
+          "sourceUnit": 4,
+          "nativeText": "想",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 143233,
+          "endMs": 143505,
+          "sourceRow": 38,
+          "sourceUnit": 5,
+          "nativeText": "起",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "风",
+          "startMs": 143505,
+          "endMs": 143953,
+          "sourceRow": 38,
+          "sourceUnit": 6,
+          "nativeText": "风",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 143953,
+          "endMs": 144177,
+          "sourceRow": 38,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "清",
+          "startMs": 144177,
+          "endMs": 144593,
+          "sourceRow": 38,
+          "sourceUnit": 8,
+          "nativeText": "清",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "劲",
+          "startMs": 144593,
+          "endMs": 145172,
+          "sourceRow": 38,
+          "sourceUnit": 9,
+          "nativeText": "劲",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-35",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆不再受制于我 我承认",
+      "startMs": 145889,
+      "endMs": 150752,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 145889,
+          "endMs": 146081,
+          "sourceRow": 39,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 146081,
+          "endMs": 146355,
+          "sourceRow": 39,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 146355,
+          "endMs": 146801,
+          "sourceRow": 39,
+          "sourceUnit": 2,
+          "nativeText": "不",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 146801,
+          "endMs": 147027,
+          "sourceRow": 39,
+          "sourceUnit": 3,
+          "nativeText": "再",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "受",
+          "startMs": 147027,
+          "endMs": 147728,
+          "sourceRow": 39,
+          "sourceUnit": 4,
+          "nativeText": "受",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "制",
+          "startMs": 147728,
+          "endMs": 147968,
+          "sourceRow": 39,
+          "sourceUnit": 5,
+          "nativeText": "制",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "于",
+          "startMs": 147968,
+          "endMs": 148592,
+          "sourceRow": 39,
+          "sourceUnit": 6,
+          "nativeText": "于",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 148592,
+          "endMs": 148864,
+          "sourceRow": 39,
+          "sourceUnit": 7,
+          "nativeText": "我",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 148864,
+          "endMs": 148864,
+          "sourceRow": 39,
+          "sourceUnit": 8,
+          "nativeText": " ",
+          "index": 8,
+          "kind": "layout"
+        },
+        {
+          "text": "我",
+          "startMs": 148864,
+          "endMs": 149568,
+          "sourceRow": 39,
+          "sourceUnit": 9,
+          "nativeText": "我",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "承",
+          "startMs": 149568,
+          "endMs": 149793,
+          "sourceRow": 39,
+          "sourceUnit": 10,
+          "nativeText": "承",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "认",
+          "startMs": 149793,
+          "endMs": 150752,
+          "sourceRow": 39,
+          "sourceUnit": 11,
+          "nativeText": "认",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-36",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆也许你的",
+      "startMs": 151376,
+      "endMs": 153504,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 151376,
+          "endMs": 151569,
+          "sourceRow": 40,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 151569,
+          "endMs": 151792,
+          "sourceRow": 40,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "也",
+          "startMs": 151792,
+          "endMs": 152192,
+          "sourceRow": 40,
+          "sourceUnit": 2,
+          "nativeText": "也",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "许",
+          "startMs": 152192,
+          "endMs": 152656,
+          "sourceRow": 40,
+          "sourceUnit": 3,
+          "nativeText": "许",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 152656,
+          "endMs": 153074,
+          "sourceRow": 40,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 153074,
+          "endMs": 153504,
+          "sourceRow": 40,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-37",
+      "kind": "lyric"
+    },
+    {
+      "text": "当晚与你记住流水声",
+      "startMs": 153872,
+      "endMs": 156624,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 153872,
+          "endMs": 154064,
+          "sourceRow": 41,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 154064,
+          "endMs": 154273,
+          "sourceRow": 41,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 154273,
+          "endMs": 154448,
+          "sourceRow": 41,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 154448,
+          "endMs": 154720,
+          "sourceRow": 41,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 154720,
+          "endMs": 155248,
+          "sourceRow": 41,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 155248,
+          "endMs": 155472,
+          "sourceRow": 41,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "流",
+          "startMs": 155472,
+          "endMs": 156128,
+          "sourceRow": 41,
+          "sourceUnit": 6,
+          "nativeText": "流",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "水",
+          "startMs": 156128,
+          "endMs": 156374,
+          "sourceRow": 41,
+          "sourceUnit": 7,
+          "nativeText": "水",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "声",
+          "startMs": 156374,
+          "endMs": 156624,
+          "sourceRow": 41,
+          "sourceUnit": 8,
+          "nativeText": "声",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-38",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚站在大地自己倾听",
+      "startMs": 157056,
+      "endMs": 160211,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 157056,
+          "endMs": 157280,
+          "sourceRow": 42,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 157280,
+          "endMs": 157600,
+          "sourceRow": 42,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "站",
+          "startMs": 157600,
+          "endMs": 157815,
+          "sourceRow": 42,
+          "sourceUnit": 2,
+          "nativeText": "站",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "在",
+          "startMs": 157815,
+          "endMs": 158016,
+          "sourceRow": 42,
+          "sourceUnit": 3,
+          "nativeText": "在",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "大",
+          "startMs": 158016,
+          "endMs": 158208,
+          "sourceRow": 42,
+          "sourceUnit": 4,
+          "nativeText": "大",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "地",
+          "startMs": 158208,
+          "endMs": 158582,
+          "sourceRow": 42,
+          "sourceUnit": 5,
+          "nativeText": "地",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "自",
+          "startMs": 158582,
+          "endMs": 158995,
+          "sourceRow": 42,
+          "sourceUnit": 6,
+          "nativeText": "自",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "己",
+          "startMs": 158995,
+          "endMs": 159223,
+          "sourceRow": 42,
+          "sourceUnit": 7,
+          "nativeText": "己",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "倾",
+          "startMs": 159223,
+          "endMs": 159619,
+          "sourceRow": 42,
+          "sourceUnit": 8,
+          "nativeText": "倾",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "听",
+          "startMs": 159619,
+          "endMs": 160211,
+          "sourceRow": 42,
+          "sourceUnit": 9,
+          "nativeText": "听",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-39",
+      "kind": "lyric"
+    },
+    {
+      "text": "难道送别你 回头总是虔诚",
+      "startMs": 160835,
+      "endMs": 164706,
+      "units": [
+        {
+          "text": "难",
+          "startMs": 160835,
+          "endMs": 161043,
+          "sourceRow": 43,
+          "sourceUnit": 0,
+          "nativeText": "难",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "道",
+          "startMs": 161043,
+          "endMs": 161378,
+          "sourceRow": 43,
+          "sourceUnit": 1,
+          "nativeText": "道",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "送",
+          "startMs": 161378,
+          "endMs": 161829,
+          "sourceRow": 43,
+          "sourceUnit": 2,
+          "nativeText": "送",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "别",
+          "startMs": 161829,
+          "endMs": 162049,
+          "sourceRow": 43,
+          "sourceUnit": 3,
+          "nativeText": "别",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 162049,
+          "endMs": 162707,
+          "sourceRow": 43,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 162707,
+          "endMs": 162707,
+          "sourceRow": 43,
+          "sourceUnit": 5,
+          "nativeText": " ",
+          "index": 5,
+          "kind": "layout"
+        },
+        {
+          "text": "回",
+          "startMs": 162707,
+          "endMs": 162914,
+          "sourceRow": 43,
+          "sourceUnit": 6,
+          "nativeText": "回",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "头",
+          "startMs": 162914,
+          "endMs": 163220,
+          "sourceRow": 43,
+          "sourceUnit": 7,
+          "nativeText": "头",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "总",
+          "startMs": 163220,
+          "endMs": 163665,
+          "sourceRow": 43,
+          "sourceUnit": 8,
+          "nativeText": "总",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 163665,
+          "endMs": 163909,
+          "sourceRow": 43,
+          "sourceUnit": 9,
+          "nativeText": "是",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "虔",
+          "startMs": 163909,
+          "endMs": 164305,
+          "sourceRow": 43,
+          "sourceUnit": 10,
+          "nativeText": "虔",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "诚",
+          "startMs": 164305,
+          "endMs": 164706,
+          "sourceRow": 43,
+          "sourceUnit": 11,
+          "nativeText": "诚",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-40",
+      "kind": "lyric"
+    },
+    {
+      "text": "谁能怪我 总是太感性",
+      "startMs": 164962,
+      "endMs": 170978,
+      "units": [
+        {
+          "text": "谁",
+          "startMs": 164962,
+          "endMs": 165172,
+          "sourceRow": 44,
+          "sourceUnit": 0,
+          "nativeText": "谁",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "能",
+          "startMs": 165172,
+          "endMs": 165553,
+          "sourceRow": 44,
+          "sourceUnit": 1,
+          "nativeText": "能",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "怪",
+          "startMs": 165553,
+          "endMs": 165826,
+          "sourceRow": 44,
+          "sourceUnit": 2,
+          "nativeText": "怪",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 165826,
+          "endMs": 167380,
+          "sourceRow": 44,
+          "sourceUnit": 3,
+          "nativeText": "我",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 167380,
+          "endMs": 167380,
+          "sourceRow": 44,
+          "sourceUnit": 4,
+          "nativeText": " ",
+          "index": 4,
+          "kind": "layout"
+        },
+        {
+          "text": "总",
+          "startMs": 167380,
+          "endMs": 167844,
+          "sourceRow": 44,
+          "sourceUnit": 5,
+          "nativeText": "总",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 167844,
+          "endMs": 168370,
+          "sourceRow": 44,
+          "sourceUnit": 6,
+          "nativeText": "是",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "太",
+          "startMs": 168370,
+          "endMs": 168721,
+          "sourceRow": 44,
+          "sourceUnit": 7,
+          "nativeText": "太",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "感",
+          "startMs": 168721,
+          "endMs": 169363,
+          "sourceRow": 44,
+          "sourceUnit": 8,
+          "nativeText": "感",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 169363,
+          "endMs": 170978,
+          "sourceRow": 44,
+          "sourceUnit": 9,
+          "nativeText": "性",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-41",
+      "kind": "lyric"
+    },
+    {
+      "text": "当晚与你记住蒲公英",
+      "startMs": 172628,
+      "endMs": 175458,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 172628,
+          "endMs": 172818,
+          "sourceRow": 45,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 172818,
+          "endMs": 173026,
+          "sourceRow": 45,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 173026,
+          "endMs": 173253,
+          "sourceRow": 45,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 173253,
+          "endMs": 173491,
+          "sourceRow": 45,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 173491,
+          "endMs": 173976,
+          "sourceRow": 45,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 173976,
+          "endMs": 174194,
+          "sourceRow": 45,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "蒲",
+          "startMs": 174194,
+          "endMs": 174914,
+          "sourceRow": 45,
+          "sourceUnit": 6,
+          "nativeText": "蒲",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "公",
+          "startMs": 174914,
+          "endMs": 175170,
+          "sourceRow": 45,
+          "sourceUnit": 7,
+          "nativeText": "公",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "英",
+          "startMs": 175170,
+          "endMs": 175458,
+          "sourceRow": 45,
+          "sourceUnit": 8,
+          "nativeText": "英",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-42",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚偏偏想起风的清劲",
+      "startMs": 175860,
+      "endMs": 178994,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 175860,
+          "endMs": 176082,
+          "sourceRow": 46,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 176082,
+          "endMs": 176354,
+          "sourceRow": 46,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 176354,
+          "endMs": 176548,
+          "sourceRow": 46,
+          "sourceUnit": 2,
+          "nativeText": "偏",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "偏",
+          "startMs": 176548,
+          "endMs": 176770,
+          "sourceRow": 46,
+          "sourceUnit": 3,
+          "nativeText": "偏",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "想",
+          "startMs": 176770,
+          "endMs": 176978,
+          "sourceRow": 46,
+          "sourceUnit": 4,
+          "nativeText": "想",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "起",
+          "startMs": 176978,
+          "endMs": 177236,
+          "sourceRow": 46,
+          "sourceUnit": 5,
+          "nativeText": "起",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "风",
+          "startMs": 177236,
+          "endMs": 177714,
+          "sourceRow": 46,
+          "sourceUnit": 6,
+          "nativeText": "风",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 177714,
+          "endMs": 177956,
+          "sourceRow": 46,
+          "sourceUnit": 7,
+          "nativeText": "的",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "清",
+          "startMs": 177956,
+          "endMs": 178385,
+          "sourceRow": 46,
+          "sourceUnit": 8,
+          "nativeText": "清",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "劲",
+          "startMs": 178385,
+          "endMs": 178994,
+          "sourceRow": 46,
+          "sourceUnit": 9,
+          "nativeText": "劲",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-43",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆不再受制于我 我承认",
+      "startMs": 179617,
+      "endMs": 184581,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 179617,
+          "endMs": 179811,
+          "sourceRow": 47,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 179811,
+          "endMs": 180113,
+          "sourceRow": 47,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "不",
+          "startMs": 180113,
+          "endMs": 180548,
+          "sourceRow": 47,
+          "sourceUnit": 2,
+          "nativeText": "不",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "再",
+          "startMs": 180548,
+          "endMs": 180785,
+          "sourceRow": 47,
+          "sourceUnit": 3,
+          "nativeText": "再",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "受",
+          "startMs": 180785,
+          "endMs": 181458,
+          "sourceRow": 47,
+          "sourceUnit": 4,
+          "nativeText": "受",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "制",
+          "startMs": 181458,
+          "endMs": 181681,
+          "sourceRow": 47,
+          "sourceUnit": 5,
+          "nativeText": "制",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "于",
+          "startMs": 181681,
+          "endMs": 182338,
+          "sourceRow": 47,
+          "sourceUnit": 6,
+          "nativeText": "于",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 182338,
+          "endMs": 182579,
+          "sourceRow": 47,
+          "sourceUnit": 7,
+          "nativeText": "我",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 182579,
+          "endMs": 182579,
+          "sourceRow": 47,
+          "sourceUnit": 8,
+          "nativeText": " ",
+          "index": 8,
+          "kind": "layout"
+        },
+        {
+          "text": "我",
+          "startMs": 182579,
+          "endMs": 183316,
+          "sourceRow": 47,
+          "sourceUnit": 9,
+          "nativeText": "我",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "承",
+          "startMs": 183316,
+          "endMs": 183522,
+          "sourceRow": 47,
+          "sourceUnit": 10,
+          "nativeText": "承",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "认",
+          "startMs": 183522,
+          "endMs": 184581,
+          "sourceRow": 47,
+          "sourceUnit": 11,
+          "nativeText": "认",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-44",
+      "kind": "lyric"
+    },
+    {
+      "text": "回忆也许你的",
+      "startMs": 185122,
+      "endMs": 187284,
+      "units": [
+        {
+          "text": "回",
+          "startMs": 185122,
+          "endMs": 185299,
+          "sourceRow": 48,
+          "sourceUnit": 0,
+          "nativeText": "回",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "忆",
+          "startMs": 185299,
+          "endMs": 185537,
+          "sourceRow": 48,
+          "sourceUnit": 1,
+          "nativeText": "忆",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "也",
+          "startMs": 185537,
+          "endMs": 185898,
+          "sourceRow": 48,
+          "sourceUnit": 2,
+          "nativeText": "也",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "许",
+          "startMs": 185898,
+          "endMs": 186418,
+          "sourceRow": 48,
+          "sourceUnit": 3,
+          "nativeText": "许",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 186418,
+          "endMs": 186818,
+          "sourceRow": 48,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "的",
+          "startMs": 186818,
+          "endMs": 187284,
+          "sourceRow": 48,
+          "sourceUnit": 5,
+          "nativeText": "的",
+          "index": 5,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-45",
+      "kind": "lyric"
+    },
+    {
+      "text": "当晚与你记住流水声",
+      "startMs": 187634,
+      "endMs": 190418,
+      "units": [
+        {
+          "text": "当",
+          "startMs": 187634,
+          "endMs": 187842,
+          "sourceRow": 49,
+          "sourceUnit": 0,
+          "nativeText": "当",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 187842,
+          "endMs": 188049,
+          "sourceRow": 49,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "与",
+          "startMs": 188049,
+          "endMs": 188242,
+          "sourceRow": 49,
+          "sourceUnit": 2,
+          "nativeText": "与",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 188242,
+          "endMs": 188514,
+          "sourceRow": 49,
+          "sourceUnit": 3,
+          "nativeText": "你",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "记",
+          "startMs": 188514,
+          "endMs": 188993,
+          "sourceRow": 49,
+          "sourceUnit": 4,
+          "nativeText": "记",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "住",
+          "startMs": 188993,
+          "endMs": 189221,
+          "sourceRow": 49,
+          "sourceUnit": 5,
+          "nativeText": "住",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "流",
+          "startMs": 189221,
+          "endMs": 189908,
+          "sourceRow": 49,
+          "sourceUnit": 6,
+          "nativeText": "流",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "水",
+          "startMs": 189908,
+          "endMs": 190162,
+          "sourceRow": 49,
+          "sourceUnit": 7,
+          "nativeText": "水",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "声",
+          "startMs": 190162,
+          "endMs": 190418,
+          "sourceRow": 49,
+          "sourceUnit": 8,
+          "nativeText": "声",
+          "index": 8,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-46",
+      "kind": "lyric"
+    },
+    {
+      "text": "今晚站在大地自己倾听",
+      "startMs": 190834,
+      "endMs": 193987,
+      "units": [
+        {
+          "text": "今",
+          "startMs": 190834,
+          "endMs": 191074,
+          "sourceRow": 50,
+          "sourceUnit": 0,
+          "nativeText": "今",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "晚",
+          "startMs": 191074,
+          "endMs": 191362,
+          "sourceRow": 50,
+          "sourceUnit": 1,
+          "nativeText": "晚",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "站",
+          "startMs": 191362,
+          "endMs": 191554,
+          "sourceRow": 50,
+          "sourceUnit": 2,
+          "nativeText": "站",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "在",
+          "startMs": 191554,
+          "endMs": 191778,
+          "sourceRow": 50,
+          "sourceUnit": 3,
+          "nativeText": "在",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "大",
+          "startMs": 191778,
+          "endMs": 191939,
+          "sourceRow": 50,
+          "sourceUnit": 4,
+          "nativeText": "大",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": "地",
+          "startMs": 191939,
+          "endMs": 192258,
+          "sourceRow": 50,
+          "sourceUnit": 5,
+          "nativeText": "地",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "自",
+          "startMs": 192258,
+          "endMs": 192689,
+          "sourceRow": 50,
+          "sourceUnit": 6,
+          "nativeText": "自",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "己",
+          "startMs": 192689,
+          "endMs": 192930,
+          "sourceRow": 50,
+          "sourceUnit": 7,
+          "nativeText": "己",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "倾",
+          "startMs": 192930,
+          "endMs": 193361,
+          "sourceRow": 50,
+          "sourceUnit": 8,
+          "nativeText": "倾",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "听",
+          "startMs": 193361,
+          "endMs": 193987,
+          "sourceRow": 50,
+          "sourceUnit": 9,
+          "nativeText": "听",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-47",
+      "kind": "lyric"
+    },
+    {
+      "text": "难道送别你 回头总是虔诚",
+      "startMs": 194659,
+      "endMs": 198469,
+      "units": [
+        {
+          "text": "难",
+          "startMs": 194659,
+          "endMs": 194850,
+          "sourceRow": 51,
+          "sourceUnit": 0,
+          "nativeText": "难",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "道",
+          "startMs": 194850,
+          "endMs": 195122,
+          "sourceRow": 51,
+          "sourceUnit": 1,
+          "nativeText": "道",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "送",
+          "startMs": 195122,
+          "endMs": 195553,
+          "sourceRow": 51,
+          "sourceUnit": 2,
+          "nativeText": "送",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "别",
+          "startMs": 195553,
+          "endMs": 195810,
+          "sourceRow": 51,
+          "sourceUnit": 3,
+          "nativeText": "别",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": "你",
+          "startMs": 195810,
+          "endMs": 196482,
+          "sourceRow": 51,
+          "sourceUnit": 4,
+          "nativeText": "你",
+          "index": 4,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 196482,
+          "endMs": 196482,
+          "sourceRow": 51,
+          "sourceUnit": 5,
+          "nativeText": " ",
+          "index": 5,
+          "kind": "layout"
+        },
+        {
+          "text": "回",
+          "startMs": 196482,
+          "endMs": 196689,
+          "sourceRow": 51,
+          "sourceUnit": 6,
+          "nativeText": "回",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "头",
+          "startMs": 196689,
+          "endMs": 196994,
+          "sourceRow": 51,
+          "sourceUnit": 7,
+          "nativeText": "头",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "总",
+          "startMs": 196994,
+          "endMs": 197410,
+          "sourceRow": 51,
+          "sourceUnit": 8,
+          "nativeText": "总",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 197410,
+          "endMs": 197666,
+          "sourceRow": 51,
+          "sourceUnit": 9,
+          "nativeText": "是",
+          "index": 9,
+          "kind": "vocal"
+        },
+        {
+          "text": "虔",
+          "startMs": 197666,
+          "endMs": 198049,
+          "sourceRow": 51,
+          "sourceUnit": 10,
+          "nativeText": "虔",
+          "index": 10,
+          "kind": "vocal"
+        },
+        {
+          "text": "诚",
+          "startMs": 198049,
+          "endMs": 198469,
+          "sourceRow": 51,
+          "sourceUnit": 11,
+          "nativeText": "诚",
+          "index": 11,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-48",
+      "kind": "lyric"
+    },
+    {
+      "text": "谁能怪我 总是太感性",
+      "startMs": 198721,
+      "endMs": 206018,
+      "units": [
+        {
+          "text": "谁",
+          "startMs": 198721,
+          "endMs": 198914,
+          "sourceRow": 52,
+          "sourceUnit": 0,
+          "nativeText": "谁",
+          "index": 0,
+          "kind": "vocal"
+        },
+        {
+          "text": "能",
+          "startMs": 198914,
+          "endMs": 199283,
+          "sourceRow": 52,
+          "sourceUnit": 1,
+          "nativeText": "能",
+          "index": 1,
+          "kind": "vocal"
+        },
+        {
+          "text": "怪",
+          "startMs": 199283,
+          "endMs": 199522,
+          "sourceRow": 52,
+          "sourceUnit": 2,
+          "nativeText": "怪",
+          "index": 2,
+          "kind": "vocal"
+        },
+        {
+          "text": "我",
+          "startMs": 199522,
+          "endMs": 201154,
+          "sourceRow": 52,
+          "sourceUnit": 3,
+          "nativeText": "我",
+          "index": 3,
+          "kind": "vocal"
+        },
+        {
+          "text": " ",
+          "startMs": 201154,
+          "endMs": 201154,
+          "sourceRow": 52,
+          "sourceUnit": 4,
+          "nativeText": " ",
+          "index": 4,
+          "kind": "layout"
+        },
+        {
+          "text": "总",
+          "startMs": 201154,
+          "endMs": 201634,
+          "sourceRow": 52,
+          "sourceUnit": 5,
+          "nativeText": "总",
+          "index": 5,
+          "kind": "vocal"
+        },
+        {
+          "text": "是",
+          "startMs": 201634,
+          "endMs": 202130,
+          "sourceRow": 52,
+          "sourceUnit": 6,
+          "nativeText": "是",
+          "index": 6,
+          "kind": "vocal"
+        },
+        {
+          "text": "太",
+          "startMs": 202130,
+          "endMs": 202466,
+          "sourceRow": 52,
+          "sourceUnit": 7,
+          "nativeText": "太",
+          "index": 7,
+          "kind": "vocal"
+        },
+        {
+          "text": "感",
+          "startMs": 202466,
+          "endMs": 203138,
+          "sourceRow": 52,
+          "sourceUnit": 8,
+          "nativeText": "感",
+          "index": 8,
+          "kind": "vocal"
+        },
+        {
+          "text": "性",
+          "startMs": 203138,
+          "endMs": 206018,
+          "sourceRow": 52,
+          "sourceUnit": 9,
+          "nativeText": "性",
+          "index": 9,
+          "kind": "vocal"
+        }
+      ],
+      "id": "line-49",
+      "kind": "lyric"
+    }
+  ]
+}

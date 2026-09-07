@@ -1,41 +1,59 @@
-# 歌词视频制作原则
+# Working on songsmith
 
-本文件是唯一有效的项目制作规范，用户本次要求优先。以最新认可的方案为准，新规则直接替代冲突的旧规则，不向后兼容旧流程、视觉方案或接口，不为兼容保留双轨规范、适配层或废弃配置。采用 Remotion + React/TypeScript + 纯 SVG 制作歌词动画，以歌曲表达、阅读体验和成片质量决定题材、字体、配色与效果，不套用固定模板。更新规范时直接改写相关段落并清除冲突，不追加历史补丁。
+## Purpose and authority
 
-从歌曲出发，先理解歌词、声音气质和情绪变化，再确定视觉主题、字体关系、色彩逻辑、空间和一个有辨识度的记忆点。以用户最新认可的《One Last Kiss》精细 SVG 版为质量参考，借鉴其完整场景、器物细节、材质光影和阅读层次，不照搬具体题材或整套镜头。每页都按正式成片标准充分设计与绘制，不把示意图、占位符或低细节初稿当作交付；封面、主歌、副歌、间奏与结尾保持同等完成度。
+songsmith is a single Remotion workspace for illustrated, word-timed lyric films. React and TypeScript control SVG artwork, typography, native lyric timing, and final video output. Each song has its own visual direction. Use the latest approved implementation; replace obsolete code, instructions, and paths instead of maintaining compatibility layers or parallel policies.
 
-视觉设计必须充分使用 frontend-design，修改前完整阅读其 SKILL.md，并落实主题探索、设计与二次审视。按需使用 ui-ux-pro-max、Remotion 等技能，先读再用。UI/UX 指引用于排版、层级、可读性和运动连续性，不把网站、播放器、仪表盘或营销页面模板搬进音乐视频。已授权的制作连续推进，代表镜头通过检查后继续展开全曲。
+Current user instructions take precedence. Work on the current branch. Do not create branches, commit, publish, or start subagents without explicit authorization. Preserve unrelated work and existing films. Planning requests permit inspection only. Use apply_patch for source edits; mechanical moves and formatting may use the appropriate tools.
 
-画面由 SVG 原生路径、形状、渐变、透明层、遮罩和分组变换完成，歌词与译文独立排版。其他媒介仅在用户重新明确要求时采用，不保留摄影、实拍或生成图的兼容路线。按当前方案选择依赖与原生能力，不因旧实现限制设计；复杂度用于有意义的结构和动作，不用于技术展示。
+## Before making changes
 
-每幅 SVG 背景都从当前歌词的语义、隐喻和情绪出发，明确场所、主体、关系与叙事动作。意境可以具象或诗意转译，避免把歌词名词机械换成孤立图标。先建立有前中后景的完整空间，再精雕主体轮廓、结构、材质、环境陈设与生活痕迹；细节随景别和视觉焦点分配，近景经得起观看，远景具有空间层次。抽象与留白须有表达理由，不能用简陋几何体、大片空底或通篇缩放代替创作。
+Read this file completely. Before visual or timing work, also read [the production guide](docs/production.md) and the selected implementation's README. Fully read and apply the frontend-design skill for visual design. Use relevant Remotion skills and ui-ux-pro-max for layout, readability, and motion; report unavailable skills. Apply design guidance to a music video, not a website or player interface.
 
-充分发挥 SVG 路径、渐变、透明层与遮罩的表现力，精心绘制适合当前物件的结构与质感，例如镜片层次、金属接缝、木材纹理、织物褶皱、陶瓷釉面或植物分枝，不要求每页堆齐同一套效果。同一空间采用一致的透视或平行投影；器物的表面、厚度、侧面、支撑与附属物共享构造坐标，避免各自倾斜后拼接。比例、接触面、光源、投影与反射相互一致，运动全程核对连接、支点、着地与遮挡。复杂对象先核对结构，再作艺术概括，不能用装饰、滤镜或随机纹理掩盖造型不足。
+Inspect the selected composition, source lyrics, audio, fonts, and script dependencies before changing them. Source acquisition is an explicit preparation step, never a side effect of rendering. When the user authorizes reuse of existing audio and lyrics, reuse them without repeating network searches.
 
-先确定每个镜头的视觉焦点与文字留白，再绘制景物。左右分区、上下分区和较开阔的构图按句长与景物尺度选用，不强行每页同一版式。建立少量有语义角色的主色，区分环境、光、正文与强调色；明暗随情绪变化，整首保持色彩亲缘。避免无理由换色、实时反色和闪烁式对比度补偿。外部字体或获准使用的素材记录来源与许可，正式资产进入歌曲公共目录。
+## Environment and commands
 
-歌词是观看的核心。原文负责演唱节奏，译文帮助理解，背景提供空间与情绪。字体按语言和歌曲气质建立层级：中文正文可参考 Noto Sans CJK SC Medium，抒情日文可参考 Klee One，中文译文可参考霞鹜文楷，英文可参考 Manrope；保留更合适的选择，参考版本以实际字体声明为准。字形保持正体与稳定基线，不使用斜体、倾斜、旋转或非等比拉伸。强调通过有意义的颜色、字重、自然字号与短暂入场动画表达，换字体时保持阅读连贯。正文与译文在稳定承载面上以至少 4.5:1 对比度为基准，不能只检查静止背景。字体本地加载后测量，审查全曲字形与许可，不能假定其他歌曲的字体子集够用。
+Use one root npm installation and one root Python environment. Install JavaScript dependencies with `npm ci`. Open Studio with `npm run studio`; list compositions with `npm run compositions`. Use the exact `render:<official-title>:<model>` script in package.json for an export. Preserve Remotion's default rendering behavior unless a verified problem requires a minimal change.
 
-原文使用与当前录音匹配、来源可追溯的原生逐词或不可拆演唱单位时间。先盘点用户音频，再联网核对官方曲目信息与平台原生歌词，区分精确匹配和候选检索，核对版本、全文、时长及首、中、末人声位置。保存原始歌词和平台标识，结构化保存原文及每个单位的起止时间。推测、均分和识别结果不能冒充原生时间；原生来源不足时说明缺口，再确定制作方式。
+Run `npm run check` for source, data, and workspace checks. Use `npm run inspect` for representative rendered frames when typography or visuals change. Python scripts use `.venv/bin/python` with requirements.txt. FFmpeg and FFprobe must be on PATH for media checks. Declare directly imported packages as direct dependencies and keep all Remotion packages at the same version.
 
-外语歌曲默认采用原文逐词与中文逐句的双语编排。译文依据完整语意审校，允许自然调整中文语序，并按句或语义组绑定原文，兼顾流畅与对应关系。原唱英文同样翻译，吟唱记号保留原样。通常原文更醒目，译文在附近稳定呈现；具体大小、分组和布局按阅读速度与画面确定。
+## Ownership and naming
 
-逐词入场前测量整句最终排版，为未来文字预留固定位置与完整承载面。原文从左向右按原生单位出现，已有文字不随新字加入重新居中或向左增长。测量与绘制的字体、字重、字号、间距一致，留足上下笔画、英文下伸部和边缘空间。可读性显现与位移缓动分开控制，文字在演唱起点迅速可辨，不因长淡入造成“唱完才出现”；不以平移歌词掩盖显示延迟。入场后文字、译文与承载面稳定，无持续漂浮、重影、音量驱动或结束时再放大。
+Implementations live in `src/renders/<official-title>/<model>/`. Public song assets live in `public/songs/<official-title>/`; genuinely shared fonts live in `public/fonts/`. Preparation scripts live in `scripts/<official-title>/`, with model-specific checks in a model subdirectory. Exports live in `out/`; disposable reports and previews belong in `.work/`.
 
-承载面依据歌词含义与场景配色选择，不统一使用白底。整句背景面与该句首个演唱单位同时开始柔和显现，默认约 260ms，尺寸保持固定。全部承载面绘制在文字层下方，再绘制原文与译文；后一行的底色、遮罩和装饰不能覆盖前一行笔画。颜色与可读性同时检查入场、第二句出现和转场阶段。
+Keep official song titles, artist names, lyrics, translations, and on-screen song content in their original languages. Write engineering documentation, comments, diagnostics, and identifiers in English. Use English component filenames such as Video.tsx and Lyrics.tsx. Technical Composition and Folder identifiers use Remotion-compatible ASCII. Output filenames retain the official title and full model name.
 
-镜头按歌词语意、乐段和呼吸安排，每页独立推敲构图与内容，禁止通过整页复制、换色、换字或缩放敷衍复用。可以共享材质算法与基础绘制组件，回访意象时必须根据该次歌词重新发展观察位置、环境关系或叙事动作。允许有意延续场景和长镜头，避免为变化而换景。间奏给画面留下呼吸，完整保留歌曲时间线；歌词出现与换组跟随演唱，转场不吞掉时长。
+Keep Video.tsx as the directly imported implementation entry. Root.tsx explicitly registers lazy-loaded compositions. Share small, proven utilities; keep scene artwork and musical interpretation local to each work. Do not build a plugin framework, duplicate dependency environments, or add empty scaffolding.
 
-每个镜头围绕歌词设计有因果的主要动作，持续运动交给景物与光线，运动密度服从情绪和阅读。默认不绘制人物或孤立的人体肢体，用户明确授权后再采用。动作通过器物、机械或自然作用表达，支撑与传动关系清楚，避免道具像被隐形人操作。例如卷盘带动胶片、风牵动相连枝叶、光改变物件反射，避免无缘由悬浮或全场同时运动。同页后续歌词在原场景上平滑推进新的状态，不重新播放开场动画。逐页自审画面是否表达当前歌词、主体是否精细完整、细节是否有效、动作是否可信；背景单独看也应是一幅经过设计的插画，叠加歌词后仍有清楚的主次。发现模板化、结构失真或完成度不足就继续重绘，不以代码量或效果数量代替质量。
+## Art direction
 
-封面、片头和结尾属于整体设计。首帧清楚展示官方歌曲名与演唱者，随后连续进入动画，不能下一帧清空标题再重新显字。片头按前奏长度组织信息，时间不足就合并词曲、演唱等内容，避免连续短页闪现。进入正文前让片头信息平滑退出，避免与首句重叠。默认 1920×1080、60fps；成片使用官方歌曲名与模型完整名，保留官方语言和大小写。
+Start with the lyrics, vocal character, and emotional development. Define a distinctive theme, color logic, type hierarchy, spatial composition, and visual signature. Use the approved One Last Kiss SVG edition as a quality reference for complete settings, material detail, lighting, and reading hierarchy, without copying its subjects.
 
-使用单一 Remotion 工作区、统一依赖和根目录 Python 环境，Remotion 包版本保持一致。模型视觉实现位于 `src/renders/<song-slug>-<model-slug>/`，歌曲公共资产位于 `public/songs/<song-slug>/`，处理脚本位于 `scripts/<song-slug>/`，成片位于 `out/`。Composition 按歌曲分组并隔离加载，渲染命令使用 `render:<song-slug>:<model-slug>`。本次实现直接迭代最新方案，同步更新入口、脚本和文档，删除本次替换后已无用途的代码与配置，不维护旧版兼容。不同模型及用户要求并列比较的作品独立保留，必要时追加风格后缀；取消兼容不等于授权删除无关作品或共享资产。场景分别组织文件，只共享确有复用价值的绘制能力；歌词时间与视觉配置解耦。
+Build finished SVG illustrations, not placeholder geometry or isolated keyword icons. Compose foreground, subject, and background intentionally. Detail should follow scale and focus. Each scene needs meaningful objects, credible relationships, and an action that expresses the song. Maintain this quality through the cover, verses, choruses, instrumental sections, and ending.
 
-动画统一由 Remotion 帧时钟驱动，不依赖 CSS animation/transition 或真实时间；外部动画库须显式推进时间，随机结果可复现。往返用连续周期函数或缓动，循环首尾位置与速度衔接，不能取模后瞬移复位。单次状态变化完成后保持结果，转场期间旧场景继续运行。SVG 渐变、遮罩和裁切 ID 按镜头隔离，避免新旧场景叠加时引用串用；文字不使用会裁断字形的遮罩。水平或垂直线条的渐变描边使用显式坐标的 userSpaceOnUse 或纯色，避免 objectBoundingBox 的零尺寸边界使结构线消失，并在实际导出中确认可见。渲染优先采用 Remotion 默认配置，调整须有实际验证依据。
+Use SVG paths, shapes, gradients, masks, and grouped transforms. Other media require explicit user approval. Keep perspective, proportions, supports, joints, contact surfaces, and lighting coherent throughout motion. Do not draw people or isolated human body parts without authorization. Avoid objects that appear operated by invisible hands.
 
-先用代表静帧和实际导出的短片验证美术、双语密度、景物运动与音画时序，再完成整首。修改代码后运行对应 lint、类型检查和必要测试，检查原生时间保留、歌词覆盖、译文对应、字体、越界、图层遮挡、文字稳定性及转场。测试围绕真实风险，默认不做全片解码与孤立异常帧扫描，完整观感由用户检查。渲染时提供可见进度；中断后先确认进程与产物状态，保留已完成的有效结果，必要时重新渲染。
+Develop each scene independently. Shared primitives are welcome; recoloring or resizing an entire previous scene is not a new composition. A later line should advance the current setting smoothly. Revisiting an image must develop its framing, relationships, or action.
 
-导出后核对成片规格、帧数、总时长和音轨。在首、中、末比较导出音轨与原录音，发现偏移先定位解码、编码或封装问题，修复已证实的原因；视频无需改变时优先保留原编码数据。音轨一致性、歌词对唱和人工对听分别记录，明确已完成与未完成的检查。本次作品的修复方式与数值不自动推广到其他歌曲。
+## Lyrics and typography
 
-用户要求完整视频时，完成渲染并交付可播放成片；说明关键结果和实际限制。文件编辑使用 apply_patch，保留无关作品与用户已有修改。分支、协作和外部操作遵循用户授权；“先别改”时只分析，“渲染完停下”时交付后停止。
+Use source-traceable native words or indivisible sung units matched to the recording. For new recordings, search authoritative track and platform lyric sources online; verify the edition, complete text, duration, and opening, middle, and closing vocal anchors. Preserve original millisecond boundaries, source references, and raw responses. Never present ASR, uniform splitting, invented spacing timestamps, or guessed offsets as native vocal timing. Keep editorial text corrections distinguishable from source text. Report missing provenance honestly.
+
+Foreign-language vocals use native timed text with nearby, phrase-aligned Chinese translation. Preserve complete meaning and natural Chinese phrasing. English vocals are included; vocalise syllables remain unchanged.
+
+Measure the final line before revealing units. Reserve fixed positions and reveal from left to right without recentering or growing leftward. Match measured and rendered font settings, and allow for descenders, baselines, and safe margins. Wait for local fonts before exporting; verify glyph coverage and licenses.
+
+Choose fonts for the song. Noto Sans CJK SC Medium, Klee One, LXGW WenKai, and Manrope are useful references, not a mandatory palette. Keep glyphs upright and undistorted. Emphasis may use meaningful color, weight, natural size, and brief entry motion. Settled text must stay stable, without ghosting, audio-reactive movement, or a final enlargement.
+
+Design fixed lyric surfaces from the scene palette and meaning. Fade each surface in with its first sung unit, normally over 260 ms. Render all surfaces below all text. Aim for at least 4.5:1 text contrast against the actual surface through entry and transitions. Avoid live color inversion or flashing contrast compensation.
+
+## Timing and delivery
+
+Drive animation from Remotion's frame clock. Keep randomness reproducible, loops continuous in position and velocity, and the outgoing scene moving during transitions. Preserve the full recording timeline. Group changes follow the incoming vocal cue; transitions must not shorten the song.
+
+Show the official title and artist in the first frame, then continue naturally. Combine opening credits when the prelude is short. Avoid one-frame resets, rapid credit pages, and overlap with the first lyric. Default output is 1920 × 1080 at 60 fps.
+
+Validate representative stills and exported short clips before a full film. Check unit coverage, translations, fonts, bounds, layer order, stable text, and transitions. Do not run exhaustive video decoding or isolated-frame anomaly scans by default.
+
+After export, verify dimensions, frame count, duration, and audio presence. Compare sampled output audio with the recording; distinguish this check from lyric audition. Fix only demonstrated causes and keep song-specific remedies scoped. Show render progress. Deliver a playable full film when requested, state actual verification limits, and stop when the requested work is complete.
