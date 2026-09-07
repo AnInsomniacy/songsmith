@@ -60,11 +60,11 @@ test("every implementation has one entry and an exact render command", () => {
 
 test("README uses existing files and runnable commands", () => {
   const text = readFileSync(path.join(root, "README.md"), "utf8");
-  assert(
-    !/[\u3400-\u9fff]/u.test(
-      text.replace(/`[^`]*`/g, "").replace(/```[\s\S]*?```/g, ""),
-    ),
-  );
+  assert(!/\p{Script=Han}/u.test(text), "README must remain English, including code examples");
+  const pkg = JSON.parse(readFileSync(path.join(root, "package.json"), "utf8"));
+  for (const match of text.matchAll(/npm run (?:"([^"]+)"|([a-zA-Z0-9:-]+))/g)) {
+    assert(pkg.scripts[match[1] ?? match[2]], `Unknown README command: ${match[0]}`);
+  }
   for (const target of [
     "docs/assets/one-last-kiss-preview.png",
     "docs/production.md",

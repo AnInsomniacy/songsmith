@@ -33,11 +33,10 @@ npm ci
 npm run studio
 ```
 
-List available compositions or render a selected implementation:
+List the available compositions:
 
 ```sh
 npm run compositions
-npm run "render:不潮不用花钱:gpt-6-astra"
 ```
 
 All render commands are defined in [package.json](package.json). Outputs go to `out/` with the official song title and model name. Rendering uses local assets; it never downloads a replacement lyric.
