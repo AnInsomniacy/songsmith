@@ -1,60 +1,66 @@
-import type {ComponentType} from "react";
-import type {SceneClock} from "../types";
-import {PalmInvitation} from "./PalmInvitation";
-import {ShoeboxReveal} from "./ShoeboxReveal";
-import {LeftGlove} from "./LeftGlove";
-import {BellowsEye} from "./BellowsEye";
-import {AppleCatch} from "./AppleCatch";
-import {FoldingThought} from "./FoldingThought";
-import {KnockingDoor} from "./KnockingDoor";
-import {PocketSolo} from "./PocketSolo";
-import {RumourHats} from "./RumourHats";
-import {OrdinaryShirts} from "./OrdinaryShirts";
-import {AppleOrbit} from "./AppleOrbit";
-import {SeatCarousel} from "./SeatCarousel";
-import {TableKnock} from "./TableKnock";
-import {CuffUnlock} from "./CuffUnlock";
-import {ChickOnSofa} from "./ChickOnSofa";
-import {SofaLowAngle} from "./SofaLowAngle";
-import {ChipsOverhead} from "./ChipsOverhead";
-import {SofaLamp} from "./SofaLamp";
-import {CoatstandGreeting} from "./CoatstandGreeting";
-import {CaseGarden} from "./CaseGarden";
-import {ButtonPortal} from "./ButtonPortal";
-import {AssembledStage} from "./AssembledStage";
-import {MirrorPalm} from "./MirrorPalm";
-import {ShoeMobile} from "./ShoeMobile";
-import {ChairBow} from "./ChairBow";
-import {SofaCurtain} from "./SofaCurtain";
-import {ButtonHome} from "./ButtonHome";
-
-export const scenes = {
-  "palm-invitation": PalmInvitation,
-  "shoebox-reveal": ShoeboxReveal,
-  "left-glove": LeftGlove,
-  "bellows-eye": BellowsEye,
-  "apple-catch": AppleCatch,
-  "folding-thought": FoldingThought,
-  "knocking-door": KnockingDoor,
-  "pocket-solo": PocketSolo,
-  "rumour-hats": RumourHats,
-  "ordinary-shirts": OrdinaryShirts,
-  "apple-orbit": AppleOrbit,
-  "seat-carousel": SeatCarousel,
-  "table-knock": TableKnock,
-  "cuff-unlock": CuffUnlock,
-  "chick-on-sofa": ChickOnSofa,
-  "sofa-low-angle": SofaLowAngle,
-  "chips-overhead": ChipsOverhead,
-  "sofa-lamp": SofaLamp,
-  "coatstand-greeting": CoatstandGreeting,
-  "case-garden": CaseGarden,
-  "button-portal": ButtonPortal,
-  "assembled-stage": AssembledStage,
-  "mirror-palm": MirrorPalm,
-  "shoe-mobile": ShoeMobile,
-  "chair-bow": ChairBow,
-  "sofa-curtain": SofaCurtain,
-  "button-home": ButtonHome,
-} satisfies Record<string, ComponentType<SceneClock>>;
-export type ShotId = keyof typeof scenes;
+import type React from "react";
+import type { SceneProps } from "./craft";
+import { MusicShop } from "./MusicShop";
+import { Invention } from "./Invention";
+import { SofaSnacks } from "./SofaSnacks";
+import { RecordingRoom } from "./RecordingRoom";
+import { ListeningWindow } from "./ListeningWindow";
+import { RecordLibrary } from "./RecordLibrary";
+import { Crossroads } from "./Crossroads";
+import { ListeningRoom } from "./ListeningRoom";
+import { CornerCafe } from "./CornerCafe";
+import { Vending } from "./Vending";
+import { Luthier } from "./Luthier";
+import { StreetPercussion } from "./StreetPercussion";
+import { AwningOrchestra } from "./AwningOrchestra";
+import { Switchboard } from "./Switchboard";
+import { Mailroom } from "./Mailroom";
+import { Greenhouse } from "./Greenhouse";
+import { PrintDesk } from "./PrintDesk";
+import { Screenprint } from "./Screenprint";
+import { ShoeAtelier } from "./ShoeAtelier";
+import { CollectorShelf } from "./CollectorShelf";
+import { ToySession } from "./ToySession";
+import { NightRecords } from "./NightRecords";
+import { SignPainter } from "./SignPainter";
+import { NightCanopy } from "./NightCanopy";
+import { RooftopPercussion } from "./RooftopPercussion";
+import { OpenStage } from "./OpenStage";
+import { ValveAmplifier } from "./ValveAmplifier";
+import { BalconySession } from "./BalconySession";
+import { SkylineScene } from "./SkylineScene";
+import { LastGroove } from "./LastGroove";
+import { AfterHours } from "./AfterHours";
+export const sceneMap: Record<string, React.FC<SceneProps>> = {
+  "music-shop": MusicShop,
+  invention: Invention,
+  "sofa-snacks": SofaSnacks,
+  "recording-room": RecordingRoom,
+  "listening-window": ListeningWindow,
+  "record-library": RecordLibrary,
+  crossroads: Crossroads,
+  "listening-room": ListeningRoom,
+  "corner-cafe": CornerCafe,
+  vending: Vending,
+  luthier: Luthier,
+  "street-percussion": StreetPercussion,
+  "awning-orchestra": AwningOrchestra,
+  switchboard: Switchboard,
+  mailroom: Mailroom,
+  greenhouse: Greenhouse,
+  "print-desk": PrintDesk,
+  screenprint: Screenprint,
+  "shoe-atelier": ShoeAtelier,
+  "collector-shelf": CollectorShelf,
+  "toy-session": ToySession,
+  "night-records": NightRecords,
+  "sign-painter": SignPainter,
+  "night-canopy": NightCanopy,
+  "rooftop-percussion": RooftopPercussion,
+  "open-stage": OpenStage,
+  "valve-amplifier": ValveAmplifier,
+  "balcony-session": BalconySession,
+  skyline: SkylineScene,
+  "last-groove": LastGroove,
+  "after-hours": AfterHours,
+};

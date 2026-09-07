@@ -1,35 +1,59 @@
-import { C, type SceneProps } from "../design";
-import { World, Floor, Gear } from "./shared";
+import { C, type SceneProps, wave } from "../design";
+import { World, Gear } from "./shared";
+import { Materials, Parquet, Screw } from "./craft";
 export default function Gears(p: SceneProps) {
   const { id, t, q } = p;
   return (
     <World p={p}>
-      <Floor id={id} y={880} />
+      <Materials id={id} />
+      <Parquet id={id} y={900} />
       <path
-        d="M1190 140H1770V818H1190Z"
-        fill={C.night}
-        stroke={C.glass}
-        strokeWidth="2"
+        d="M1200 176Q1190 77 1480 74Q1770 77 1760 176V863H1200Z"
+        fill={`url(#${id}-wood)`}
       />
-      <rect
-        x="1210"
-        y="160"
-        width="540"
-        height="637"
-        fill={`url(#${id}-glass)`}
-      />
-      <Gear x={1390} y={388} r={137} angle={t * 8} color={C.sun} />
-      <Gear x={1573} y={581} r={117} angle={-t * 9.37} />
       <path
-        d={`M1388 387L${1420 + q * 180} 818M1574 581L${1700 + q * 90} 818`}
+        d="M1222 187Q1222 107 1480 108Q1738 107 1738 187V840H1222Z"
+        fill="#142B40"
+        stroke={C.sun}
+        strokeWidth="3"
+      />
+      <path d="M1254 230h450v407h-450Z" fill="#344958" />
+      <Gear x={1380} y={364} r={116} angle={t * 10} color="#D8B18A" />
+      <Gear x={1579} y={468} r={109} angle={-t * 10.64 + 7.5} color="#94B8B5" />
+      <Gear x={1350} y={562} r={72} angle={-t * 16.11} color="#A89988" />
+      <path
+        d="M1380 364v-147m199 251v163m-229-69v78"
         stroke={C.night}
-        strokeWidth="20"
-        opacity=".3"
+        strokeWidth="13"
       />
-      <circle cx="1390" cy="388" r="17" fill={C.white} />
-      <circle cx="1573" cy="581" r="14" fill={C.white} />
-      <path d="M1260 820H1710L1810 910H1320Z" fill={C.sun} opacity=".12" />
-      <path d="M1280 176V778M1320 176V778" stroke={C.white} opacity=".1" />
+      <path d="M1260 650h438" stroke={C.sun} strokeWidth="8" />
+      <g transform={`rotate(${wave(t, 3.4) * 7} 1480 638)`}>
+        <path d="M1480 638v114" stroke={`url(#${id}-brass)`} strokeWidth="8" />
+        <circle cx="1480" cy="786" r="44" fill={`url(#${id}-brass)`} />
+        <circle
+          cx="1480"
+          cy="786"
+          r="32"
+          fill="none"
+          stroke="#735D51"
+          strokeWidth="2"
+        />
+      </g>
+      <path d="M1240 205h48v600h-48Z" fill={C.white} opacity=".06" />
+      {[
+        [1238, 196],
+        [1724, 196],
+        [1238, 825],
+        [1724, 825],
+      ].map(([x, y]) => (
+        <Screw key={x + y} x={x} y={y} />
+      ))}
+      <path d="M1170 867h620v39h-620Z" fill={`url(#${id}-wood)`} />
+      <path
+        d={`M1540 640L${1690 + q * 55} 834H1630L1450 640Z`}
+        fill={C.sun}
+        opacity=".08"
+      />
     </World>
   );
 }
