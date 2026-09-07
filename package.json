@@ -2,7 +2,7 @@
   "name": "songsmith",
   "version": "1.0.0",
   "description": "Illustrated, word-timed lyric films built with Remotion and SVG",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@remotion/bundler": "4.0.507",

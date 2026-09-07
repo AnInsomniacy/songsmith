@@ -88,6 +88,6 @@ Run a song's prepare.mjs explicitly when rebuilding source references. Existing 
 
 For questions or defects, open a repository issue with the composition name, reproduction steps, and relevant output.
 
-## Rights
+## License
 
-The package is marked `UNLICENSED`; no open-source license is granted for the project. Songs, lyrics, and fonts retain their respective rights and license terms. Repository access does not grant permission to redistribute third-party material.
+The project code and documentation are licensed under the [MIT License](LICENSE). Third-party music, lyrics, fonts, and dependencies retain their respective licenses and are not relicensed by this grant.
