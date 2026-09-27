@@ -1,0 +1,68 @@
+{
+    "code": 1,
+    "message": "1. 稻香 - 周杰伦\n2. 稻香 (Demo) - 周杰伦\n3. 稻香 (Live) - 周杰伦\n4. 稻香 (Live) - 周杰伦\n5. 稻香 (Remix摇滚版) - 周杰伦",
+    "data": [
+        {
+            "name": "稻香",
+            "singer": [
+                "周杰伦"
+            ],
+            "album": "魔杰座",
+            "mid": "003aAYrm3GE0Ac",
+            "id": 449205,
+            "album_mid": "002Neh8l0uciQZ",
+            "duration": 223,
+            "image": "https://y.gtimg.cn/music/photo_new/T002R800x800M000002Neh8l0uciQZjpg?max_age=2592000"
+        },
+        {
+            "name": "稻香 (Demo)",
+            "singer": [
+                "周杰伦"
+            ],
+            "album": "",
+            "mid": "003joRpF3wA7e8",
+            "id": 376373350,
+            "album_mid": "",
+            "duration": 244,
+            "image": "https://y.gtimg.cn/music/photo_new/T002R800x800M000jpg?max_age=2592000"
+        },
+        {
+            "name": "稻香 (Live)",
+            "singer": [
+                "周杰伦"
+            ],
+            "album": "周杰伦地表最强世界巡回演唱会",
+            "mid": "000CTiz73EZBjB",
+            "id": 244115402,
+            "album_mid": "004fXSyj3bWTMN",
+            "duration": 213,
+            "image": "https://y.gtimg.cn/music/photo_new/T002R800x800M000004fXSyj3bWTMNjpg?max_age=2592000"
+        },
+        {
+            "name": "稻香 (Live)",
+            "singer": [
+                "周杰伦"
+            ],
+            "album": "The Era 2010 超时代演唱会",
+            "mid": "003bf4Fp1OWQ5N",
+            "id": 4829322,
+            "album_mid": "002o2a5G46ETLr",
+            "duration": 222,
+            "image": "https://y.gtimg.cn/music/photo_new/T002R800x800M000002o2a5G46ETLrjpg?max_age=2592000"
+        },
+        {
+            "name": "稻香 (Remix摇滚版)",
+            "singer": [
+                "周杰伦"
+            ],
+            "album": "稻香 (Remix摇滚版)",
+            "mid": "001ubLoM2oGN0i",
+            "id": 497994581,
+            "album_mid": "0039qQsU3Thnb5",
+            "duration": 143,
+            "image": "https://y.gtimg.cn/music/photo_new/T002R800x800M0000039qQsU3Thnb5jpg?max_age=2592000"
+        }
+    ],
+    "timestamp": 1790522683369,
+    "req_timestamp": 1790522683332
+}
